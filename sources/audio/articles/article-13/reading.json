@@ -1,0 +1,18 @@
+{
+  "id": "article-13",
+  "script": "sources/narration/article-13.txt",
+  "paragraph_start": 161,
+  "paragraph_end_exclusive": 168,
+  "slides": [
+    47
+  ],
+  "title": "FUTURE OF SIX FATHERLESS TOTS, WHOSE DADDIES GAVE LIVES TO CITY, DEPENDS ON RELIEF DRIVE.",
+  "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+  "approved": "User accepted Gazette Article Contents as accurate",
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts",
+  "voice": "cedar",
+  "chunks": 1,
+  "sha256": "16dff280a1308fc73e8199fb0903df60696c727080560ad1a3221df4fc88fcc4",
+  "full_listening_review": "not performed"
+}

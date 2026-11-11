@@ -1,0 +1,18 @@
+{
+  "id": "article-24",
+  "script": "sources/narration/article-24.txt",
+  "paragraph_start": 324,
+  "paragraph_end_exclusive": 332,
+  "slides": [
+    67
+  ],
+  "title": "BURNED CHURCH TO BE REBUILT BY FALL OF '26",
+  "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+  "approved": "User accepted Gazette Article Contents as accurate",
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts",
+  "voice": "cedar",
+  "chunks": 1,
+  "sha256": "e947abfa9228d8e8e9e11df78f5f61fa11d55311bed6959eb23402d20ad72d97",
+  "full_listening_review": "not performed"
+}

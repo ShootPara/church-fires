@@ -1,0 +1,18 @@
+{
+  "id": "article-15",
+  "script": "sources/narration/article-15.txt",
+  "paragraph_start": 178,
+  "paragraph_end_exclusive": 185,
+  "slides": [
+    50
+  ],
+  "title": "FIRE ORIGIN UNKNOWN",
+  "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+  "approved": "User accepted Gazette Article Contents as accurate",
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts",
+  "voice": "cedar",
+  "chunks": 1,
+  "sha256": "c2a7de9ded71482cf67ab1b838c4229ba40054160e117089b2f11b25423906fc",
+  "full_listening_review": "not performed"
+}

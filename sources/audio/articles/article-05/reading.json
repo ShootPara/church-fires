@@ -1,0 +1,18 @@
+{
+  "id": "article-05",
+  "script": "sources/narration/article-05.txt",
+  "paragraph_start": 53,
+  "paragraph_end_exclusive": 62,
+  "slides": [
+    33
+  ],
+  "title": "FIFTH CHURCH FIRE CAUSES $500 LOSS",
+  "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+  "approved": "User accepted Gazette Article Contents as accurate",
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts",
+  "voice": "cedar",
+  "chunks": 1,
+  "sha256": "ccb57f819ad1e35532f3baa9ed68ab584c780537de5b8790a8a27ae589823d45",
+  "full_listening_review": "not performed"
+}

@@ -1,3 +1,18 @@
 # Local scratch files and disposable imports
 /ignore/
 
+
+# Python extraction caches and private local credentials
+__pycache__/
+*.pyc
+.env
+.env.*
+
+/dev.vars
+# Generated deployment directory and audio intermediates
+/dist/
+/sources/audio/opening-[0-9][0-9].mp3
+/sources/audio/opening-joined.mp3
+/sources/audio/articles/*/[0-9][0-9].mp3
+/sources/audio/articles/*/joined.mp3
+/sources/audio/**/*.pending.json

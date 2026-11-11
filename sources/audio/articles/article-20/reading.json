@@ -1,0 +1,18 @@
+{
+  "id": "article-20",
+  "script": "sources/narration/article-20.txt",
+  "paragraph_start": 233,
+  "paragraph_end_exclusive": 241,
+  "slides": [
+    57
+  ],
+  "title": "RED HOT FLUE RAZED CHURCH, PROBERS FIND",
+  "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+  "approved": "User accepted Gazette Article Contents as accurate",
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts",
+  "voice": "cedar",
+  "chunks": 1,
+  "sha256": "fc15e12a669a02952646a0b2d14453c25b71fde918f13e668f2e1c82a03948eb",
+  "full_listening_review": "not performed"
+}

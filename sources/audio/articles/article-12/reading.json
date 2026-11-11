@@ -1,0 +1,18 @@
+{
+  "id": "article-12",
+  "script": "sources/narration/article-12.txt",
+  "paragraph_start": 155,
+  "paragraph_end_exclusive": 161,
+  "slides": [
+    45
+  ],
+  "title": "THE BEST REWARD FOR VALOR.",
+  "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+  "approved": "User accepted Gazette Article Contents as accurate",
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts",
+  "voice": "cedar",
+  "chunks": 2,
+  "sha256": "9695581b4b18470c1ebeee109e25548927837c6452d3d7e58295518bcd8b6e6e",
+  "full_listening_review": "not performed"
+}

@@ -1,0 +1,695 @@
+{
+  "source_root": "G:\\My Drive\\Church Fires Presentation",
+  "files": [
+    {
+      "source_path": "3rd Church Spin0001-0120.mp4",
+      "bytes": 3856223,
+      "sha256": "ba1f077df58216db8b1fd7d6f592542fd2d6f1522450fd4c1b273f20635f99b2",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "4th Church Spin0001-0120.mp4",
+      "bytes": 5480920,
+      "sha256": "7b6389e69df8e4f52e1c9733cce06fdae7105dfb2490c11829f3a8bcab5fb7d9",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Article Text to be read verbatim.gdoc",
+      "bytes": 180,
+      "sha256": null,
+      "checksum_note": "Native Google pointer; content captured separately",
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "desktop.ini",
+      "bytes": 352,
+      "sha256": "7dc1c0c0335e5368e06b0e7f966d5328c7f1ac74b107cf18a8b234d99ba93b4e",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "FCC Churches 05252025.blend",
+      "bytes": 194112037,
+      "sha256": "25f32b7dc675a3287abeffc67897d4954eb2c79b7f370b3f4b48c34840d01df6",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Four FCC Churches Solid Models.blend",
+      "bytes": 79072222,
+      "sha256": "31b4fbd6b1833db1d5b07d397ab383660d9ff3eaf30cacb99aca7667f70b53d6",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/01 Congregational Church Burns.mp3",
+      "bytes": 5099000,
+      "sha256": "9473ebf72fc6e75409ddef341a70719dcb36b903bd7f5b1ced8622e2ed3bbe6a",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/02 2 Die in ME Church Fire.mp3",
+      "bytes": 3700091,
+      "sha256": "d5f8d10a3b8138aa026089de709ab1f656b3089663e03321100316602303e56b",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/03 Three Lines of Hose Burst.mp3",
+      "bytes": 2139431,
+      "sha256": "0263f0574ccac91f814544d8ab0ded86bd0fac18b0709b4a73c838501d7388c3",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/04 Methodist Church to be Torn Down.mp3",
+      "bytes": 716280,
+      "sha256": "a4d426e50f746115a01d153df8986ae354f8906b1ecbbcb014ec57cebe4d982d",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/05 Fifth Church Fire Causes 500 Loss.mp3",
+      "bytes": 1314798,
+      "sha256": "295b913f5dbc8bb7cd4fee7f8b774e18c7fb3e1fd6455de68e5109d7d54e0e5a",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/06 Probing New Church Fire.mp3",
+      "bytes": 1726905,
+      "sha256": "fc0bed11dc922e8dc84d3ac0a173ae16b705b6fc49a703464ffbf2c12603c38e",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/07 Presbyterian Church Fire Loss 100000.mp3",
+      "bytes": 6232088,
+      "sha256": "3aaf01892c96c27270e71ec4a1fee4449deffa6596903e081ae798cded40bf1c",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/08 Falling Balcony Crushes Firemen.mp3",
+      "bytes": 7523581,
+      "sha256": "65a89d28c728a8204488f88548b4b793a29acdf52daba2ef045bf35f874a39e8",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/09 Brave Men and Good Firemen.mp3",
+      "bytes": 2424061,
+      "sha256": "32c65502b337a137dab7d307b8799aa305aa323cfd5a4dbf43290daa1d7eb31d",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/10 Bury John Morren with Full Honors.mp3",
+      "bytes": 1726488,
+      "sha256": "7bf2bec4cbe22482322667cdd7f73dba939d5db17dfd56861851663cac410984",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/11 Memorial will be Held for Firemen.mp3",
+      "bytes": 523601,
+      "sha256": "332f9cec48d10156e87f6edd7c96eb0783633ee7d98deaafcbf43d5902cd9012",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/12 The Best Reward for Valor.mp3",
+      "bytes": 2554883,
+      "sha256": "9efe9f444317ef8176592dcb6fbebc3d9a3205e4993141049df87412917273b9",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/13 Future of Sic Fathless Tots.mp3",
+      "bytes": 1187320,
+      "sha256": "fc29fccfafa6902bc7056022abc0262d43d4670b42eda0b28a4957106deab369",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/14 Hopes to Raise 4000.mp3",
+      "bytes": 2459170,
+      "sha256": "bcc4a80b32c26dd26837b4cb24f168df04522b699a0f97d30e193c03a040676c",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/15 Fire Origin Unknown.mp3",
+      "bytes": 2376832,
+      "sha256": "701d1fad090ed14ebeabae01a1771419839a96cd3a6c4d9eae3c2895be270f54",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/16 Fears Walls May Crumble.mp3",
+      "bytes": 1642060,
+      "sha256": "131dd5a2c5f185ebaa8835fc3f77df8833adf9238c5bacdab852dda9e9fd9cf4",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/17 Another Church Fire.mp3",
+      "bytes": 2371816,
+      "sha256": "d1919ffa97b5f4af674dcb6cd2fadc00b720aa15ba1c3961a8d28b9df2989990",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/18 Church Cornerstone.mp3",
+      "bytes": 7512296,
+      "sha256": "efd15b10465f8f52d399a666c1125a491cecf6b81c8d38e3fa84124c8244a7ae",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/19 Discuss Origin of Fire.mp3",
+      "bytes": 1224519,
+      "sha256": "d11568e861f7516a4fcf6c5b3ee49f1fcea9d98a3eb6ab52007e61cb082e9dd3",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/20 Red Hot Flue Razed Church.mp3",
+      "bytes": 1729413,
+      "sha256": "d3ab714fbac143da086f5dfcd9cb3bf8bd1e35cbd33ed82046a7e78651a29078",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/21 Set by Firebug Belief.mp3",
+      "bytes": 3170954,
+      "sha256": "2df8c3621dbae287d8b0e6fdd04d52c7e07c9aae50634f3a1d66829ba7a9374f",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/22 Presby Church Fire Loss 100000.mp3",
+      "bytes": 4912590,
+      "sha256": "a2344f06aec97986f29882d9ed97caa1f1cae4cc3cdbe04d69c14cb21a2d9f3e",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/23 Presbys WIll Meet at HS.mp3",
+      "bytes": 1420541,
+      "sha256": "57c9e7bbc6261960f64526f2ade253704858e8ee4139935985b182af363748c8",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/24 Burned Church to be Rebuilt.mp3",
+      "bytes": 1844352,
+      "sha256": "9555e0ef127eea06b6f9cf7567ec1c2264c217ff9f029f307853e8ed6ddc4270",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/25 Start Work on 250000 Church.mp3",
+      "bytes": 1998997,
+      "sha256": "cce0f1cf629e7dc8aa554c78d559f23b1f727908a128b6e740287316911b88ef",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/26 1960s Retrospective on Arsons.mp3",
+      "bytes": 2349986,
+      "sha256": "5e31de48e1ae310e4ea2ddb6876de71cb1e8889fbf682764eb5041c4b6acfc01",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Audios/desktop.ini",
+      "bytes": 352,
+      "sha256": "7dc1c0c0335e5368e06b0e7f966d5328c7f1ac74b107cf18a8b234d99ba93b4e",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazette Article Contents.gdoc",
+      "bytes": 180,
+      "sha256": null,
+      "checksum_note": "Native Google pointer; content captured separately",
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/desktop.ini",
+      "bytes": 352,
+      "sha256": "7dc1c0c0335e5368e06b0e7f966d5328c7f1ac74b107cf18a8b234d99ba93b4e",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___April_10_1926__p6 (First Methodist torn down).pdf",
+      "bytes": 4274110,
+      "sha256": "d9beaa89a293b6e310026522b6a90e023954694c7ae0c03fd23925de80a2d386",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___April_2_1926__p1 (New Church Plans).pdf",
+      "bytes": 5565341,
+      "sha256": "c3232228bd9b20f935cedf5c9e36494290629551a3c5469c0077491713b53e6d",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___April_6_1926__p14 (Items for sale).pdf",
+      "bytes": 5186534,
+      "sha256": "9082da47a411a08c3af2f92661cbe8a4a78e81fb4d88d18fd35ae5088e134925",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___December_29_1925__p1 (First Article 1 of 2).pdf",
+      "bytes": 5024597,
+      "sha256": "e87e299f1cc97d75e79d291c5c83b6680ffb7d9238dd8483a31323038dac164d",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___December_29_1925__p2 (First Article 2 of 2).pdf",
+      "bytes": 5100819,
+      "sha256": "4c647885364757c00dd2422eba0b52993387fb5cc8921ac872c3012b15457180",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___December_30_1925__p1 (Fire origin unknown 1 of 2).pdf",
+      "bytes": 5050382,
+      "sha256": "cf1b247ec3667719f3f7bbf315f0eb751f8a892b8d8072417b222b8b28a80e28",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___December_30_1925__p2 (Fire origin unknown 2 of 2).pdf",
+      "bytes": 4890021,
+      "sha256": "9afec73ef4324d019dddbe2404c7da63a7d77d355d0fe9906baac0c8e63d754e",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___July_7_1926__p1 (Presby Fire 1 of 2).pdf",
+      "bytes": 5337953,
+      "sha256": "dc53b7fff32990c248255de2f90f36a864492e267fa029ec78fff11ae5a130e2",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___July_7_1926__p20 (Presby Fire 2 of 2).pdf",
+      "bytes": 4747216,
+      "sha256": "1d13a9e4db39f2637c5fad779330b44fd184bf864dd3699532cd845a4b60c699",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___July_8_1926__p1 (Presby Fire Next Day).pdf",
+      "bytes": 5618908,
+      "sha256": "67a4b5f2cd715b3c195479c245fcb91c696603b95fe9b593646c6759818ad673",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___July_8_1926__p4 (Three Fires Speculation).pdf",
+      "bytes": 5468610,
+      "sha256": "cb1aa19cc9be531452561718ed094d7244a0a79e928ff4ce8c50244661aa784d",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___July_9_1926__p2 (Presby Fire Investigation).pdf",
+      "bytes": 4743122,
+      "sha256": "612d3a14b47cff1c5b244fc98718fe87257d3a09d78b684ec1e38966da448d8b",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___June_13_1926__p28 (Slater Funeral).pdf",
+      "bytes": 4940390,
+      "sha256": "2920410bb9e62f934fc2a37970bdb3e0512252f1ffa6c7ae829677a17ab53a05",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___June_2_1926__p1 (First Presby Fire Cigarette).pdf",
+      "bytes": 5321641,
+      "sha256": "8944aa26a3179e8b8b16bc1f17eb68a58d0aac2e9f9ac4ddbd941e25417b397e",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_14_1926__p1 (First Methodist Fire 1 of 2).pdf",
+      "bytes": 4743613,
+      "sha256": "76695dc3baf94678e95730ea5de050641075fb39af837454b2a162782b0c57e3",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_14_1926__p2 (First Methodist Fire 2 of 2).pdf",
+      "bytes": 5496505,
+      "sha256": "b77e6007c2db59200cae023a499e7fdc265858210e43f70d3890a70689828db2",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_14_1926__p4 (First Methodist Firefighters Story).pdf",
+      "bytes": 5275537,
+      "sha256": "b92d7102056aab1399c3e6cb4133da2fd82a9ebcf1f23412f95326ed0907f098",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_17_1926__p1 (Methodist Firefighter Died).pdf",
+      "bytes": 5221524,
+      "sha256": "975ec4da02ea51b3cdadbd4208c9737cf31bea8a9cb847af099ec967d3db011d",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_19_1926__p4 (Methodost Firefighters Honored).pdf",
+      "bytes": 5293991,
+      "sha256": "a37ccdf13e6e7eccae861ccc193ab0cc6d9363dec843b196e959a50ed0933c88",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_21_1926__p2 (Methodist Firefighters Kids).pdf",
+      "bytes": 5186258,
+      "sha256": "62bf7e8791c438dd8f34e3f578b979328343db377b83f932d75bb1b595e3b9c5",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_24_1926__p10 (Methodist Overheated Furnace).pdf",
+      "bytes": 3990814,
+      "sha256": "00c6125a615ceeb839bf64348a509db94ed9466ff50a1f83e41839b41cc5723d",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_7_1926__p6 (Cornerstone Contents).pdf",
+      "bytes": 4189820,
+      "sha256": "70d0a63d607397fe11f30118769cdf879b10cebd39e99c71cd2795972983c8b9",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Kalamazoo Church Fires Presentation.gslides",
+      "bytes": 180,
+      "sha256": null,
+      "checksum_note": "Native Google pointer; content captured separately",
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Slide Summaries Script.gdoc",
+      "bytes": 180,
+      "sha256": null,
+      "checksum_note": "Native Google pointer; content captured separately",
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Visualizer/Copy of FCC Churches 1-4.blend",
+      "bytes": 194112037,
+      "sha256": "25f32b7dc675a3287abeffc67897d4954eb2c79b7f370b3f4b48c34840d01df6",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Visualizer/desktop.ini",
+      "bytes": 352,
+      "sha256": "7dc1c0c0335e5368e06b0e7f966d5328c7f1ac74b107cf18a8b234d99ba93b4e",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Visualizer/FCC First Church - Simple v1.glb",
+      "bytes": 1026904,
+      "sha256": "5279bbb8efa65ca638f31c73d8a0c7a40941ccd50e380f2048bcaceaf8b6b0fd",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Visualizer/FCC First Church.glb",
+      "bytes": 2566108,
+      "sha256": "632d2575eeddcd6a64e652bae80afb7f2a1236728464652f1313b0e9b1105924",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Visualizer/FCC Fourth Church - Subdued windows.glb",
+      "bytes": 9306844,
+      "sha256": "3fb3e4157cd75383236c7c6dbb6eab5a7c280432d593c67a38a8cdfe5b041246",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Visualizer/FCC Fourth Church.glb",
+      "bytes": 10800720,
+      "sha256": "95e950f82a00fcb4cd7652ec6a476db73c5ce9948775141a87b73a8402c6373d",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Visualizer/FCC Second Church.glb",
+      "bytes": 5007808,
+      "sha256": "53385487d69463d812ea4ff47dcaa0125ecfa0cc4f9b077cdb136f88fcbecf4a",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Visualizer/FCC Third Church - Before merged frames.glb",
+      "bytes": 2965056,
+      "sha256": "5f77e03f21eea2f25eb148b6e6303d8586b5cf273b98a4297e2af107628f220e",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Visualizer/FCC Third Church.glb",
+      "bytes": 5135388,
+      "sha256": "77c1ab3e3290274ce7f44eda4c8dd6473addda365fefedaf5b4c853f45d2adb4",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    },
+    {
+      "source_path": "Visualizer/Four FCC Churches - Visualizer.blend",
+      "bytes": 53911539,
+      "sha256": "b32601f78813b24413980e3091e8495c429b1970a8e62242fceb8107a1caf3af",
+      "checksum_note": null,
+      "rights": "unreviewed",
+      "attribution": null,
+      "transformation": "none; inventory only",
+      "output_path": null
+    }
+  ]
+}

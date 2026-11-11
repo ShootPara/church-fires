@@ -1,0 +1,18 @@
+{
+  "id": "article-06",
+  "script": "sources/narration/article-06.txt",
+  "paragraph_start": 62,
+  "paragraph_end_exclusive": 77,
+  "slides": [
+    34
+  ],
+  "title": "PROBING NEW CHURCH FIRE",
+  "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+  "approved": "User accepted Gazette Article Contents as accurate",
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts",
+  "voice": "cedar",
+  "chunks": 1,
+  "sha256": "b1734f7e1b8e08d33c32112611e37cae2bcc8c3732fe229cf0c7a1258daf7ea9",
+  "full_listening_review": "not performed"
+}

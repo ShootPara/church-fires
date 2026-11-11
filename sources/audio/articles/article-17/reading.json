@@ -1,0 +1,18 @@
+{
+  "id": "article-17",
+  "script": "sources/narration/article-17.txt",
+  "paragraph_start": 193,
+  "paragraph_end_exclusive": 198,
+  "slides": [
+    52
+  ],
+  "title": "ANOTHER CHURCH FIRE",
+  "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+  "approved": "User accepted Gazette Article Contents as accurate",
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts",
+  "voice": "cedar",
+  "chunks": 1,
+  "sha256": "cd777797c8b0943bc25014bdad89ca2dddb94d689c89875e02e390057bcb5ee7",
+  "full_listening_review": "not performed"
+}

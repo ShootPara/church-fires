@@ -1,0 +1,7 @@
+file 'opening-01.mp3'
+file 'opening-02.mp3'
+file 'opening-03.mp3'
+file 'opening-04.mp3'
+file 'opening-05.mp3'
+file 'opening-06.mp3'
+file 'opening-07.mp3'

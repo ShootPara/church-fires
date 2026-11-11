@@ -1,0 +1,18 @@
+{
+  "id": "article-11",
+  "script": "sources/narration/article-11.txt",
+  "paragraph_start": 151,
+  "paragraph_end_exclusive": 155,
+  "slides": [
+    44
+  ],
+  "title": "MEMORIAL WILL BE HELD FOR FIREMEN",
+  "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+  "approved": "User accepted Gazette Article Contents as accurate",
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts",
+  "voice": "cedar",
+  "chunks": 1,
+  "sha256": "3de67c1714ed1a5ad7000660a69aa846a6dcf1bf0f725c94ca9d9d81d14f14ff",
+  "full_listening_review": "not performed"
+}

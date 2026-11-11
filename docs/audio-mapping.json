@@ -1,0 +1,558 @@
+[
+  {
+    "clip_id": "article-01",
+    "original_audio": "Gazette Article Audios/01 Congregational Church Burns.mp3",
+    "audio_sha256": "9473ebf72fc6e75409ddef341a70719dcb36b903bd7f5b1ced8622e2ed3bbe6a",
+    "candidate_slides": [
+      21,
+      22
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___December_29_1925__p1 (First Article 1 of 2).pdf",
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___December_29_1925__p2 (First Article 2 of 2).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-01.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      21
+    ],
+    "replacement_audio": "sources/audio/articles/article-01/reading.mp3"
+  },
+  {
+    "clip_id": "article-02",
+    "original_audio": "Gazette Article Audios/02 2 Die in ME Church Fire.mp3",
+    "audio_sha256": "d5f8d10a3b8138aa026089de709ab1f656b3089663e03321100316602303e56b",
+    "candidate_slides": [
+      29,
+      30
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_14_1926__p1 (First Methodist Fire 1 of 2).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-02.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      29
+    ],
+    "replacement_audio": "sources/audio/articles/article-02/reading.mp3"
+  },
+  {
+    "clip_id": "article-03",
+    "original_audio": "Gazette Article Audios/03 Three Lines of Hose Burst.mp3",
+    "audio_sha256": "0263f0574ccac91f814544d8ab0ded86bd0fac18b0709b4a73c838501d7388c3",
+    "candidate_slides": [
+      31
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_14_1926__p2 (First Methodist Fire 2 of 2).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-03.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      31
+    ],
+    "replacement_audio": "sources/audio/articles/article-03/reading.mp3"
+  },
+  {
+    "clip_id": "article-04",
+    "original_audio": "Gazette Article Audios/04 Methodist Church to be Torn Down.mp3",
+    "audio_sha256": "a4d426e50f746115a01d153df8986ae354f8906b1ecbbcb014ec57cebe4d982d",
+    "candidate_slides": [
+      32
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___April_10_1926__p6 (First Methodist torn down).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-04.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      32
+    ],
+    "replacement_audio": "sources/audio/articles/article-04/reading.mp3"
+  },
+  {
+    "clip_id": "article-05",
+    "original_audio": "Gazette Article Audios/05 Fifth Church Fire Causes 500 Loss.mp3",
+    "audio_sha256": "295b913f5dbc8bb7cd4fee7f8b774e18c7fb3e1fd6455de68e5109d7d54e0e5a",
+    "candidate_slides": [
+      33
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___June_2_1926__p1 (First Presby Fire Cigarette).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-05.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      33
+    ],
+    "replacement_audio": "sources/audio/articles/article-05/reading.mp3"
+  },
+  {
+    "clip_id": "article-06",
+    "original_audio": "Gazette Article Audios/06 Probing New Church Fire.mp3",
+    "audio_sha256": "fc0bed11dc922e8dc84d3ac0a173ae16b705b6fc49a703464ffbf2c12603c38e",
+    "candidate_slides": [
+      34
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___July_7_1926__p1 (Presby Fire 1 of 2).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-06.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      34
+    ],
+    "replacement_audio": "sources/audio/articles/article-06/reading.mp3"
+  },
+  {
+    "clip_id": "article-07",
+    "original_audio": "Gazette Article Audios/07 Presbyterian Church Fire Loss 100000.mp3",
+    "audio_sha256": "3aaf01892c96c27270e71ec4a1fee4449deffa6596903e081ae798cded40bf1c",
+    "candidate_slides": [
+      35,
+      36
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___July_7_1926__p20 (Presby Fire 2 of 2).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-07.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      35
+    ],
+    "replacement_audio": "sources/audio/articles/article-07/reading.mp3"
+  },
+  {
+    "clip_id": "article-08",
+    "original_audio": "Gazette Article Audios/08 Falling Balcony Crushes Firemen.mp3",
+    "audio_sha256": "65a89d28c728a8204488f88548b4b793a29acdf52daba2ef045bf35f874a39e8",
+    "candidate_slides": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_14_1926__p4 (First Methodist Firefighters Story).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-08.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      39
+    ],
+    "replacement_audio": "sources/audio/articles/article-08/reading.mp3"
+  },
+  {
+    "clip_id": "article-09",
+    "original_audio": "Gazette Article Audios/09 Brave Men and Good Firemen.mp3",
+    "audio_sha256": "32c65502b337a137dab7d307b8799aa305aa323cfd5a4dbf43290daa1d7eb31d",
+    "candidate_slides": [
+      43
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_14_1926__p4 (First Methodist Firefighters Story).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-09.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      43
+    ],
+    "replacement_audio": "sources/audio/articles/article-09/reading.mp3"
+  },
+  {
+    "clip_id": "article-10",
+    "original_audio": "Gazette Article Audios/10 Bury John Morren with Full Honors.mp3",
+    "audio_sha256": "7bf2bec4cbe22482322667cdd7f73dba939d5db17dfd56861851663cac410984",
+    "candidate_slides": [
+      44
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_17_1926__p1 (Methodist Firefighter Died).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-10.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      44
+    ],
+    "replacement_audio": "sources/audio/articles/article-10/reading.mp3"
+  },
+  {
+    "clip_id": "article-11",
+    "original_audio": "Gazette Article Audios/11 Memorial will be Held for Firemen.mp3",
+    "audio_sha256": "332f9cec48d10156e87f6edd7c96eb0783633ee7d98deaafcbf43d5902cd9012",
+    "candidate_slides": [
+      44
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___June_13_1926__p28 (Slater Funeral).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-11.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      44
+    ],
+    "replacement_audio": "sources/audio/articles/article-11/reading.mp3"
+  },
+  {
+    "clip_id": "article-12",
+    "original_audio": "Gazette Article Audios/12 The Best Reward for Valor.mp3",
+    "audio_sha256": "9efe9f444317ef8176592dcb6fbebc3d9a3205e4993141049df87412917273b9",
+    "candidate_slides": [
+      45,
+      46
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_19_1926__p4 (Methodost Firefighters Honored).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-12.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      45
+    ],
+    "replacement_audio": "sources/audio/articles/article-12/reading.mp3"
+  },
+  {
+    "clip_id": "article-13",
+    "original_audio": "Gazette Article Audios/13 Future of Sic Fathless Tots.mp3",
+    "audio_sha256": "fc29fccfafa6902bc7056022abc0262d43d4670b42eda0b28a4957106deab369",
+    "candidate_slides": [
+      47
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_21_1926__p2 (Methodist Firefighters Kids).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-13.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      47
+    ],
+    "replacement_audio": "sources/audio/articles/article-13/reading.mp3"
+  },
+  {
+    "clip_id": "article-14",
+    "original_audio": "Gazette Article Audios/14 Hopes to Raise 4000.mp3",
+    "audio_sha256": "bcc4a80b32c26dd26837b4cb24f168df04522b699a0f97d30e193c03a040676c",
+    "candidate_slides": [
+      48
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_21_1926__p2 (Methodist Firefighters Kids).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-14.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      48
+    ],
+    "replacement_audio": "sources/audio/articles/article-14/reading.mp3"
+  },
+  {
+    "clip_id": "article-15",
+    "original_audio": "Gazette Article Audios/15 Fire Origin Unknown.mp3",
+    "audio_sha256": "701d1fad090ed14ebeabae01a1771419839a96cd3a6c4d9eae3c2895be270f54",
+    "candidate_slides": [
+      50
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___December_30_1925__p1 (Fire origin unknown 1 of 2).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-15.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      50
+    ],
+    "replacement_audio": "sources/audio/articles/article-15/reading.mp3"
+  },
+  {
+    "clip_id": "article-16",
+    "original_audio": "Gazette Article Audios/16 Fears Walls May Crumble.mp3",
+    "audio_sha256": "131dd5a2c5f185ebaa8835fc3f77df8833adf9238c5bacdab852dda9e9fd9cf4",
+    "candidate_slides": [
+      51
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___December_30_1925__p2 (Fire origin unknown 2 of 2).pdf"
+    ],
+    "status": "Replacement generated; user-approved slide correction",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-16.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      51
+    ],
+    "replacement_audio": "sources/audio/articles/article-16/reading.mp3"
+  },
+  {
+    "clip_id": "article-17",
+    "original_audio": "Gazette Article Audios/17 Another Church Fire.mp3",
+    "audio_sha256": "d1919ffa97b5f4af674dcb6cd2fadc00b720aa15ba1c3961a8d28b9df2989990",
+    "candidate_slides": [
+      52
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___June_2_1926__p1 (First Presby Fire Cigarette).pdf"
+    ],
+    "status": "Replacement generated; user-approved slide correction",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-17.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      52
+    ],
+    "replacement_audio": "sources/audio/articles/article-17/reading.mp3"
+  },
+  {
+    "clip_id": "article-18",
+    "original_audio": "Gazette Article Audios/18 Church Cornerstone.mp3",
+    "audio_sha256": "efd15b10465f8f52d399a666c1125a491cecf6b81c8d38e3fa84124c8244a7ae",
+    "candidate_slides": [
+      53,
+      54,
+      55
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_7_1926__p6 (Cornerstone Contents).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-18.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      53
+    ],
+    "replacement_audio": "sources/audio/articles/article-18/reading.mp3"
+  },
+  {
+    "clip_id": "article-19",
+    "original_audio": "Gazette Article Audios/19 Discuss Origin of Fire.mp3",
+    "audio_sha256": "d11568e861f7516a4fcf6c5b3ee49f1fcea9d98a3eb6ab52007e61cb082e9dd3",
+    "candidate_slides": [
+      56
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_14_1926__p2 (First Methodist Fire 2 of 2).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-19.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      56
+    ],
+    "replacement_audio": "sources/audio/articles/article-19/reading.mp3"
+  },
+  {
+    "clip_id": "article-20",
+    "original_audio": "Gazette Article Audios/20 Red Hot Flue Razed Church.mp3",
+    "audio_sha256": "d3ab714fbac143da086f5dfcd9cb3bf8bd1e35cbd33ed82046a7e78651a29078",
+    "candidate_slides": [
+      57
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_24_1926__p10 (Methodist Overheated Furnace).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-20.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      57
+    ],
+    "replacement_audio": "sources/audio/articles/article-20/reading.mp3"
+  },
+  {
+    "clip_id": "article-21",
+    "original_audio": "Gazette Article Audios/21 Set by Firebug Belief.mp3",
+    "audio_sha256": "2df8c3621dbae287d8b0e6fdd04d52c7e07c9aae50634f3a1d66829ba7a9374f",
+    "candidate_slides": [
+      58
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___July_8_1926__p4 (Three Fires Speculation).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-21.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      58
+    ],
+    "replacement_audio": "sources/audio/articles/article-21/reading.mp3"
+  },
+  {
+    "clip_id": "article-22",
+    "original_audio": "Gazette Article Audios/22 Presby Church Fire Loss 100000.mp3",
+    "audio_sha256": "a2344f06aec97986f29882d9ed97caa1f1cae4cc3cdbe04d69c14cb21a2d9f3e",
+    "candidate_slides": [
+      59,
+      60
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___July_8_1926__p1 (Presby Fire Next Day).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-22.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      59
+    ],
+    "replacement_audio": "sources/audio/articles/article-22/reading.mp3"
+  },
+  {
+    "clip_id": "article-23",
+    "original_audio": "Gazette Article Audios/23 Presbys WIll Meet at HS.mp3",
+    "audio_sha256": "57c9e7bbc6261960f64526f2ade253704858e8ee4139935985b182af363748c8",
+    "candidate_slides": [
+      61
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___July_9_1926__p2 (Presby Fire Investigation).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-23.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      61
+    ],
+    "replacement_audio": "sources/audio/articles/article-23/reading.mp3"
+  },
+  {
+    "clip_id": "article-24",
+    "original_audio": "Gazette Article Audios/24 Burned Church to be Rebuilt.mp3",
+    "audio_sha256": "9555e0ef127eea06b6f9cf7567ec1c2264c217ff9f029f307853e8ed6ddc4270",
+    "candidate_slides": [
+      67
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___December_30_1925__p1 (Fire origin unknown 1 of 2).pdf",
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___December_30_1925__p2 (Fire origin unknown 2 of 2).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-24.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      67
+    ],
+    "replacement_audio": "sources/audio/articles/article-24/reading.mp3"
+  },
+  {
+    "clip_id": "article-25",
+    "original_audio": "Gazette Article Audios/25 Start Work on 250000 Church.mp3",
+    "audio_sha256": "cce0f1cf629e7dc8aa554c78d559f23b1f727908a128b6e740287316911b88ef",
+    "candidate_slides": [
+      68
+    ],
+    "candidate_newspapers": [
+      "Gazettes/News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___April_2_1926__p1 (New Church Plans).pdf"
+    ],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-25.txt",
+    "notes": "Dates in filenames are not verified publication/event dates.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      68
+    ],
+    "replacement_audio": "sources/audio/articles/article-25/reading.mp3"
+  },
+  {
+    "clip_id": "article-26",
+    "original_audio": "Gazette Article Audios/26 1960s Retrospective on Arsons.mp3",
+    "audio_sha256": "5e31de48e1ae310e4ea2ddb6876de71cb1e8889fbf682764eb5041c4b6acfc01",
+    "candidate_slides": [
+      73
+    ],
+    "candidate_newspapers": [],
+    "status": "Replacement generated from approved script",
+    "script_source": "sources/extracted/gazette.txt",
+    "additional_source": "sources/extracted/excerpts.txt for selected passages of three major fires",
+    "approved_script": "sources/narration/article-26.txt",
+    "notes": "Retrospective original scan not identified among 22 PDFs; slide 73 image is available.",
+    "script_status": "Accepted as accurate by Brian, 2026-11-11; Gazette Article Contents is the source",
+    "assigned_slides": [
+      73
+    ],
+    "replacement_audio": "sources/audio/articles/article-26/reading.mp3"
+  }
+]

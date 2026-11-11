@@ -1,0 +1,27 @@
+{
+  "input": "C:\\Projects\\Church Fires GitHub Site\\sources\\audio\\articles\\article-08\\joined.mp3",
+  "first_pass": {
+    "input_i": "-23.06",
+    "input_tp": "-2.77",
+    "input_lra": "3.50",
+    "input_thresh": "-33.59",
+    "output_i": "-16.63",
+    "output_tp": "-1.50",
+    "output_lra": "3.00",
+    "output_thresh": "-27.18",
+    "normalization_type": "dynamic",
+    "target_offset": "0.63"
+  },
+  "second_pass": {
+    "input_i": "-23.06",
+    "input_tp": "-2.77",
+    "input_lra": "3.50",
+    "input_thresh": "-33.59",
+    "output_i": "-16.27",
+    "output_tp": "-1.50",
+    "output_lra": "3.00",
+    "output_thresh": "-26.82",
+    "normalization_type": "dynamic",
+    "target_offset": "0.27"
+  }
+}

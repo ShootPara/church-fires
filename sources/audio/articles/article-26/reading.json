@@ -1,0 +1,18 @@
+{
+  "id": "article-26",
+  "script": "sources/narration/article-26.txt",
+  "slides": [
+    73
+  ],
+  "title": "The Cornerstone Story: Downtown Churches Rebuilt Following 1925-26 Fires",
+  "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+  "source_image": "SLIDE 073 Clipping - The Cornerstone Story Downtown Churches Rebuilt 1 of 2.png",
+  "approved": "Brian requested extraction, document update and audio generation",
+  "transcription_notes": "Article body and byline; photographic captions excluded. Original printed wording retained, including \"The first was discovered\" and \"within a year of other\". Line-end hyphens joined.",
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts",
+  "voice": "cedar",
+  "chunks": 2,
+  "sha256": "6b831256936ccdb3dbccebc4a81fc6c3442e2c93fc1ad8a4df4632bcdf3622e8",
+  "full_listening_review": "not performed"
+}

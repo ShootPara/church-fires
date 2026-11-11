@@ -1,0 +1,18 @@
+{
+  "id": "article-18",
+  "script": "sources/narration/article-18.txt",
+  "paragraph_start": 198,
+  "paragraph_end_exclusive": 227,
+  "slides": [
+    53
+  ],
+  "title": "CHURCH CORNERSTONE YIELDS OLD BOX OF HISTORICAL DATA",
+  "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+  "approved": "User accepted Gazette Article Contents as accurate",
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts",
+  "voice": "cedar",
+  "chunks": 3,
+  "sha256": "5c10c26e3b8ca0becd16ce452e2db3892ee081f6f720d437c38d3e7dcc15576d",
+  "full_listening_review": "not performed"
+}

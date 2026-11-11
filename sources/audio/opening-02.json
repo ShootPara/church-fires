@@ -1,0 +1,13 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts",
+  "voice": "cedar",
+  "instructions": "Read this historical newspaper text verbatim in a warm, resonant documentary voice. Measured, engaging, dignified, with subtle dramatic gravity. Natural American English, clear names and dates. No added introduction, commentary, or sound effects. Kalamazoo is kal-uh-muh-ZOO. Keep a consistent moderate pace throughout.",
+  "script_sha256": "77e73881f417d43e8c77ff16003f17d12c3869cee536f7a2b69d42c1e5f4be6e",
+  "script": "sources\\audio\\opening-02.txt",
+  "source": "sources/extracted/excerpts.txt",
+  "approved_by": "Brian: use verbatim document",
+  "generated_utc": "2026-11-11T15:54:41.091394+00:00",
+  "request_id": "req_c4d2ddda11ef47249e0c5d32ec32a3f4",
+  "audio_sha256": "554d5acc0b1b1c703f32d2b4bbed3379c14c781a9fec1b8cbde59c3bd11d648c"
+}

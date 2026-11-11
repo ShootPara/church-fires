@@ -1,0 +1,18 @@
+{
+  "id": "article-16",
+  "script": "sources/narration/article-16.txt",
+  "paragraph_start": 185,
+  "paragraph_end_exclusive": 193,
+  "slides": [
+    52
+  ],
+  "title": "FEARS WALLS MAY CRUMBLE.",
+  "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+  "approved": "User accepted Gazette Article Contents as accurate",
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts",
+  "voice": "cedar",
+  "chunks": 1,
+  "sha256": "62af5be10203c4f272bfa5f4635d9cb105af55922d56779de0e10530d4071438",
+  "full_listening_review": "not performed"
+}

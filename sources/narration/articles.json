@@ -1,0 +1,314 @@
+[
+  {
+    "id": "article-01",
+    "script": "sources/narration/article-01.txt",
+    "paragraph_start": 0,
+    "paragraph_end_exclusive": 22,
+    "slides": [
+      21
+    ],
+    "title": "THE KALAMAZOO GAZETTE",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-02",
+    "script": "sources/narration/article-02.txt",
+    "paragraph_start": 22,
+    "paragraph_end_exclusive": 37,
+    "slides": [
+      29
+    ],
+    "title": "2 DIE IN M.E. CHURCH FIRE",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-03",
+    "script": "sources/narration/article-03.txt",
+    "paragraph_start": 37,
+    "paragraph_end_exclusive": 49,
+    "slides": [
+      31
+    ],
+    "title": "THREE LINES OF HOSE BURST",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-04",
+    "script": "sources/narration/article-04.txt",
+    "paragraph_start": 49,
+    "paragraph_end_exclusive": 53,
+    "slides": [
+      32
+    ],
+    "title": "METHODIST CHURCH TO BE TORN DOWN",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-05",
+    "script": "sources/narration/article-05.txt",
+    "paragraph_start": 53,
+    "paragraph_end_exclusive": 62,
+    "slides": [
+      33
+    ],
+    "title": "FIFTH CHURCH FIRE CAUSES $500 LOSS",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-06",
+    "script": "sources/narration/article-06.txt",
+    "paragraph_start": 62,
+    "paragraph_end_exclusive": 77,
+    "slides": [
+      34
+    ],
+    "title": "PROBING NEW CHURCH FIRE",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-07",
+    "script": "sources/narration/article-07.txt",
+    "paragraph_start": 77,
+    "paragraph_end_exclusive": 94,
+    "slides": [
+      35
+    ],
+    "title": "PRESBYTERIAN CHURCH FIRE: LOSS $100,000",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-08",
+    "script": "sources/narration/article-08.txt",
+    "paragraph_start": 94,
+    "paragraph_end_exclusive": 134,
+    "slides": [
+      39
+    ],
+    "title": "FALLING BALCONY CRUSHES FIREMEN",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-09",
+    "script": "sources/narration/article-09.txt",
+    "paragraph_start": 134,
+    "paragraph_end_exclusive": 142,
+    "slides": [
+      43
+    ],
+    "title": "\"BRAVE MEN AND GOOD FIREMEN.\"",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-10",
+    "script": "sources/narration/article-10.txt",
+    "paragraph_start": 142,
+    "paragraph_end_exclusive": 151,
+    "slides": [
+      44
+    ],
+    "title": "BURY JOHN MORREN WITH FULL HONORS",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-11",
+    "script": "sources/narration/article-11.txt",
+    "paragraph_start": 151,
+    "paragraph_end_exclusive": 155,
+    "slides": [
+      44
+    ],
+    "title": "MEMORIAL WILL BE HELD FOR FIREMEN",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-12",
+    "script": "sources/narration/article-12.txt",
+    "paragraph_start": 155,
+    "paragraph_end_exclusive": 161,
+    "slides": [
+      45
+    ],
+    "title": "THE BEST REWARD FOR VALOR.",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-13",
+    "script": "sources/narration/article-13.txt",
+    "paragraph_start": 161,
+    "paragraph_end_exclusive": 168,
+    "slides": [
+      47
+    ],
+    "title": "FUTURE OF SIX FATHERLESS TOTS, WHOSE DADDIES GAVE LIVES TO CITY, DEPENDS ON RELIEF DRIVE.",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-14",
+    "script": "sources/narration/article-14.txt",
+    "paragraph_start": 168,
+    "paragraph_end_exclusive": 178,
+    "slides": [
+      48
+    ],
+    "title": "HOPES TO RAISE $4,000.",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-15",
+    "script": "sources/narration/article-15.txt",
+    "paragraph_start": 178,
+    "paragraph_end_exclusive": 185,
+    "slides": [
+      50
+    ],
+    "title": "FIRE ORIGIN UNKNOWN",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-16",
+    "script": "sources/narration/article-16.txt",
+    "paragraph_start": 185,
+    "paragraph_end_exclusive": 193,
+    "slides": [
+      51
+    ],
+    "title": "FEARS WALLS MAY CRUMBLE.",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-17",
+    "script": "sources/narration/article-17.txt",
+    "paragraph_start": 193,
+    "paragraph_end_exclusive": 198,
+    "slides": [
+      52
+    ],
+    "title": "ANOTHER CHURCH FIRE",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-18",
+    "script": "sources/narration/article-18.txt",
+    "paragraph_start": 198,
+    "paragraph_end_exclusive": 227,
+    "slides": [
+      53
+    ],
+    "title": "CHURCH CORNERSTONE YIELDS OLD BOX OF HISTORICAL DATA",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-19",
+    "script": "sources/narration/article-19.txt",
+    "paragraph_start": 227,
+    "paragraph_end_exclusive": 233,
+    "slides": [
+      56
+    ],
+    "title": "DISCUSS ORIGIN OF FIRE",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-20",
+    "script": "sources/narration/article-20.txt",
+    "paragraph_start": 233,
+    "paragraph_end_exclusive": 241,
+    "slides": [
+      57
+    ],
+    "title": "RED HOT FLUE RAZED CHURCH, PROBERS FIND",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-21",
+    "script": "sources/narration/article-21.txt",
+    "paragraph_start": 241,
+    "paragraph_end_exclusive": 267,
+    "slides": [
+      58
+    ],
+    "title": "Flames breaking out at 11:20 pm completely destroy structure at Rose and South Streets.",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-22",
+    "script": "sources/narration/article-22.txt",
+    "paragraph_start": 267,
+    "paragraph_end_exclusive": 313,
+    "slides": [
+      59
+    ],
+    "title": "PRESBYTERIAN CHURCH FIRE LOSS $100,000",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-23",
+    "script": "sources/narration/article-23.txt",
+    "paragraph_start": 313,
+    "paragraph_end_exclusive": 324,
+    "slides": [
+      61
+    ],
+    "title": "PRESBYTERIANS WILL MEET AT H.S. AUDITORIUM",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-24",
+    "script": "sources/narration/article-24.txt",
+    "paragraph_start": 324,
+    "paragraph_end_exclusive": 332,
+    "slides": [
+      67
+    ],
+    "title": "BURNED CHURCH TO BE REBUILT BY FALL OF '26",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-25",
+    "script": "sources/narration/article-25.txt",
+    "paragraph_start": 332,
+    "paragraph_end_exclusive": 338,
+    "slides": [
+      68
+    ],
+    "title": "START WORK ON $250,000 CHURCH BY MAY 15, PLAN",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "approved": "User accepted Gazette Article Contents as accurate"
+  },
+  {
+    "id": "article-26",
+    "script": "sources/narration/article-26.txt",
+    "slides": [
+      73
+    ],
+    "title": "The Cornerstone Story: Downtown Churches Rebuilt Following 1925-26 Fires",
+    "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+    "source_image": "SLIDE 073 Clipping - The Cornerstone Story Downtown Churches Rebuilt 1 of 2.png",
+    "approved": "Brian requested extraction, document update and audio generation",
+    "transcription_notes": "Article body and byline; photographic captions excluded. Original printed wording retained, including \"The first was discovered\" and \"within a year of other\". Line-end hyphens joined."
+  }
+]

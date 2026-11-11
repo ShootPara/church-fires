@@ -1,0 +1,18 @@
+{
+  "id": "article-02",
+  "script": "sources/narration/article-02.txt",
+  "paragraph_start": 22,
+  "paragraph_end_exclusive": 37,
+  "slides": [
+    29
+  ],
+  "title": "2 DIE IN M.E. CHURCH FIRE",
+  "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+  "approved": "User accepted Gazette Article Contents as accurate",
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts",
+  "voice": "cedar",
+  "chunks": 2,
+  "sha256": "a26beb1f0507ee1b565fdf1ae4632612aee773f0f673b957f9d734670a561efd",
+  "full_listening_review": "not performed"
+}

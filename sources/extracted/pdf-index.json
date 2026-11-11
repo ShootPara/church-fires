@@ -1,0 +1,3382 @@
+[
+  {
+    "id": "presentation",
+    "source": "C:\\Projects\\Church Fires GitHub Site\\Kalamazoo Church Fires Presentation.pdf",
+    "sha256": "d1d8410955860cfb209c960c255c9bd0a94c83ab48128e5b6ac7e0d81e4f7daf",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/presentation/page-001.png",
+        "images": [
+          {
+            "xref": 12,
+            "smask": 0,
+            "path": "ignore/extraction/images/d1f6ed8f407cf0898b2aa9d0da745d698a3b604d4dccbdd6901c577766c6e4ee.jpeg",
+            "sha256": "d1f6ed8f407cf0898b2aa9d0da745d698a3b604d4dccbdd6901c577766c6e4ee",
+            "width": 588,
+            "height": 784,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "render": "ignore/extraction/presentation/page-002.png",
+        "images": []
+      },
+      {
+        "page": 3,
+        "render": "ignore/extraction/presentation/page-003.png",
+        "images": []
+      },
+      {
+        "page": 4,
+        "render": "ignore/extraction/presentation/page-004.png",
+        "images": []
+      },
+      {
+        "page": 5,
+        "render": "ignore/extraction/presentation/page-005.png",
+        "images": [
+          {
+            "xref": 38,
+            "smask": 0,
+            "path": "ignore/extraction/images/3d3f19da72ba8d8072dfdb0ac245c3bcbec541a5cca82ba46d64552825c94829.jpeg",
+            "sha256": "3d3f19da72ba8d8072dfdb0ac245c3bcbec541a5cca82ba46d64552825c94829",
+            "width": 308,
+            "height": 451,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 39,
+            "smask": 0,
+            "path": "ignore/extraction/images/1388b9c958a65e9bf80930490db68fcdca1c56d098f1a9a84bdb94810965d631.jpeg",
+            "sha256": "1388b9c958a65e9bf80930490db68fcdca1c56d098f1a9a84bdb94810965d631",
+            "width": 1661,
+            "height": 1024,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 40,
+            "smask": 44,
+            "path": "ignore/extraction/images/46953a1987a761789e89ecc1cecb64dd20fde6285c0875888293be816a09cb37.jpeg",
+            "sha256": "46953a1987a761789e89ecc1cecb64dd20fde6285c0875888293be816a09cb37",
+            "width": 584,
+            "height": 584,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 41,
+            "smask": 0,
+            "path": "ignore/extraction/images/adfd8f8872fa75d1d762d4f73991bceeabcde1014b17c87014d662745bf177f4.jpeg",
+            "sha256": "adfd8f8872fa75d1d762d4f73991bceeabcde1014b17c87014d662745bf177f4",
+            "width": 299,
+            "height": 157,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 6,
+        "render": "ignore/extraction/presentation/page-006.png",
+        "images": []
+      },
+      {
+        "page": 7,
+        "render": "ignore/extraction/presentation/page-007.png",
+        "images": [
+          {
+            "xref": 58,
+            "smask": 0,
+            "path": "ignore/extraction/images/15a458f6b0a559953874ea17d621d25da12c883e82847fe19c2f6d68a5d9f870.jpeg",
+            "sha256": "15a458f6b0a559953874ea17d621d25da12c883e82847fe19c2f6d68a5d9f870",
+            "width": 1024,
+            "height": 645,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 59,
+            "smask": 0,
+            "path": "ignore/extraction/images/7b992a84ab37c2243fd1bf37140aa09f283920c0f3bde9e12b73715038f40ca4.jpeg",
+            "sha256": "7b992a84ab37c2243fd1bf37140aa09f283920c0f3bde9e12b73715038f40ca4",
+            "width": 400,
+            "height": 245,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 60,
+            "smask": 0,
+            "path": "ignore/extraction/images/d2bcf3f73fd2db045abdef694e16e468f29031a66d61f2ea5e5ae1571139b87b.jpeg",
+            "sha256": "d2bcf3f73fd2db045abdef694e16e468f29031a66d61f2ea5e5ae1571139b87b",
+            "width": 1000,
+            "height": 750,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 8,
+        "render": "ignore/extraction/presentation/page-008.png",
+        "images": []
+      },
+      {
+        "page": 9,
+        "render": "ignore/extraction/presentation/page-009.png",
+        "images": [
+          {
+            "xref": 74,
+            "smask": 0,
+            "path": "ignore/extraction/images/4d9f76e3c5a0db575bc325845fca28d507fde194fdec7d8509cd2194b71ee875.jpeg",
+            "sha256": "4d9f76e3c5a0db575bc325845fca28d507fde194fdec7d8509cd2194b71ee875",
+            "width": 600,
+            "height": 383,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 10,
+        "render": "ignore/extraction/presentation/page-010.png",
+        "images": [
+          {
+            "xref": 81,
+            "smask": 0,
+            "path": "ignore/extraction/images/25100c4e35f0f7b9c77993a4fced6ff99b6d0cd659d8e5bca96b6c5192052e29.jpeg",
+            "sha256": "25100c4e35f0f7b9c77993a4fced6ff99b6d0cd659d8e5bca96b6c5192052e29",
+            "width": 1600,
+            "height": 1036,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 11,
+        "render": "ignore/extraction/presentation/page-011.png",
+        "images": [
+          {
+            "xref": 88,
+            "smask": 0,
+            "path": "ignore/extraction/images/fc0d7354dc81057b4f8577d0cdceaa10073e1e2529a4b0d9f39b02e07b38f743.jpeg",
+            "sha256": "fc0d7354dc81057b4f8577d0cdceaa10073e1e2529a4b0d9f39b02e07b38f743",
+            "width": 638,
+            "height": 1024,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 12,
+        "render": "ignore/extraction/presentation/page-012.png",
+        "images": [
+          {
+            "xref": 95,
+            "smask": 0,
+            "path": "ignore/extraction/images/8264df0b698dc862d312f914303cca7782ff27eeaa238b9a74d9501a09ac1c0c.jpeg",
+            "sha256": "8264df0b698dc862d312f914303cca7782ff27eeaa238b9a74d9501a09ac1c0c",
+            "width": 1066,
+            "height": 1600,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 13,
+        "render": "ignore/extraction/presentation/page-013.png",
+        "images": [
+          {
+            "xref": 102,
+            "smask": 0,
+            "path": "ignore/extraction/images/dcbfa3b3055976a2c2238f944d8f356702d463847af705d622fd6ec9cd8669dd.jpeg",
+            "sha256": "dcbfa3b3055976a2c2238f944d8f356702d463847af705d622fd6ec9cd8669dd",
+            "width": 1279,
+            "height": 805,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 14,
+        "render": "ignore/extraction/presentation/page-014.png",
+        "images": [
+          {
+            "xref": 110,
+            "smask": 0,
+            "path": "ignore/extraction/images/5a23bdd652ce409a8675291f61ce2130239992b055f0b84b5b3b57b0b4343f97.jpeg",
+            "sha256": "5a23bdd652ce409a8675291f61ce2130239992b055f0b84b5b3b57b0b4343f97",
+            "width": 799,
+            "height": 453,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 111,
+            "smask": 0,
+            "path": "ignore/extraction/images/e38585683968ecea082ecee1dc8953c1551558c376902c18f9f9d00478b3c23c.jpeg",
+            "sha256": "e38585683968ecea082ecee1dc8953c1551558c376902c18f9f9d00478b3c23c",
+            "width": 1600,
+            "height": 1066,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 15,
+        "render": "ignore/extraction/presentation/page-015.png",
+        "images": [
+          {
+            "xref": 119,
+            "smask": 0,
+            "path": "ignore/extraction/images/3846a358aeec161a40693d2c53a8213342a4a7da6e2d6be60d0c74ad66f26d19.jpeg",
+            "sha256": "3846a358aeec161a40693d2c53a8213342a4a7da6e2d6be60d0c74ad66f26d19",
+            "width": 1798,
+            "height": 1145,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 16,
+        "render": "ignore/extraction/presentation/page-016.png",
+        "images": [
+          {
+            "xref": 126,
+            "smask": 0,
+            "path": "ignore/extraction/images/d5592130e80374c7a9b79d840685e1aa8bfc907490548849fdc5f3acd8279d07.jpeg",
+            "sha256": "d5592130e80374c7a9b79d840685e1aa8bfc907490548849fdc5f3acd8279d07",
+            "width": 1600,
+            "height": 1041,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 127,
+            "smask": 0,
+            "path": "ignore/extraction/images/e039429aa4ae41b1a2a22f6285099b5ae8d91ec3412c45f3a071507d7bea74ff.jpeg",
+            "sha256": "e039429aa4ae41b1a2a22f6285099b5ae8d91ec3412c45f3a071507d7bea74ff",
+            "width": 1000,
+            "height": 647,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 17,
+        "render": "ignore/extraction/presentation/page-017.png",
+        "images": [
+          {
+            "xref": 135,
+            "smask": 0,
+            "path": "ignore/extraction/images/5a29fe3ed298dccd13074116589a33b9ce00446a4bcceaad0481f508b4ac28ac.jpeg",
+            "sha256": "5a29fe3ed298dccd13074116589a33b9ce00446a4bcceaad0481f508b4ac28ac",
+            "width": 1000,
+            "height": 642,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 18,
+        "render": "ignore/extraction/presentation/page-018.png",
+        "images": [
+          {
+            "xref": 142,
+            "smask": 0,
+            "path": "ignore/extraction/images/171b2cdac8bba3d8a866946bf52fab621564def1b39d79d9b5da602a6cb3e132.jpeg",
+            "sha256": "171b2cdac8bba3d8a866946bf52fab621564def1b39d79d9b5da602a6cb3e132",
+            "width": 1600,
+            "height": 1054,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 19,
+        "render": "ignore/extraction/presentation/page-019.png",
+        "images": [
+          {
+            "xref": 149,
+            "smask": 0,
+            "path": "ignore/extraction/images/b3d4c7441198a7c1202d190a56e4f959814002fc73d48419bd96d28bf1dc9f71.jpeg",
+            "sha256": "b3d4c7441198a7c1202d190a56e4f959814002fc73d48419bd96d28bf1dc9f71",
+            "width": 320,
+            "height": 180,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 20,
+        "render": "ignore/extraction/presentation/page-020.png",
+        "images": [
+          {
+            "xref": 156,
+            "smask": 0,
+            "path": "ignore/extraction/images/08836e6cee6694603d55a5371dcc8dbaf78a1d3934d0aae435c974394c79aea6.jpeg",
+            "sha256": "08836e6cee6694603d55a5371dcc8dbaf78a1d3934d0aae435c974394c79aea6",
+            "width": 320,
+            "height": 180,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 21,
+        "render": "ignore/extraction/presentation/page-021.png",
+        "images": [
+          {
+            "xref": 163,
+            "smask": 0,
+            "path": "ignore/extraction/images/476f162f8aca7b8b6392fa945b37a84edb19ef143f4e9173e2ac637754053335.jpeg",
+            "sha256": "476f162f8aca7b8b6392fa945b37a84edb19ef143f4e9173e2ac637754053335",
+            "width": 805,
+            "height": 104,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 164,
+            "smask": 0,
+            "path": "ignore/extraction/images/0c0e5b6b86df52f6bfa595aab645fd8dd754a73ba6709302dfc771236e15da87.jpeg",
+            "sha256": "0c0e5b6b86df52f6bfa595aab645fd8dd754a73ba6709302dfc771236e15da87",
+            "width": 427,
+            "height": 336,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 165,
+            "smask": 0,
+            "path": "ignore/extraction/images/f7f06da5837fe56de9d229b891c039eb771a1ef40cea115fc6b3a83f91a14bae.jpeg",
+            "sha256": "f7f06da5837fe56de9d229b891c039eb771a1ef40cea115fc6b3a83f91a14bae",
+            "width": 211,
+            "height": 64,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 166,
+            "smask": 0,
+            "path": "ignore/extraction/images/88b45e146b0728e50a45492f7de58a8fba966ee73f9262f3462ec6a44f789f6e.jpeg",
+            "sha256": "88b45e146b0728e50a45492f7de58a8fba966ee73f9262f3462ec6a44f789f6e",
+            "width": 210,
+            "height": 248,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 167,
+            "smask": 0,
+            "path": "ignore/extraction/images/a17a8dd79ecf85a569a1ddc8157f828959ae74bbd3534d7855c0e43216483dea.jpeg",
+            "sha256": "a17a8dd79ecf85a569a1ddc8157f828959ae74bbd3534d7855c0e43216483dea",
+            "width": 213,
+            "height": 219,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 168,
+            "smask": 0,
+            "path": "ignore/extraction/images/5b820bae4d9da7b74a644b0aa9eed25d8dbbd88f8b10e5f8fd6fb31fbe24ee80.jpeg",
+            "sha256": "5b820bae4d9da7b74a644b0aa9eed25d8dbbd88f8b10e5f8fd6fb31fbe24ee80",
+            "width": 242,
+            "height": 20,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 22,
+        "render": "ignore/extraction/presentation/page-022.png",
+        "images": [
+          {
+            "xref": 185,
+            "smask": 0,
+            "path": "ignore/extraction/images/2e1bc2e6f0eddf257e9a4c07885e8e399784ae31e1c258fe3e6d2dc0d7ec1e98.jpeg",
+            "sha256": "2e1bc2e6f0eddf257e9a4c07885e8e399784ae31e1c258fe3e6d2dc0d7ec1e98",
+            "width": 213,
+            "height": 393,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 186,
+            "smask": 0,
+            "path": "ignore/extraction/images/26f74b026839fd01c305d09cb0168fa64893e732dca1746f6aced2b4d37e03cc.jpeg",
+            "sha256": "26f74b026839fd01c305d09cb0168fa64893e732dca1746f6aced2b4d37e03cc",
+            "width": 213,
+            "height": 388,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 187,
+            "smask": 0,
+            "path": "ignore/extraction/images/df25b5decb5bc1687a0ca5caecc1fd46eb12721f2b850e8b0890c2e918a56e91.jpeg",
+            "sha256": "df25b5decb5bc1687a0ca5caecc1fd46eb12721f2b850e8b0890c2e918a56e91",
+            "width": 212,
+            "height": 365,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 188,
+            "smask": 0,
+            "path": "ignore/extraction/images/c2dcb9b271d0280cbfc1ecc258cc4811c4a1b5442d852f1d1047acb3d55a4b68.jpeg",
+            "sha256": "c2dcb9b271d0280cbfc1ecc258cc4811c4a1b5442d852f1d1047acb3d55a4b68",
+            "width": 229,
+            "height": 283,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 23,
+        "render": "ignore/extraction/presentation/page-023.png",
+        "images": [
+          {
+            "xref": 198,
+            "smask": 0,
+            "path": "ignore/extraction/images/bfb8ca233bad89ab2c67700bd4d8d59a3abca375f025ff401baca2fd6c9b45de.jpeg",
+            "sha256": "bfb8ca233bad89ab2c67700bd4d8d59a3abca375f025ff401baca2fd6c9b45de",
+            "width": 838,
+            "height": 493,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 199,
+            "smask": 0,
+            "path": "ignore/extraction/images/28b860be3687ce325a7e2703b9c2a188e2b4f1c09afea91af7afcc1a89714c85.jpeg",
+            "sha256": "28b860be3687ce325a7e2703b9c2a188e2b4f1c09afea91af7afcc1a89714c85",
+            "width": 350,
+            "height": 32,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 24,
+        "render": "ignore/extraction/presentation/page-024.png",
+        "images": [
+          {
+            "xref": 207,
+            "smask": 0,
+            "path": "ignore/extraction/images/28b860be3687ce325a7e2703b9c2a188e2b4f1c09afea91af7afcc1a89714c85.jpeg",
+            "sha256": "28b860be3687ce325a7e2703b9c2a188e2b4f1c09afea91af7afcc1a89714c85",
+            "width": 350,
+            "height": 32,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 208,
+            "smask": 0,
+            "path": "ignore/extraction/images/3b75bb685cb9467d9a48dc6369cc2fc46dabad8d772bd4d8b708fd954c5a4930.jpeg",
+            "sha256": "3b75bb685cb9467d9a48dc6369cc2fc46dabad8d772bd4d8b708fd954c5a4930",
+            "width": 836,
+            "height": 705,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 209,
+            "smask": 0,
+            "path": "ignore/extraction/images/c7b63e8b076e8e9b949ca1641f377362c90f4f172d3f3292d1a50fbc695b92c9.jpeg",
+            "sha256": "c7b63e8b076e8e9b949ca1641f377362c90f4f172d3f3292d1a50fbc695b92c9",
+            "width": 126,
+            "height": 89,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 210,
+            "smask": 0,
+            "path": "ignore/extraction/images/dab57d1bbfd12111f9a662c347cff355c2bfef92465d6fc8502a7598c66e5192.jpeg",
+            "sha256": "dab57d1bbfd12111f9a662c347cff355c2bfef92465d6fc8502a7598c66e5192",
+            "width": 480,
+            "height": 451,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 25,
+        "render": "ignore/extraction/presentation/page-025.png",
+        "images": [
+          {
+            "xref": 220,
+            "smask": 0,
+            "path": "ignore/extraction/images/77ca76bdf1ecddc07ae420504453dde1f9bc39692acbe0d50789b1a525850764.jpeg",
+            "sha256": "77ca76bdf1ecddc07ae420504453dde1f9bc39692acbe0d50789b1a525850764",
+            "width": 1785,
+            "height": 1070,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 26,
+        "render": "ignore/extraction/presentation/page-026.png",
+        "images": [
+          {
+            "xref": 227,
+            "smask": 0,
+            "path": "ignore/extraction/images/bcfb40d5fce4254a2b9dbb63a8855e9cefff9bf939c0354283de128c64bdeddc.jpeg",
+            "sha256": "bcfb40d5fce4254a2b9dbb63a8855e9cefff9bf939c0354283de128c64bdeddc",
+            "width": 1200,
+            "height": 767,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 27,
+        "render": "ignore/extraction/presentation/page-027.png",
+        "images": [
+          {
+            "xref": 234,
+            "smask": 0,
+            "path": "ignore/extraction/images/7fdd7124a51746e912c342cd69420c5ff4bf76f4efac82927b9e8e223134bf33.jpeg",
+            "sha256": "7fdd7124a51746e912c342cd69420c5ff4bf76f4efac82927b9e8e223134bf33",
+            "width": 586,
+            "height": 479,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 235,
+            "smask": 0,
+            "path": "ignore/extraction/images/92d81040d735bb95bedd3c525ccdd013c744ae046a7ec6e3e4dc58d32817c2c9.jpeg",
+            "sha256": "92d81040d735bb95bedd3c525ccdd013c744ae046a7ec6e3e4dc58d32817c2c9",
+            "width": 400,
+            "height": 260,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 28,
+        "render": "ignore/extraction/presentation/page-028.png",
+        "images": [
+          {
+            "xref": 243,
+            "smask": 0,
+            "path": "ignore/extraction/images/437f9f34b5912279e161eed73b1694657c3808e088a4e1874575040d099e6de5.jpeg",
+            "sha256": "437f9f34b5912279e161eed73b1694657c3808e088a4e1874575040d099e6de5",
+            "width": 1080,
+            "height": 1080,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 244,
+            "smask": 0,
+            "path": "ignore/extraction/images/9cf377e4130a5ec7ad5b2379920ecac0054745dcadd201a1a33d222b90da9708.jpeg",
+            "sha256": "9cf377e4130a5ec7ad5b2379920ecac0054745dcadd201a1a33d222b90da9708",
+            "width": 400,
+            "height": 302,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 29,
+        "render": "ignore/extraction/presentation/page-029.png",
+        "images": [
+          {
+            "xref": 252,
+            "smask": 0,
+            "path": "ignore/extraction/images/a10b0347598ade39de9d04831ef4a2a6e1541972e84f542496244f7827078dfd.jpeg",
+            "sha256": "a10b0347598ade39de9d04831ef4a2a6e1541972e84f542496244f7827078dfd",
+            "width": 1853,
+            "height": 290,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 253,
+            "smask": 0,
+            "path": "ignore/extraction/images/11b85348a41d5590c999cc7130190cc3591b43a6f035e1ed0fc10e425ca43be3.jpeg",
+            "sha256": "11b85348a41d5590c999cc7130190cc3591b43a6f035e1ed0fc10e425ca43be3",
+            "width": 210,
+            "height": 21,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 254,
+            "smask": 0,
+            "path": "ignore/extraction/images/1d1120161a7b81974f5fa76ab7361eddce56b62a5ab756361dc8bb05f98c7e72.jpeg",
+            "sha256": "1d1120161a7b81974f5fa76ab7361eddce56b62a5ab756361dc8bb05f98c7e72",
+            "width": 680,
+            "height": 774,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 255,
+            "smask": 0,
+            "path": "ignore/extraction/images/0bdccb8ca796a6429538ccb3d92835a620221da0a79d2f2e37bcbcf5c2b5c8ac.jpeg",
+            "sha256": "0bdccb8ca796a6429538ccb3d92835a620221da0a79d2f2e37bcbcf5c2b5c8ac",
+            "width": 229,
+            "height": 31,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 256,
+            "smask": 0,
+            "path": "ignore/extraction/images/5b4e03eafe8705edb51592c49e8c70057eb44f710b6fa59cd311380d4ce09c58.jpeg",
+            "sha256": "5b4e03eafe8705edb51592c49e8c70057eb44f710b6fa59cd311380d4ce09c58",
+            "width": 228,
+            "height": 356,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 257,
+            "smask": 0,
+            "path": "ignore/extraction/images/51bcee784c8309744a9f7050a2348a07164022b7a0e8aeb1391c139410fada08.jpeg",
+            "sha256": "51bcee784c8309744a9f7050a2348a07164022b7a0e8aeb1391c139410fada08",
+            "width": 227,
+            "height": 143,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 258,
+            "smask": 0,
+            "path": "ignore/extraction/images/8eb20927c3255a2c80d16d5b583997b09a7ede93d479437cc28bb8b43ac62e0e.jpeg",
+            "sha256": "8eb20927c3255a2c80d16d5b583997b09a7ede93d479437cc28bb8b43ac62e0e",
+            "width": 231,
+            "height": 182,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 259,
+            "smask": 0,
+            "path": "ignore/extraction/images/282cbd64f00405d90591a38b3ab01e84755e3b38718496f016a8436f1b348468.jpeg",
+            "sha256": "282cbd64f00405d90591a38b3ab01e84755e3b38718496f016a8436f1b348468",
+            "width": 227,
+            "height": 67,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 30,
+        "render": "ignore/extraction/presentation/page-030.png",
+        "images": [
+          {
+            "xref": 273,
+            "smask": 0,
+            "path": "ignore/extraction/images/38aa92e310a089214d8758143352c3335a7947005865dd5d262b44910a6e958b.jpeg",
+            "sha256": "38aa92e310a089214d8758143352c3335a7947005865dd5d262b44910a6e958b",
+            "width": 615,
+            "height": 730,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 274,
+            "smask": 0,
+            "path": "ignore/extraction/images/cd3095b1b8f012811f8d24f814d381b95ae98ae29429cc2dc1809d3437fb02a3.jpeg",
+            "sha256": "cd3095b1b8f012811f8d24f814d381b95ae98ae29429cc2dc1809d3437fb02a3",
+            "width": 229,
+            "height": 375,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 275,
+            "smask": 0,
+            "path": "ignore/extraction/images/90c73961b8be95a8dc08017ba39c142534e46401637c51bd7e81482967630696.jpeg",
+            "sha256": "90c73961b8be95a8dc08017ba39c142534e46401637c51bd7e81482967630696",
+            "width": 230,
+            "height": 297,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 31,
+        "render": "ignore/extraction/presentation/page-031.png",
+        "images": [
+          {
+            "xref": 284,
+            "smask": 0,
+            "path": "ignore/extraction/images/357faf7cae6eab8b72cdadcf288b3a411e7eddc9c5b97d699d4596e5e47400ef.jpeg",
+            "sha256": "357faf7cae6eab8b72cdadcf288b3a411e7eddc9c5b97d699d4596e5e47400ef",
+            "width": 455,
+            "height": 388,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 285,
+            "smask": 0,
+            "path": "ignore/extraction/images/a314ae5e2a336391cfac149318e05d9b7901cc9af4905601b750b89e6309b315.jpeg",
+            "sha256": "a314ae5e2a336391cfac149318e05d9b7901cc9af4905601b750b89e6309b315",
+            "width": 217,
+            "height": 21,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 286,
+            "smask": 0,
+            "path": "ignore/extraction/images/f77118980e452dedd397429455f40715d0e7fc738379eb8d9f161f8537f2dfe1.jpeg",
+            "sha256": "f77118980e452dedd397429455f40715d0e7fc738379eb8d9f161f8537f2dfe1",
+            "width": 229,
+            "height": 206,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 287,
+            "smask": 0,
+            "path": "ignore/extraction/images/148e888f6c36028e9eaadbe4988d336ac3b77df79deca3cccb925671af10488c.jpeg",
+            "sha256": "148e888f6c36028e9eaadbe4988d336ac3b77df79deca3cccb925671af10488c",
+            "width": 228,
+            "height": 163,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 32,
+        "render": "ignore/extraction/presentation/page-032.png",
+        "images": [
+          {
+            "xref": 297,
+            "smask": 0,
+            "path": "ignore/extraction/images/6800df6d82d70a8f9a1c1a66d1af55b71c1aefab27d6b43991e6c902602b8df6.jpeg",
+            "sha256": "6800df6d82d70a8f9a1c1a66d1af55b71c1aefab27d6b43991e6c902602b8df6",
+            "width": 456,
+            "height": 200,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 298,
+            "smask": 0,
+            "path": "ignore/extraction/images/5b955c475efc00309f7c146d4505ba3007777ea6e3483ccd0434af73cd63c8f2.jpeg",
+            "sha256": "5b955c475efc00309f7c146d4505ba3007777ea6e3483ccd0434af73cd63c8f2",
+            "width": 231,
+            "height": 16,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 299,
+            "smask": 0,
+            "path": "ignore/extraction/images/ce8a8bc5feb84548bb5050f86f079b2c640522c4daf077a63ef18a7120536a93.jpeg",
+            "sha256": "ce8a8bc5feb84548bb5050f86f079b2c640522c4daf077a63ef18a7120536a93",
+            "width": 620,
+            "height": 768,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 300,
+            "smask": 0,
+            "path": "ignore/extraction/images/db660370bece65fa719d5a11839931f467fbb283ba5565cc77d8e697f0f18038.jpeg",
+            "sha256": "db660370bece65fa719d5a11839931f467fbb283ba5565cc77d8e697f0f18038",
+            "width": 240,
+            "height": 424,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 33,
+        "render": "ignore/extraction/presentation/page-033.png",
+        "images": [
+          {
+            "xref": 310,
+            "smask": 0,
+            "path": "ignore/extraction/images/50a9a11a28b584749f56c0d89753c98fb1b0a2dad558cd3488fffb9325dcb4a1.jpeg",
+            "sha256": "50a9a11a28b584749f56c0d89753c98fb1b0a2dad558cd3488fffb9325dcb4a1",
+            "width": 228,
+            "height": 23,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 311,
+            "smask": 0,
+            "path": "ignore/extraction/images/5c7f478dfaa9ec2ff306b539e48a149cd04006ffa4db335547763e6a2c5f9b5b.jpeg",
+            "sha256": "5c7f478dfaa9ec2ff306b539e48a149cd04006ffa4db335547763e6a2c5f9b5b",
+            "width": 226,
+            "height": 362,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 312,
+            "smask": 0,
+            "path": "ignore/extraction/images/3e9076d506c528ec944d474074285f07e5499b5fcd5f50c0367df60f2d677cc6.jpeg",
+            "sha256": "3e9076d506c528ec944d474074285f07e5499b5fcd5f50c0367df60f2d677cc6",
+            "width": 224,
+            "height": 279,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 34,
+        "render": "ignore/extraction/presentation/page-034.png",
+        "images": [
+          {
+            "xref": 321,
+            "smask": 0,
+            "path": "ignore/extraction/images/c6633a8d99ceadb0d89c403893e33d80b7e7eb73e97ba55ba4e2b3184002270c.jpeg",
+            "sha256": "c6633a8d99ceadb0d89c403893e33d80b7e7eb73e97ba55ba4e2b3184002270c",
+            "width": 1814,
+            "height": 286,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 322,
+            "smask": 0,
+            "path": "ignore/extraction/images/8f14d8ff3bb144367280e786985079b2918cd7a8c11936567c437c7e23bb1edc.jpeg",
+            "sha256": "8f14d8ff3bb144367280e786985079b2918cd7a8c11936567c437c7e23bb1edc",
+            "width": 680,
+            "height": 814,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 323,
+            "smask": 0,
+            "path": "ignore/extraction/images/a2f5b86ced591309bb31b8c6c6c50bb0847b2146821368d25a7055e9978a4709.jpeg",
+            "sha256": "a2f5b86ced591309bb31b8c6c6c50bb0847b2146821368d25a7055e9978a4709",
+            "width": 276,
+            "height": 270,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 324,
+            "smask": 0,
+            "path": "ignore/extraction/images/5b096d9b596ccd464d2dfa73c0ce1d8a6e284f083765678fdf1d6220d61fa5fd.jpeg",
+            "sha256": "5b096d9b596ccd464d2dfa73c0ce1d8a6e284f083765678fdf1d6220d61fa5fd",
+            "width": 164,
+            "height": 274,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 325,
+            "smask": 0,
+            "path": "ignore/extraction/images/c1f1cc7779481134d3f5222c9de75d1df6bdfdbfc49d52a895c2e069573ffaed.jpeg",
+            "sha256": "c1f1cc7779481134d3f5222c9de75d1df6bdfdbfc49d52a895c2e069573ffaed",
+            "width": 225,
+            "height": 19,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 326,
+            "smask": 0,
+            "path": "ignore/extraction/images/b4501689bddb561b3e1bd1997a987c2053e0b9aac9cc291015f70ad1af170861.jpeg",
+            "sha256": "b4501689bddb561b3e1bd1997a987c2053e0b9aac9cc291015f70ad1af170861",
+            "width": 666,
+            "height": 62,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 35,
+        "render": "ignore/extraction/presentation/page-035.png",
+        "images": [
+          {
+            "xref": 338,
+            "smask": 0,
+            "path": "ignore/extraction/images/72c56d2cd54977e4545b7e21efaf9f073c484350c168a9aa58aaa1623d3d10ab.jpeg",
+            "sha256": "72c56d2cd54977e4545b7e21efaf9f073c484350c168a9aa58aaa1623d3d10ab",
+            "width": 225,
+            "height": 202,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 339,
+            "smask": 0,
+            "path": "ignore/extraction/images/bcc81d71734a5a9eaa7bcf5f92741a9118c80144666970989b7c5946cd9358dc.jpeg",
+            "sha256": "bcc81d71734a5a9eaa7bcf5f92741a9118c80144666970989b7c5946cd9358dc",
+            "width": 229,
+            "height": 217,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 340,
+            "smask": 0,
+            "path": "ignore/extraction/images/862cf73ef2913820eec3e6d59aaa1ea9ffc24549a8af11bd16b2e10dd66b99bf.jpeg",
+            "sha256": "862cf73ef2913820eec3e6d59aaa1ea9ffc24549a8af11bd16b2e10dd66b99bf",
+            "width": 228,
+            "height": 33,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 341,
+            "smask": 0,
+            "path": "ignore/extraction/images/4c5e7a28929bb468a134c3da9b2892b583f73a368e69a9f6e20f331fd70b7573.jpeg",
+            "sha256": "4c5e7a28929bb468a134c3da9b2892b583f73a368e69a9f6e20f331fd70b7573",
+            "width": 229,
+            "height": 456,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 342,
+            "smask": 0,
+            "path": "ignore/extraction/images/414e01bc5983e5a2ad8222bd2f3e9014fc526ac8eda525282988647da802d054.jpeg",
+            "sha256": "414e01bc5983e5a2ad8222bd2f3e9014fc526ac8eda525282988647da802d054",
+            "width": 228,
+            "height": 504,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 343,
+            "smask": 0,
+            "path": "ignore/extraction/images/263c9a72b0fb6c627b4e4c3267f07f4c491d171de29bb44e9b875ac17003f124.jpeg",
+            "sha256": "263c9a72b0fb6c627b4e4c3267f07f4c491d171de29bb44e9b875ac17003f124",
+            "width": 226,
+            "height": 224,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 344,
+            "smask": 0,
+            "path": "ignore/extraction/images/123f4c3095f0e28d3741318ded55eba0e7fb7d16d3041d2f8de82f69f0e8d896.jpeg",
+            "sha256": "123f4c3095f0e28d3741318ded55eba0e7fb7d16d3041d2f8de82f69f0e8d896",
+            "width": 227,
+            "height": 194,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 36,
+        "render": "ignore/extraction/presentation/page-036.png",
+        "images": [
+          {
+            "xref": 357,
+            "smask": 0,
+            "path": "ignore/extraction/images/7e0801941bbe854dfa915f2c8730ab4801fbd258974a6a0e348e7090086ad228.jpeg",
+            "sha256": "7e0801941bbe854dfa915f2c8730ab4801fbd258974a6a0e348e7090086ad228",
+            "width": 228,
+            "height": 476,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 358,
+            "smask": 0,
+            "path": "ignore/extraction/images/42a7ea32c2cf0fb8055b79abcb4222c65740671355804a3d9b361a5a4f4e1fd6.jpeg",
+            "sha256": "42a7ea32c2cf0fb8055b79abcb4222c65740671355804a3d9b361a5a4f4e1fd6",
+            "width": 227,
+            "height": 448,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 359,
+            "smask": 0,
+            "path": "ignore/extraction/images/6705e9c4c19d386c09608bb2aea6af281d7beb721eada080102d3773fcf5bbfa.jpeg",
+            "sha256": "6705e9c4c19d386c09608bb2aea6af281d7beb721eada080102d3773fcf5bbfa",
+            "width": 229,
+            "height": 332,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 360,
+            "smask": 0,
+            "path": "ignore/extraction/images/7198f37dedb8176bf48cf89bf3a449ee091ad243b6c09ca81cfcf80d86f25cb5.jpeg",
+            "sha256": "7198f37dedb8176bf48cf89bf3a449ee091ad243b6c09ca81cfcf80d86f25cb5",
+            "width": 224,
+            "height": 23,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 37,
+        "render": "ignore/extraction/presentation/page-037.png",
+        "images": [
+          {
+            "xref": 370,
+            "smask": 0,
+            "path": "ignore/extraction/images/9680b491c7660f0db78fecb047b1051a53d5988646da137aa8297a80c37b5419.jpeg",
+            "sha256": "9680b491c7660f0db78fecb047b1051a53d5988646da137aa8297a80c37b5419",
+            "width": 400,
+            "height": 226,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 38,
+        "render": "ignore/extraction/presentation/page-038.png",
+        "images": []
+      },
+      {
+        "page": 39,
+        "render": "ignore/extraction/presentation/page-039.png",
+        "images": [
+          {
+            "xref": 382,
+            "smask": 0,
+            "path": "ignore/extraction/images/577d48c9d95f70c36ba9c3d01fc12dd33ca80713781829fd8efa389eb6ca87c7.jpeg",
+            "sha256": "577d48c9d95f70c36ba9c3d01fc12dd33ca80713781829fd8efa389eb6ca87c7",
+            "width": 686,
+            "height": 620,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 383,
+            "smask": 0,
+            "path": "ignore/extraction/images/837af7b4f958c08398edcdfca1a25cc6bc746fc362dffea329f18ca969b13bf3.jpeg",
+            "sha256": "837af7b4f958c08398edcdfca1a25cc6bc746fc362dffea329f18ca969b13bf3",
+            "width": 458,
+            "height": 419,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 384,
+            "smask": 0,
+            "path": "ignore/extraction/images/d0ec4280f49760276e2b087046a94f081be6eae99eaa4f102cb3b4529e964164.jpeg",
+            "sha256": "d0ec4280f49760276e2b087046a94f081be6eae99eaa4f102cb3b4529e964164",
+            "width": 215,
+            "height": 329,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 385,
+            "smask": 0,
+            "path": "ignore/extraction/images/6a805b740cea2a98683a67a2b21e9c4086e71581537d3ac892736447927bb436.jpeg",
+            "sha256": "6a805b740cea2a98683a67a2b21e9c4086e71581537d3ac892736447927bb436",
+            "width": 205,
+            "height": 334,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 386,
+            "smask": 0,
+            "path": "ignore/extraction/images/c3e1d5dbafc772f440c6fad20f1f06aa664683580a7e1ac7f5e4aed4f270c0be.jpeg",
+            "sha256": "c3e1d5dbafc772f440c6fad20f1f06aa664683580a7e1ac7f5e4aed4f270c0be",
+            "width": 209,
+            "height": 18,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 40,
+        "render": "ignore/extraction/presentation/page-040.png",
+        "images": [
+          {
+            "xref": 397,
+            "smask": 0,
+            "path": "ignore/extraction/images/1943b7880c0927d0ea827e3a70da1452dc3907d6ee54e10518a39ee7db0a7c8e.jpeg",
+            "sha256": "1943b7880c0927d0ea827e3a70da1452dc3907d6ee54e10518a39ee7db0a7c8e",
+            "width": 456,
+            "height": 338,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 398,
+            "smask": 0,
+            "path": "ignore/extraction/images/4c7d76f4ce94fe3b84783f5160758f26c5bd4470edaf8297405eac45f96d982c.jpeg",
+            "sha256": "4c7d76f4ce94fe3b84783f5160758f26c5bd4470edaf8297405eac45f96d982c",
+            "width": 457,
+            "height": 194,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 399,
+            "smask": 0,
+            "path": "ignore/extraction/images/633bc93a8e7e544ab877e45bb6d1091893ce5c70390cc21e396635dfc6f27eac.jpeg",
+            "sha256": "633bc93a8e7e544ab877e45bb6d1091893ce5c70390cc21e396635dfc6f27eac",
+            "width": 228,
+            "height": 70,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 400,
+            "smask": 0,
+            "path": "ignore/extraction/images/96151830fd887b1b8129fdf825db99e9ec3af2443f202c4cdb5574c026567c4d.jpeg",
+            "sha256": "96151830fd887b1b8129fdf825db99e9ec3af2443f202c4cdb5574c026567c4d",
+            "width": 216,
+            "height": 191,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 401,
+            "smask": 0,
+            "path": "ignore/extraction/images/385657314a1f3ef068bc6feb4b4e28759ac9cce19d1a45062b4410d88b7e278a.jpeg",
+            "sha256": "385657314a1f3ef068bc6feb4b4e28759ac9cce19d1a45062b4410d88b7e278a",
+            "width": 213,
+            "height": 185,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 41,
+        "render": "ignore/extraction/presentation/page-041.png",
+        "images": [
+          {
+            "xref": 412,
+            "smask": 0,
+            "path": "ignore/extraction/images/0b9941834aa2b8537f8f55349e684514f97cb96e359a54b41c0c24452cbb530d.jpeg",
+            "sha256": "0b9941834aa2b8537f8f55349e684514f97cb96e359a54b41c0c24452cbb530d",
+            "width": 227,
+            "height": 346,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 413,
+            "smask": 0,
+            "path": "ignore/extraction/images/0cbf81f896ac8954ff6c083eac0e3bd6af251483459c630127cfa60592640491.jpeg",
+            "sha256": "0cbf81f896ac8954ff6c083eac0e3bd6af251483459c630127cfa60592640491",
+            "width": 228,
+            "height": 326,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 414,
+            "smask": 0,
+            "path": "ignore/extraction/images/32fe0ecbfdd4ba13edcd493ba44f29fb4391db16e35d74fadb68587cf5685158.jpeg",
+            "sha256": "32fe0ecbfdd4ba13edcd493ba44f29fb4391db16e35d74fadb68587cf5685158",
+            "width": 231,
+            "height": 426,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 415,
+            "smask": 0,
+            "path": "ignore/extraction/images/0b38671450b3d413821351ef2e2c7c542d591ee3493558e4c2bb03cc624682ee.jpeg",
+            "sha256": "0b38671450b3d413821351ef2e2c7c542d591ee3493558e4c2bb03cc624682ee",
+            "width": 230,
+            "height": 300,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 42,
+        "render": "ignore/extraction/presentation/page-042.png",
+        "images": [
+          {
+            "xref": 425,
+            "smask": 0,
+            "path": "ignore/extraction/images/1eca75265812c43ffdfa4a7eacd8e08e52a9b93aedf27eab301973381420f003.jpeg",
+            "sha256": "1eca75265812c43ffdfa4a7eacd8e08e52a9b93aedf27eab301973381420f003",
+            "width": 230,
+            "height": 444,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 426,
+            "smask": 0,
+            "path": "ignore/extraction/images/8d9a82f44f275e1e56a14cafe6f901c27cc67f608fc12f290ef914aa45a518a0.jpeg",
+            "sha256": "8d9a82f44f275e1e56a14cafe6f901c27cc67f608fc12f290ef914aa45a518a0",
+            "width": 231,
+            "height": 366,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 427,
+            "smask": 0,
+            "path": "ignore/extraction/images/0b2c3a89599bccc847952347afdf5313572788048fdb5f13145a662dd3c16343.jpeg",
+            "sha256": "0b2c3a89599bccc847952347afdf5313572788048fdb5f13145a662dd3c16343",
+            "width": 229,
+            "height": 146,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 43,
+        "render": "ignore/extraction/presentation/page-043.png",
+        "images": [
+          {
+            "xref": 436,
+            "smask": 0,
+            "path": "ignore/extraction/images/263bb36ad77691dfef9e4000f6fc51642481ac02ab54bfe295bdc5044a4c8348.jpeg",
+            "sha256": "263bb36ad77691dfef9e4000f6fc51642481ac02ab54bfe295bdc5044a4c8348",
+            "width": 207,
+            "height": 27,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 437,
+            "smask": 0,
+            "path": "ignore/extraction/images/42a9b9dbfcaad11967015cb9ac750dfa2b7ed9e283022810420fbaaa91d23063.jpeg",
+            "sha256": "42a9b9dbfcaad11967015cb9ac750dfa2b7ed9e283022810420fbaaa91d23063",
+            "width": 302,
+            "height": 349,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 438,
+            "smask": 0,
+            "path": "ignore/extraction/images/146df5b3027c2bb5f6b54ad53c35a00959c1011eb58babffcf4a7203e67de17c.jpeg",
+            "sha256": "146df5b3027c2bb5f6b54ad53c35a00959c1011eb58babffcf4a7203e67de17c",
+            "width": 305,
+            "height": 364,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 439,
+            "smask": 0,
+            "path": "ignore/extraction/images/5af0c69a13656d1fc1a2af471177fe4e86752af475a023971fcfdd5f6b809323.jpeg",
+            "sha256": "5af0c69a13656d1fc1a2af471177fe4e86752af475a023971fcfdd5f6b809323",
+            "width": 296,
+            "height": 383,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 44,
+        "render": "ignore/extraction/presentation/page-044.png",
+        "images": [
+          {
+            "xref": 449,
+            "smask": 0,
+            "path": "ignore/extraction/images/d8a262ef59927f9d516ae712885c2f30913782688a44f7bab41fa83a87e5d896.jpeg",
+            "sha256": "d8a262ef59927f9d516ae712885c2f30913782688a44f7bab41fa83a87e5d896",
+            "width": 227,
+            "height": 458,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 450,
+            "smask": 0,
+            "path": "ignore/extraction/images/83f55ecf8f21e0d0604f430711cd47c217a0e72508fd40d71588cb22f2692c3f.jpeg",
+            "sha256": "83f55ecf8f21e0d0604f430711cd47c217a0e72508fd40d71588cb22f2692c3f",
+            "width": 230,
+            "height": 410,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 451,
+            "smask": 0,
+            "path": "ignore/extraction/images/15d4a5a626094f9f17bfe571e28eb96b4722f162c810f1f09cb281d4fbade205.jpeg",
+            "sha256": "15d4a5a626094f9f17bfe571e28eb96b4722f162c810f1f09cb281d4fbade205",
+            "width": 251,
+            "height": 18,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 452,
+            "smask": 0,
+            "path": "ignore/extraction/images/d7945d985cd426ab312735aa6f09ca16b422fd61c87b83962ef92271ff778946.jpeg",
+            "sha256": "d7945d985cd426ab312735aa6f09ca16b422fd61c87b83962ef92271ff778946",
+            "width": 230,
+            "height": 298,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 453,
+            "smask": 0,
+            "path": "ignore/extraction/images/8c6e08df7a33d9e02aadf7c7c3c47583f2b74433e812b6bd1140fcf83c438c82.jpeg",
+            "sha256": "8c6e08df7a33d9e02aadf7c7c3c47583f2b74433e812b6bd1140fcf83c438c82",
+            "width": 196,
+            "height": 20,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 45,
+        "render": "ignore/extraction/presentation/page-045.png",
+        "images": [
+          {
+            "xref": 464,
+            "smask": 0,
+            "path": "ignore/extraction/images/363e5e29ec342fcfb1e54706cd3252a3074ac25e99f81caa04174573c173e226.jpeg",
+            "sha256": "363e5e29ec342fcfb1e54706cd3252a3074ac25e99f81caa04174573c173e226",
+            "width": 308,
+            "height": 282,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 465,
+            "smask": 0,
+            "path": "ignore/extraction/images/377fa9eee6692133b230890d2efb10d947496619b5e6ba21c8304791384f6a94.jpeg",
+            "sha256": "377fa9eee6692133b230890d2efb10d947496619b5e6ba21c8304791384f6a94",
+            "width": 308,
+            "height": 326,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 466,
+            "smask": 0,
+            "path": "ignore/extraction/images/e7eba8da424eaebe0bf414b3f9cc45b3d130ee77fa18d14353fc1412884de9e1.jpeg",
+            "sha256": "e7eba8da424eaebe0bf414b3f9cc45b3d130ee77fa18d14353fc1412884de9e1",
+            "width": 204,
+            "height": 24,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 46,
+        "render": "ignore/extraction/presentation/page-046.png",
+        "images": [
+          {
+            "xref": 475,
+            "smask": 0,
+            "path": "ignore/extraction/images/04dd95e1d6e005f4852d33cc3ef76da1861f3326b21336a4abbcc82d379a5e3b.jpeg",
+            "sha256": "04dd95e1d6e005f4852d33cc3ef76da1861f3326b21336a4abbcc82d379a5e3b",
+            "width": 306,
+            "height": 288,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 476,
+            "smask": 0,
+            "path": "ignore/extraction/images/702731d7efdf665b22a864e640849a0a8b622065e6e261416567b71e048dea42.jpeg",
+            "sha256": "702731d7efdf665b22a864e640849a0a8b622065e6e261416567b71e048dea42",
+            "width": 305,
+            "height": 294,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 47,
+        "render": "ignore/extraction/presentation/page-047.png",
+        "images": [
+          {
+            "xref": 484,
+            "smask": 0,
+            "path": "ignore/extraction/images/89b1a3fbfa092c27c623af856437c412cdfb8e954972e4308db129850149a1bd.jpeg",
+            "sha256": "89b1a3fbfa092c27c623af856437c412cdfb8e954972e4308db129850149a1bd",
+            "width": 845,
+            "height": 875,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 485,
+            "smask": 0,
+            "path": "ignore/extraction/images/2954ce52ac40849ef1c8a4f5aa4b6e9469a08d838c6eb45d615e1c96f6762dc2.jpeg",
+            "sha256": "2954ce52ac40849ef1c8a4f5aa4b6e9469a08d838c6eb45d615e1c96f6762dc2",
+            "width": 867,
+            "height": 84,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 486,
+            "smask": 0,
+            "path": "ignore/extraction/images/db0b374f93cb71a6bb55e9c971276b2615405fc36ee824258eaa73a5429dac1d.jpeg",
+            "sha256": "db0b374f93cb71a6bb55e9c971276b2615405fc36ee824258eaa73a5429dac1d",
+            "width": 199,
+            "height": 23,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 487,
+            "smask": 0,
+            "path": "ignore/extraction/images/16ac2a640460de577420a26a629584cab0e869083e2c44e7cfff2b00599b9e88.jpeg",
+            "sha256": "16ac2a640460de577420a26a629584cab0e869083e2c44e7cfff2b00599b9e88",
+            "width": 790,
+            "height": 25,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 488,
+            "smask": 0,
+            "path": "ignore/extraction/images/4eaf182450f6994d0eee61aa3bae1e6f038626f2bce3857538bea327b44ae8db.jpeg",
+            "sha256": "4eaf182450f6994d0eee61aa3bae1e6f038626f2bce3857538bea327b44ae8db",
+            "width": 58,
+            "height": 14,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 489,
+            "smask": 0,
+            "path": "ignore/extraction/images/5f516003726d2a5796abc30758e4704817072fea81b8599400bf6b8594fcb81f.jpeg",
+            "sha256": "5f516003726d2a5796abc30758e4704817072fea81b8599400bf6b8594fcb81f",
+            "width": 218,
+            "height": 412,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 490,
+            "smask": 0,
+            "path": "ignore/extraction/images/ca909c5d134624b1019e6d687f8172d2d6e7f6d14b17809c61564b29ff7b68c5.jpeg",
+            "sha256": "ca909c5d134624b1019e6d687f8172d2d6e7f6d14b17809c61564b29ff7b68c5",
+            "width": 219,
+            "height": 173,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 491,
+            "smask": 0,
+            "path": "ignore/extraction/images/c4edc83b66b6cdbeaec869a058c1e5346bc606df705facd65822253a4fc22fa5.jpeg",
+            "sha256": "c4edc83b66b6cdbeaec869a058c1e5346bc606df705facd65822253a4fc22fa5",
+            "width": 213,
+            "height": 21,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 48,
+        "render": "ignore/extraction/presentation/page-048.png",
+        "images": [
+          {
+            "xref": 505,
+            "smask": 0,
+            "path": "ignore/extraction/images/b65ce318a1d51e022dd0c551000e059d8b0c8b914570b2b8055d7616c7391887.jpeg",
+            "sha256": "b65ce318a1d51e022dd0c551000e059d8b0c8b914570b2b8055d7616c7391887",
+            "width": 210,
+            "height": 507,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 506,
+            "smask": 0,
+            "path": "ignore/extraction/images/bc640ab7151cb7df1004f251d3842185bed44cfcdce0ae98caaac617b504cb6a.jpeg",
+            "sha256": "bc640ab7151cb7df1004f251d3842185bed44cfcdce0ae98caaac617b504cb6a",
+            "width": 212,
+            "height": 525,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 507,
+            "smask": 0,
+            "path": "ignore/extraction/images/35767af3a742f55936b94d1d0fe2a61393679745a2b545f970876f20cf0a48bf.jpeg",
+            "sha256": "35767af3a742f55936b94d1d0fe2a61393679745a2b545f970876f20cf0a48bf",
+            "width": 211,
+            "height": 524,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 508,
+            "smask": 0,
+            "path": "ignore/extraction/images/3cd3c4e52406b925be6d121191c3fc5b6135585070e4a773c53eadcdc19aa6f9.jpeg",
+            "sha256": "3cd3c4e52406b925be6d121191c3fc5b6135585070e4a773c53eadcdc19aa6f9",
+            "width": 216,
+            "height": 32,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 509,
+            "smask": 0,
+            "path": "ignore/extraction/images/f24e22db9f5510494636a95543c8261754ae5660bc2f0e40db08dc3087d6f79a.jpeg",
+            "sha256": "f24e22db9f5510494636a95543c8261754ae5660bc2f0e40db08dc3087d6f79a",
+            "width": 197,
+            "height": 18,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 49,
+        "render": "ignore/extraction/presentation/page-049.png",
+        "images": []
+      },
+      {
+        "page": 50,
+        "render": "ignore/extraction/presentation/page-050.png",
+        "images": [
+          {
+            "xref": 525,
+            "smask": 0,
+            "path": "ignore/extraction/images/3bba8a59b7d36e9137a746c0b9a70180b4d48f6ffe086b30dbe7c6197fda08d5.jpeg",
+            "sha256": "3bba8a59b7d36e9137a746c0b9a70180b4d48f6ffe086b30dbe7c6197fda08d5",
+            "width": 226,
+            "height": 47,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 526,
+            "smask": 0,
+            "path": "ignore/extraction/images/ba8288f0e49157f873228c197978df814c944f9c6147192f5240e33c2f1b6894.jpeg",
+            "sha256": "ba8288f0e49157f873228c197978df814c944f9c6147192f5240e33c2f1b6894",
+            "width": 279,
+            "height": 371,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 527,
+            "smask": 0,
+            "path": "ignore/extraction/images/fee7e4a0c202530d5853dfbcdfbf0c697aceb4020a8c4119b18703d1c7deb847.jpeg",
+            "sha256": "fee7e4a0c202530d5853dfbcdfbf0c697aceb4020a8c4119b18703d1c7deb847",
+            "width": 357,
+            "height": 17,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 528,
+            "smask": 0,
+            "path": "ignore/extraction/images/02e4d12cbe35685b8ae545bebce462a738e5aea6b921ec51e0187de1cff2db5d.jpeg",
+            "sha256": "02e4d12cbe35685b8ae545bebce462a738e5aea6b921ec51e0187de1cff2db5d",
+            "width": 281,
+            "height": 482,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 529,
+            "smask": 0,
+            "path": "ignore/extraction/images/f3ed495eb20607a23f6e1194f1c67ee379658c53b613fe0f1cd142aa38322e22.jpeg",
+            "sha256": "f3ed495eb20607a23f6e1194f1c67ee379658c53b613fe0f1cd142aa38322e22",
+            "width": 279,
+            "height": 307,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 51,
+        "render": "ignore/extraction/presentation/page-051.png",
+        "images": [
+          {
+            "xref": 540,
+            "smask": 0,
+            "path": "ignore/extraction/images/bd15bd24c706dd85ee06c884d99a23ed2b3b4077e1c169552c30ed089b2ef786.jpeg",
+            "sha256": "bd15bd24c706dd85ee06c884d99a23ed2b3b4077e1c169552c30ed089b2ef786",
+            "width": 283,
+            "height": 425,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 541,
+            "smask": 0,
+            "path": "ignore/extraction/images/82a09a1a997eca4d36383ac7547e5793d7938c39c6fa254ced514ec5aa12d274.jpeg",
+            "sha256": "82a09a1a997eca4d36383ac7547e5793d7938c39c6fa254ced514ec5aa12d274",
+            "width": 281,
+            "height": 371,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 542,
+            "smask": 0,
+            "path": "ignore/extraction/images/1af7ced4ce29cfd5c852c1adc5dc4289e14fe3cc1ce86a6fc0d7ca2382fea0a3.jpeg",
+            "sha256": "1af7ced4ce29cfd5c852c1adc5dc4289e14fe3cc1ce86a6fc0d7ca2382fea0a3",
+            "width": 282,
+            "height": 131,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 543,
+            "smask": 0,
+            "path": "ignore/extraction/images/c66786e9ce78010176466f3e20f247e6d930144eb5672489df9c1a13c16d1ff2.jpeg",
+            "sha256": "c66786e9ce78010176466f3e20f247e6d930144eb5672489df9c1a13c16d1ff2",
+            "width": 347,
+            "height": 25,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 52,
+        "render": "ignore/extraction/presentation/page-052.png",
+        "images": [
+          {
+            "xref": 553,
+            "smask": 0,
+            "path": "ignore/extraction/images/766123c7a9b84152b7ff2f9aed036eb7f6caa9c2d3ca66de4c99568d285371ad.jpeg",
+            "sha256": "766123c7a9b84152b7ff2f9aed036eb7f6caa9c2d3ca66de4c99568d285371ad",
+            "width": 306,
+            "height": 401,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 554,
+            "smask": 0,
+            "path": "ignore/extraction/images/1a091f5604d7baa114a95731a779b76461b87c29f4973437ae7222652df4a16d.jpeg",
+            "sha256": "1a091f5604d7baa114a95731a779b76461b87c29f4973437ae7222652df4a16d",
+            "width": 305,
+            "height": 367,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 555,
+            "smask": 0,
+            "path": "ignore/extraction/images/720958feaa111de273d568a614b29ddabeee2c1cac68b30f61eaf8dd8d395cce.jpeg",
+            "sha256": "720958feaa111de273d568a614b29ddabeee2c1cac68b30f61eaf8dd8d395cce",
+            "width": 305,
+            "height": 314,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 556,
+            "smask": 0,
+            "path": "ignore/extraction/images/a9155d50297384e3695976f19acca04338ba28ab4355225febd117f8019301c5.jpeg",
+            "sha256": "a9155d50297384e3695976f19acca04338ba28ab4355225febd117f8019301c5",
+            "width": 305,
+            "height": 345,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 557,
+            "smask": 0,
+            "path": "ignore/extraction/images/60ca27cd36bbc054dbe8e48d9aad93a4d31773c336ff1bcbc8f92744c6b1e5dc.jpeg",
+            "sha256": "60ca27cd36bbc054dbe8e48d9aad93a4d31773c336ff1bcbc8f92744c6b1e5dc",
+            "width": 207,
+            "height": 18,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 53,
+        "render": "ignore/extraction/presentation/page-053.png",
+        "images": [
+          {
+            "xref": 568,
+            "smask": 0,
+            "path": "ignore/extraction/images/9fd7c1ad40cdbc4d445ba2019f92dde46f74b252ec87a780625bb47229484ca2.jpeg",
+            "sha256": "9fd7c1ad40cdbc4d445ba2019f92dde46f74b252ec87a780625bb47229484ca2",
+            "width": 454,
+            "height": 470,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 569,
+            "smask": 0,
+            "path": "ignore/extraction/images/535d92be2f7fbbeec0736d692fcae2f3d2db0acae48061e470e44ad30887483d.jpeg",
+            "sha256": "535d92be2f7fbbeec0736d692fcae2f3d2db0acae48061e470e44ad30887483d",
+            "width": 219,
+            "height": 390,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 570,
+            "smask": 0,
+            "path": "ignore/extraction/images/fbf9c5a7c6a77d25fac24ae7076bcd7ab8c15cfd533b13aada1331dc6495ac1a.jpeg",
+            "sha256": "fbf9c5a7c6a77d25fac24ae7076bcd7ab8c15cfd533b13aada1331dc6495ac1a",
+            "width": 230,
+            "height": 57,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 571,
+            "smask": 0,
+            "path": "ignore/extraction/images/095f66a2eaf2f54c6561ddd7e2fa7417c3e8a12016728e86fb9e587fb499ea96.jpeg",
+            "sha256": "095f66a2eaf2f54c6561ddd7e2fa7417c3e8a12016728e86fb9e587fb499ea96",
+            "width": 203,
+            "height": 21,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 572,
+            "smask": 0,
+            "path": "ignore/extraction/images/6551208640e2643549813a24e5e7037d06c1c4cedbb7e61a6ef86465cf33466d.jpeg",
+            "sha256": "6551208640e2643549813a24e5e7037d06c1c4cedbb7e61a6ef86465cf33466d",
+            "width": 203,
+            "height": 227,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 573,
+            "smask": 0,
+            "path": "ignore/extraction/images/e7c57109371365be06786e837e88357edf108bb18ff3ff788fb5384513524cae.jpeg",
+            "sha256": "e7c57109371365be06786e837e88357edf108bb18ff3ff788fb5384513524cae",
+            "width": 1136,
+            "height": 1458,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 54,
+        "render": "ignore/extraction/presentation/page-054.png",
+        "images": [
+          {
+            "xref": 585,
+            "smask": 0,
+            "path": "ignore/extraction/images/95b854fe7b7a84531503b1299b5e68c5b1141b9ca6d97b844b6b0fc1c8b57184.jpeg",
+            "sha256": "95b854fe7b7a84531503b1299b5e68c5b1141b9ca6d97b844b6b0fc1c8b57184",
+            "width": 228,
+            "height": 332,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 586,
+            "smask": 0,
+            "path": "ignore/extraction/images/b349eb322f5934697f22cb0d1daef8785d70acafb1ef25ec68978a0007a2e1a5.jpeg",
+            "sha256": "b349eb322f5934697f22cb0d1daef8785d70acafb1ef25ec68978a0007a2e1a5",
+            "width": 226,
+            "height": 331,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 587,
+            "smask": 0,
+            "path": "ignore/extraction/images/f0a046b3fcbb6db304725985a209b1b80a32530a5849c9701cb16dbea4e2cf8e.jpeg",
+            "sha256": "f0a046b3fcbb6db304725985a209b1b80a32530a5849c9701cb16dbea4e2cf8e",
+            "width": 225,
+            "height": 210,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 588,
+            "smask": 0,
+            "path": "ignore/extraction/images/a1f53761f12a36f87aa3442e83ac3966695c0118c258e969d4d7635f6b6b87a4.jpeg",
+            "sha256": "a1f53761f12a36f87aa3442e83ac3966695c0118c258e969d4d7635f6b6b87a4",
+            "width": 224,
+            "height": 139,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 589,
+            "smask": 0,
+            "path": "ignore/extraction/images/7dee3dafced6fccc3ec27dfadea1534ae63b61e5845f0318d247023acc1e7695.jpeg",
+            "sha256": "7dee3dafced6fccc3ec27dfadea1534ae63b61e5845f0318d247023acc1e7695",
+            "width": 224,
+            "height": 363,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 590,
+            "smask": 0,
+            "path": "ignore/extraction/images/80cafd065568c190cd9158d4e56f2d246e0caea1af8c524bb1dc9522b2330347.jpeg",
+            "sha256": "80cafd065568c190cd9158d4e56f2d246e0caea1af8c524bb1dc9522b2330347",
+            "width": 223,
+            "height": 69,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 591,
+            "smask": 0,
+            "path": "ignore/extraction/images/52c63611de23aa8da15ab5b77d77e58f9017f3719f8c16619b10eb2175febca9.jpeg",
+            "sha256": "52c63611de23aa8da15ab5b77d77e58f9017f3719f8c16619b10eb2175febca9",
+            "width": 226,
+            "height": 427,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 592,
+            "smask": 0,
+            "path": "ignore/extraction/images/1e7e9dfbdeb2473bdc33cfa51d718a58f2d385c3e595be2752bf2edddbe090fb.jpeg",
+            "sha256": "1e7e9dfbdeb2473bdc33cfa51d718a58f2d385c3e595be2752bf2edddbe090fb",
+            "width": 203,
+            "height": 22,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 55,
+        "render": "ignore/extraction/presentation/page-055.png",
+        "images": [
+          {
+            "xref": 606,
+            "smask": 0,
+            "path": "ignore/extraction/images/2bd9eb88a9b2ad88e975352fd5cce2af805bb8c4b11e2b5a6909605aebff37a3.jpeg",
+            "sha256": "2bd9eb88a9b2ad88e975352fd5cce2af805bb8c4b11e2b5a6909605aebff37a3",
+            "width": 675,
+            "height": 429,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 56,
+        "render": "ignore/extraction/presentation/page-056.png",
+        "images": [
+          {
+            "xref": 613,
+            "smask": 0,
+            "path": "ignore/extraction/images/ebeee15c22c4c0e0a3413b2fada047418f93fe55b3cb9637685395f0cb74ea23.jpeg",
+            "sha256": "ebeee15c22c4c0e0a3413b2fada047418f93fe55b3cb9637685395f0cb74ea23",
+            "width": 218,
+            "height": 20,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 614,
+            "smask": 0,
+            "path": "ignore/extraction/images/fcfc8a7b521f3de9af1a365a5d8574dc3232ca18830e51ba3cf40abc5ca9513e.jpeg",
+            "sha256": "fcfc8a7b521f3de9af1a365a5d8574dc3232ca18830e51ba3cf40abc5ca9513e",
+            "width": 229,
+            "height": 251,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 615,
+            "smask": 0,
+            "path": "ignore/extraction/images/cb76bc96036aba0cd5cf49f5c93c4246e0928f1cc9dfdf6d38c727fd58a00465.jpeg",
+            "sha256": "cb76bc96036aba0cd5cf49f5c93c4246e0928f1cc9dfdf6d38c727fd58a00465",
+            "width": 231,
+            "height": 242,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 57,
+        "render": "ignore/extraction/presentation/page-057.png",
+        "images": [
+          {
+            "xref": 624,
+            "smask": 0,
+            "path": "ignore/extraction/images/803d82f144d8e1c35bff9e9b19d644b91a1315e1c8e8c67bdf1703fe9e62313c.jpeg",
+            "sha256": "803d82f144d8e1c35bff9e9b19d644b91a1315e1c8e8c67bdf1703fe9e62313c",
+            "width": 227,
+            "height": 417,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 625,
+            "smask": 0,
+            "path": "ignore/extraction/images/64136bfd9fd46c1c6856fb4c2f49a24ed294b4311807e690345bfa8a2482db6a.jpeg",
+            "sha256": "64136bfd9fd46c1c6856fb4c2f49a24ed294b4311807e690345bfa8a2482db6a",
+            "width": 227,
+            "height": 295,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 626,
+            "smask": 0,
+            "path": "ignore/extraction/images/d3f410954d89a9e3c57d07b9244ac2f0877250c7c481fa33690f07fdf0cc9764.jpeg",
+            "sha256": "d3f410954d89a9e3c57d07b9244ac2f0877250c7c481fa33690f07fdf0cc9764",
+            "width": 226,
+            "height": 233,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 627,
+            "smask": 0,
+            "path": "ignore/extraction/images/a633901bcf788eb799a662a8408b425952e18d7a6af20865ea91f70e5dcd44a4.jpeg",
+            "sha256": "a633901bcf788eb799a662a8408b425952e18d7a6af20865ea91f70e5dcd44a4",
+            "width": 254,
+            "height": 24,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 58,
+        "render": "ignore/extraction/presentation/page-058.png",
+        "images": [
+          {
+            "xref": 637,
+            "smask": 0,
+            "path": "ignore/extraction/images/78785d47b978a54c8ead917a443df98c12e620623e85fbcd52cb8c9d1917963d.jpeg",
+            "sha256": "78785d47b978a54c8ead917a443df98c12e620623e85fbcd52cb8c9d1917963d",
+            "width": 223,
+            "height": 223,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 638,
+            "smask": 0,
+            "path": "ignore/extraction/images/c98fe873495f2c39bd24f568d80dd862c663b47f124cebb799c5785f1f1cb973.jpeg",
+            "sha256": "c98fe873495f2c39bd24f568d80dd862c663b47f124cebb799c5785f1f1cb973",
+            "width": 223,
+            "height": 16,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 639,
+            "smask": 0,
+            "path": "ignore/extraction/images/d541d51af93a69608542a76ffb9e2852ba4f9f040c4a59e33922649a52e9228b.jpeg",
+            "sha256": "d541d51af93a69608542a76ffb9e2852ba4f9f040c4a59e33922649a52e9228b",
+            "width": 227,
+            "height": 424,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 640,
+            "smask": 0,
+            "path": "ignore/extraction/images/9e8d3e30660e467bc27f169494ae03dbc4292381a336a0b5e0ffbfcb43afa5c3.jpeg",
+            "sha256": "9e8d3e30660e467bc27f169494ae03dbc4292381a336a0b5e0ffbfcb43afa5c3",
+            "width": 225,
+            "height": 436,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 641,
+            "smask": 0,
+            "path": "ignore/extraction/images/f58f359c96b831e4a9a1bc99ae9ce8df060e63635db2316d7edf4c7e72a6b169.jpeg",
+            "sha256": "f58f359c96b831e4a9a1bc99ae9ce8df060e63635db2316d7edf4c7e72a6b169",
+            "width": 227,
+            "height": 383,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 59,
+        "render": "ignore/extraction/presentation/page-059.png",
+        "images": [
+          {
+            "xref": 652,
+            "smask": 0,
+            "path": "ignore/extraction/images/59c36c54edbc5469a9388e8f7f45708b72224980468275c55910f3f28767120b.jpeg",
+            "sha256": "59c36c54edbc5469a9388e8f7f45708b72224980468275c55910f3f28767120b",
+            "width": 231,
+            "height": 451,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 653,
+            "smask": 0,
+            "path": "ignore/extraction/images/42476a47c8ba33c2b7036d84e0b5f81806f765931ffda9e8f85f649c528c4967.jpeg",
+            "sha256": "42476a47c8ba33c2b7036d84e0b5f81806f765931ffda9e8f85f649c528c4967",
+            "width": 227,
+            "height": 478,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 654,
+            "smask": 0,
+            "path": "ignore/extraction/images/617f7b3232347dfe5a6502e9b389f7ac318fabc35e329187f8053cfcde0668ae.jpeg",
+            "sha256": "617f7b3232347dfe5a6502e9b389f7ac318fabc35e329187f8053cfcde0668ae",
+            "width": 227,
+            "height": 409,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 655,
+            "smask": 0,
+            "path": "ignore/extraction/images/19430b03880ad8863729a895da970e386a96664a57b01cb885d6aa5159e06b20.jpeg",
+            "sha256": "19430b03880ad8863729a895da970e386a96664a57b01cb885d6aa5159e06b20",
+            "width": 225,
+            "height": 51,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 60,
+        "render": "ignore/extraction/presentation/page-060.png",
+        "images": [
+          {
+            "xref": 665,
+            "smask": 0,
+            "path": "ignore/extraction/images/850eb2d88b75358a12bde3478840c44ac5d8af0453e5c26f19d613294923323a.jpeg",
+            "sha256": "850eb2d88b75358a12bde3478840c44ac5d8af0453e5c26f19d613294923323a",
+            "width": 227,
+            "height": 332,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 666,
+            "smask": 0,
+            "path": "ignore/extraction/images/f89e12eed69344d9a1ef9862978e73ec261e83bb58bae59778af00af93c19e98.jpeg",
+            "sha256": "f89e12eed69344d9a1ef9862978e73ec261e83bb58bae59778af00af93c19e98",
+            "width": 226,
+            "height": 316,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 667,
+            "smask": 0,
+            "path": "ignore/extraction/images/e1a55b209c51c912511e46a0cf6d104e51bca1cb78c12f71780e50c3bb121648.jpeg",
+            "sha256": "e1a55b209c51c912511e46a0cf6d104e51bca1cb78c12f71780e50c3bb121648",
+            "width": 224,
+            "height": 168,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 668,
+            "smask": 0,
+            "path": "ignore/extraction/images/b6ecb9a682e258db530fa7eb8860901934225f2a0e5e6d9f12f8bd20b1821150.jpeg",
+            "sha256": "b6ecb9a682e258db530fa7eb8860901934225f2a0e5e6d9f12f8bd20b1821150",
+            "width": 226,
+            "height": 47,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 61,
+        "render": "ignore/extraction/presentation/page-061.png",
+        "images": [
+          {
+            "xref": 678,
+            "smask": 0,
+            "path": "ignore/extraction/images/5bfbe08f16d2056e710c7892c85e31c11815df2159e31b7b350eaf35997924b3.jpeg",
+            "sha256": "5bfbe08f16d2056e710c7892c85e31c11815df2159e31b7b350eaf35997924b3",
+            "width": 183,
+            "height": 17,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 679,
+            "smask": 0,
+            "path": "ignore/extraction/images/ad122139a0e6880ef54e70f7d394be284ae88f6ce44ab7347d825339a2c2e024.jpeg",
+            "sha256": "ad122139a0e6880ef54e70f7d394be284ae88f6ce44ab7347d825339a2c2e024",
+            "width": 226,
+            "height": 411,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 680,
+            "smask": 0,
+            "path": "ignore/extraction/images/ffaf02c2796b018a832f0e091f535a302a722b1cbd630b91955a41345a9fc8df.jpeg",
+            "sha256": "ffaf02c2796b018a832f0e091f535a302a722b1cbd630b91955a41345a9fc8df",
+            "width": 231,
+            "height": 263,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 681,
+            "smask": 0,
+            "path": "ignore/extraction/images/dbdfa5f77a51d444371aacb0a5d14fedfde398a374b189b3e7d05e17b7bd75d0.jpeg",
+            "sha256": "dbdfa5f77a51d444371aacb0a5d14fedfde398a374b189b3e7d05e17b7bd75d0",
+            "width": 223,
+            "height": 189,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 62,
+        "render": "ignore/extraction/presentation/page-062.png",
+        "images": []
+      },
+      {
+        "page": 63,
+        "render": "ignore/extraction/presentation/page-063.png",
+        "images": [
+          {
+            "xref": 696,
+            "smask": 0,
+            "path": "ignore/extraction/images/63102f49ed285b4c2c48e2601e6f30b81bfc877f17131edab0ad58be39801817.jpeg",
+            "sha256": "63102f49ed285b4c2c48e2601e6f30b81bfc877f17131edab0ad58be39801817",
+            "width": 598,
+            "height": 361,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 64,
+        "render": "ignore/extraction/presentation/page-064.png",
+        "images": [
+          {
+            "xref": 703,
+            "smask": 0,
+            "path": "ignore/extraction/images/fbd8a35f95b6493e0e360cb74932e7964cb8d006a22492b6c6512ee7df43b18c.jpeg",
+            "sha256": "fbd8a35f95b6493e0e360cb74932e7964cb8d006a22492b6c6512ee7df43b18c",
+            "width": 598,
+            "height": 414,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 65,
+        "render": "ignore/extraction/presentation/page-065.png",
+        "images": [
+          {
+            "xref": 710,
+            "smask": 0,
+            "path": "ignore/extraction/images/646fe3218a718904f8644b6c857656cf0f2d0ad5fb4fb2ff382bacfbbdc8628c.jpeg",
+            "sha256": "646fe3218a718904f8644b6c857656cf0f2d0ad5fb4fb2ff382bacfbbdc8628c",
+            "width": 598,
+            "height": 495,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 711,
+            "smask": 0,
+            "path": "ignore/extraction/images/9986b71e254d71af14202e5ee999339ee8cbde85d3db0396e38c397ec0cb941b.jpeg",
+            "sha256": "9986b71e254d71af14202e5ee999339ee8cbde85d3db0396e38c397ec0cb941b",
+            "width": 240,
+            "height": 319,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 66,
+        "render": "ignore/extraction/presentation/page-066.png",
+        "images": [
+          {
+            "xref": 719,
+            "smask": 0,
+            "path": "ignore/extraction/images/241dec438f113d1a810635c573007e6d0ceae562035f78161230afe276a48b57.jpeg",
+            "sha256": "241dec438f113d1a810635c573007e6d0ceae562035f78161230afe276a48b57",
+            "width": 925,
+            "height": 775,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 67,
+        "render": "ignore/extraction/presentation/page-067.png",
+        "images": [
+          {
+            "xref": 726,
+            "smask": 0,
+            "path": "ignore/extraction/images/f06f7bae0219fd34663d9d7023c8e2dd9ad3e6e3317d15b27aa8d140b03db4b9.jpeg",
+            "sha256": "f06f7bae0219fd34663d9d7023c8e2dd9ad3e6e3317d15b27aa8d140b03db4b9",
+            "width": 258,
+            "height": 401,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 727,
+            "smask": 0,
+            "path": "ignore/extraction/images/fa8f5b9143f37e91822d508dcca5b381fa44d7731ce01237cb22a546b8111d69.jpeg",
+            "sha256": "fa8f5b9143f37e91822d508dcca5b381fa44d7731ce01237cb22a546b8111d69",
+            "width": 255,
+            "height": 372,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 728,
+            "smask": 0,
+            "path": "ignore/extraction/images/ba558474896feb1f5ce1f7de8f08dbca63a9a3cb913ee0d59de62ac8fc276b01.jpeg",
+            "sha256": "ba558474896feb1f5ce1f7de8f08dbca63a9a3cb913ee0d59de62ac8fc276b01",
+            "width": 250,
+            "height": 312,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 729,
+            "smask": 0,
+            "path": "ignore/extraction/images/6459cfc9b4b549cba771b6089826b146d92f271900e83c2f6b4489c3add789a1.jpeg",
+            "sha256": "6459cfc9b4b549cba771b6089826b146d92f271900e83c2f6b4489c3add789a1",
+            "width": 307,
+            "height": 17,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 68,
+        "render": "ignore/extraction/presentation/page-068.png",
+        "images": [
+          {
+            "xref": 739,
+            "smask": 0,
+            "path": "ignore/extraction/images/bcfe52a5e9734ea89c8fcbd428e1f4b6327cb0b116c7f4e40cbc329e11fea4c7.jpeg",
+            "sha256": "bcfe52a5e9734ea89c8fcbd428e1f4b6327cb0b116c7f4e40cbc329e11fea4c7",
+            "width": 280,
+            "height": 453,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 740,
+            "smask": 0,
+            "path": "ignore/extraction/images/8585e05bb9df87b34bd923a5aa1afbfa64873dc38c959f7184d7f76adde0886d.jpeg",
+            "sha256": "8585e05bb9df87b34bd923a5aa1afbfa64873dc38c959f7184d7f76adde0886d",
+            "width": 281,
+            "height": 464,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 741,
+            "smask": 0,
+            "path": "ignore/extraction/images/41b83ab0034a16d84c0746caf14de98a9039bbef648d706e63aa9daf74dd2ca8.jpeg",
+            "sha256": "41b83ab0034a16d84c0746caf14de98a9039bbef648d706e63aa9daf74dd2ca8",
+            "width": 277,
+            "height": 383,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 742,
+            "smask": 0,
+            "path": "ignore/extraction/images/7955fb529d6e50a9f40a3041731f9dc90cfa3ec0fb35911a72d0e2749af34bb3.jpeg",
+            "sha256": "7955fb529d6e50a9f40a3041731f9dc90cfa3ec0fb35911a72d0e2749af34bb3",
+            "width": 234,
+            "height": 23,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 69,
+        "render": "ignore/extraction/presentation/page-069.png",
+        "images": [
+          {
+            "xref": 752,
+            "smask": 0,
+            "path": "ignore/extraction/images/9c266675ca2ac195e7fe28b0ec1f7e039883032596abb8757da2a03ab5bb7257.jpeg",
+            "sha256": "9c266675ca2ac195e7fe28b0ec1f7e039883032596abb8757da2a03ab5bb7257",
+            "width": 570,
+            "height": 389,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 753,
+            "smask": 0,
+            "path": "ignore/extraction/images/e13d4587c60e26ba27c4d39759c55457d9d7b51f06b5275d746ef867abcea680.jpeg",
+            "sha256": "e13d4587c60e26ba27c4d39759c55457d9d7b51f06b5275d746ef867abcea680",
+            "width": 250,
+            "height": 21,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 70,
+        "render": "ignore/extraction/presentation/page-070.png",
+        "images": [
+          {
+            "xref": 761,
+            "smask": 0,
+            "path": "ignore/extraction/images/5af70868fcb45b5b23afbd6fa9c59297da991bea631033cf388c3c2d67fdd115.jpeg",
+            "sha256": "5af70868fcb45b5b23afbd6fa9c59297da991bea631033cf388c3c2d67fdd115",
+            "width": 1143,
+            "height": 773,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 762,
+            "smask": 0,
+            "path": "ignore/extraction/images/43299e8e6d8e9a7ad91a1f79c4fb59612890ddd72a221706c29fc97354dbd5c0.jpeg",
+            "sha256": "43299e8e6d8e9a7ad91a1f79c4fb59612890ddd72a221706c29fc97354dbd5c0",
+            "width": 231,
+            "height": 21,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 71,
+        "render": "ignore/extraction/presentation/page-071.png",
+        "images": [
+          {
+            "xref": 770,
+            "smask": 0,
+            "path": "ignore/extraction/images/70c3e71f928ba91bca8a1d29d1b21948724ae823f4bf8c9cb0591fbe2b5056d6.jpeg",
+            "sha256": "70c3e71f928ba91bca8a1d29d1b21948724ae823f4bf8c9cb0591fbe2b5056d6",
+            "width": 2048,
+            "height": 1447,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 72,
+        "render": "ignore/extraction/presentation/page-072.png",
+        "images": [
+          {
+            "xref": 777,
+            "smask": 0,
+            "path": "ignore/extraction/images/d92ea60c27cb2a486c21a3704f09ca2c727935713f2ad7cfdaeaf2a564508a46.jpeg",
+            "sha256": "d92ea60c27cb2a486c21a3704f09ca2c727935713f2ad7cfdaeaf2a564508a46",
+            "width": 2048,
+            "height": 1607,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 73,
+        "render": "ignore/extraction/presentation/page-073.png",
+        "images": [
+          {
+            "xref": 784,
+            "smask": 785,
+            "path": "ignore/extraction/images/fd25a9c689a65c48a99d27ffe632e603a5a135446301435e51a408263cb2979c.jpeg",
+            "sha256": "fd25a9c689a65c48a99d27ffe632e603a5a135446301435e51a408263cb2979c",
+            "width": 1483,
+            "height": 2048,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 170,
+            "smask": 177,
+            "path": "ignore/extraction/images/8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d.png",
+            "sha256": "8083d6db9a346e605fcf2ffd5c7b403d74638e60c5e9f3465e0186b571c16d7d",
+            "width": 96,
+            "height": 96,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 74,
+        "render": "ignore/extraction/presentation/page-074.png",
+        "images": [
+          {
+            "xref": 793,
+            "smask": 0,
+            "path": "ignore/extraction/images/558b4d289345160c8778d18b317a0eb0f958fc46ed5ae083bb58267fefe2cde1.jpeg",
+            "sha256": "558b4d289345160c8778d18b317a0eb0f958fc46ed5ae083bb58267fefe2cde1",
+            "width": 1080,
+            "height": 1080,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 75,
+        "render": "ignore/extraction/presentation/page-075.png",
+        "images": [
+          {
+            "xref": 800,
+            "smask": 0,
+            "path": "ignore/extraction/images/501a2a541e93272ae56615b071b999b67baec814e991cb505672a83a13033eb4.jpeg",
+            "sha256": "501a2a541e93272ae56615b071b999b67baec814e991cb505672a83a13033eb4",
+            "width": 320,
+            "height": 180,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 76,
+        "render": "ignore/extraction/presentation/page-076.png",
+        "images": [
+          {
+            "xref": 807,
+            "smask": 0,
+            "path": "ignore/extraction/images/171b2cdac8bba3d8a866946bf52fab621564def1b39d79d9b5da602a6cb3e132.jpeg",
+            "sha256": "171b2cdac8bba3d8a866946bf52fab621564def1b39d79d9b5da602a6cb3e132",
+            "width": 1600,
+            "height": 1054,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 77,
+        "render": "ignore/extraction/presentation/page-077.png",
+        "images": [
+          {
+            "xref": 814,
+            "smask": 0,
+            "path": "ignore/extraction/images/6f135a014c668e4aaa02bf54735902b2836bd932017b67ce77838ce2333bd01f.jpeg",
+            "sha256": "6f135a014c668e4aaa02bf54735902b2836bd932017b67ce77838ce2333bd01f",
+            "width": 1600,
+            "height": 1056,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 78,
+        "render": "ignore/extraction/presentation/page-078.png",
+        "images": [
+          {
+            "xref": 821,
+            "smask": 0,
+            "path": "ignore/extraction/images/d5592130e80374c7a9b79d840685e1aa8bfc907490548849fdc5f3acd8279d07.jpeg",
+            "sha256": "d5592130e80374c7a9b79d840685e1aa8bfc907490548849fdc5f3acd8279d07",
+            "width": 1600,
+            "height": 1041,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 79,
+        "render": "ignore/extraction/presentation/page-079.png",
+        "images": [
+          {
+            "xref": 828,
+            "smask": 0,
+            "path": "ignore/extraction/images/e039429aa4ae41b1a2a22f6285099b5ae8d91ec3412c45f3a071507d7bea74ff.jpeg",
+            "sha256": "e039429aa4ae41b1a2a22f6285099b5ae8d91ec3412c45f3a071507d7bea74ff",
+            "width": 1000,
+            "height": 647,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 80,
+        "render": "ignore/extraction/presentation/page-080.png",
+        "images": [
+          {
+            "xref": 835,
+            "smask": 0,
+            "path": "ignore/extraction/images/19847c269e4270726f08a71926ee4cc4dc13526e99c1ab52dc58f08a0c50b603.jpeg",
+            "sha256": "19847c269e4270726f08a71926ee4cc4dc13526e99c1ab52dc58f08a0c50b603",
+            "width": 1600,
+            "height": 1048,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 81,
+        "render": "ignore/extraction/presentation/page-081.png",
+        "images": [
+          {
+            "xref": 842,
+            "smask": 0,
+            "path": "ignore/extraction/images/743d276426671833f12fb125475514641cea68f4bb887c1ccca5b5eb62bfd2b1.jpeg",
+            "sha256": "743d276426671833f12fb125475514641cea68f4bb887c1ccca5b5eb62bfd2b1",
+            "width": 1600,
+            "height": 1029,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 82,
+        "render": "ignore/extraction/presentation/page-082.png",
+        "images": [
+          {
+            "xref": 849,
+            "smask": 0,
+            "path": "ignore/extraction/images/4d9f76e3c5a0db575bc325845fca28d507fde194fdec7d8509cd2194b71ee875.jpeg",
+            "sha256": "4d9f76e3c5a0db575bc325845fca28d507fde194fdec7d8509cd2194b71ee875",
+            "width": 600,
+            "height": 383,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 83,
+        "render": "ignore/extraction/presentation/page-083.png",
+        "images": [
+          {
+            "xref": 856,
+            "smask": 0,
+            "path": "ignore/extraction/images/5a29fe3ed298dccd13074116589a33b9ce00446a4bcceaad0481f508b4ac28ac.jpeg",
+            "sha256": "5a29fe3ed298dccd13074116589a33b9ce00446a4bcceaad0481f508b4ac28ac",
+            "width": 1000,
+            "height": 642,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 84,
+        "render": "ignore/extraction/presentation/page-084.png",
+        "images": [
+          {
+            "xref": 863,
+            "smask": 0,
+            "path": "ignore/extraction/images/9c49c70fe0edd87536ea8e4f956ea1b385db826cafbbbb2e0c7577b2d7dd9e13.jpeg",
+            "sha256": "9c49c70fe0edd87536ea8e4f956ea1b385db826cafbbbb2e0c7577b2d7dd9e13",
+            "width": 1600,
+            "height": 1053,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 85,
+        "render": "ignore/extraction/presentation/page-085.png",
+        "images": [
+          {
+            "xref": 870,
+            "smask": 0,
+            "path": "ignore/extraction/images/25100c4e35f0f7b9c77993a4fced6ff99b6d0cd659d8e5bca96b6c5192052e29.jpeg",
+            "sha256": "25100c4e35f0f7b9c77993a4fced6ff99b6d0cd659d8e5bca96b6c5192052e29",
+            "width": 1600,
+            "height": 1036,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 86,
+        "render": "ignore/extraction/presentation/page-086.png",
+        "images": [
+          {
+            "xref": 877,
+            "smask": 0,
+            "path": "ignore/extraction/images/e38585683968ecea082ecee1dc8953c1551558c376902c18f9f9d00478b3c23c.jpeg",
+            "sha256": "e38585683968ecea082ecee1dc8953c1551558c376902c18f9f9d00478b3c23c",
+            "width": 1600,
+            "height": 1066,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 87,
+        "render": "ignore/extraction/presentation/page-087.png",
+        "images": [
+          {
+            "xref": 884,
+            "smask": 0,
+            "path": "ignore/extraction/images/cebcb9189cc05dd66234537b0d274bdfc860dbf964e010830353b68ec3f812c8.jpeg",
+            "sha256": "cebcb9189cc05dd66234537b0d274bdfc860dbf964e010830353b68ec3f812c8",
+            "width": 1600,
+            "height": 1040,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 88,
+        "render": "ignore/extraction/presentation/page-088.png",
+        "images": [
+          {
+            "xref": 891,
+            "smask": 0,
+            "path": "ignore/extraction/images/e12b809801ae4ea1429e63218ba10f7ac5c642781fe736ae8361ed6dd47516bd.jpeg",
+            "sha256": "e12b809801ae4ea1429e63218ba10f7ac5c642781fe736ae8361ed6dd47516bd",
+            "width": 1600,
+            "height": 1083,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 89,
+        "render": "ignore/extraction/presentation/page-089.png",
+        "images": [
+          {
+            "xref": 898,
+            "smask": 0,
+            "path": "ignore/extraction/images/ea3dad766e40dfe9dff5c9ff4fc8d7058d05636ef16b0997798053296c4a687d.jpeg",
+            "sha256": "ea3dad766e40dfe9dff5c9ff4fc8d7058d05636ef16b0997798053296c4a687d",
+            "width": 1600,
+            "height": 1006,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 90,
+        "render": "ignore/extraction/presentation/page-090.png",
+        "images": [
+          {
+            "xref": 905,
+            "smask": 0,
+            "path": "ignore/extraction/images/e73de11ecefbc8ca0e76d747b3f154c988e4448745c68d78426cea981dd5fe51.jpeg",
+            "sha256": "e73de11ecefbc8ca0e76d747b3f154c988e4448745c68d78426cea981dd5fe51",
+            "width": 1600,
+            "height": 1044,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 91,
+        "render": "ignore/extraction/presentation/page-091.png",
+        "images": [
+          {
+            "xref": 912,
+            "smask": 0,
+            "path": "ignore/extraction/images/3846a358aeec161a40693d2c53a8213342a4a7da6e2d6be60d0c74ad66f26d19.jpeg",
+            "sha256": "3846a358aeec161a40693d2c53a8213342a4a7da6e2d6be60d0c74ad66f26d19",
+            "width": 1798,
+            "height": 1145,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 92,
+        "render": "ignore/extraction/presentation/page-092.png",
+        "images": [
+          {
+            "xref": 919,
+            "smask": 0,
+            "path": "ignore/extraction/images/8264df0b698dc862d312f914303cca7782ff27eeaa238b9a74d9501a09ac1c0c.jpeg",
+            "sha256": "8264df0b698dc862d312f914303cca7782ff27eeaa238b9a74d9501a09ac1c0c",
+            "width": 1066,
+            "height": 1600,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 93,
+        "render": "ignore/extraction/presentation/page-093.png",
+        "images": [
+          {
+            "xref": 926,
+            "smask": 0,
+            "path": "ignore/extraction/images/4952cda0dfc920804b6e31163307a5a46258207abe3ebcc805b06082b7e1a8bb.jpeg",
+            "sha256": "4952cda0dfc920804b6e31163307a5a46258207abe3ebcc805b06082b7e1a8bb",
+            "width": 1600,
+            "height": 1040,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 94,
+        "render": "ignore/extraction/presentation/page-094.png",
+        "images": [
+          {
+            "xref": 933,
+            "smask": 0,
+            "path": "ignore/extraction/images/7088be59fb981425444bb7ae2930748b03e8065413218801bd3ae145271ecaca.jpeg",
+            "sha256": "7088be59fb981425444bb7ae2930748b03e8065413218801bd3ae145271ecaca",
+            "width": 600,
+            "height": 391,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 95,
+        "render": "ignore/extraction/presentation/page-095.png",
+        "images": [
+          {
+            "xref": 940,
+            "smask": 0,
+            "path": "ignore/extraction/images/8e88160bde896a8cd09e6bb3f2ebd083ba8f51b5ee00d07241afe4795ab9486a.jpeg",
+            "sha256": "8e88160bde896a8cd09e6bb3f2ebd083ba8f51b5ee00d07241afe4795ab9486a",
+            "width": 900,
+            "height": 595,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 96,
+        "render": "ignore/extraction/presentation/page-096.png",
+        "images": [
+          {
+            "xref": 947,
+            "smask": 0,
+            "path": "ignore/extraction/images/7f176df221797bee4f5ca2386d3de36eaba4183dd3001a23df9fd8c53251346c.jpeg",
+            "sha256": "7f176df221797bee4f5ca2386d3de36eaba4183dd3001a23df9fd8c53251346c",
+            "width": 800,
+            "height": 486,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 97,
+        "render": "ignore/extraction/presentation/page-097.png",
+        "images": [
+          {
+            "xref": 954,
+            "smask": 0,
+            "path": "ignore/extraction/images/c201972ad02c9ac66636bbf73d06c32388a03bec9fec3646b486ff95da741a06.jpeg",
+            "sha256": "c201972ad02c9ac66636bbf73d06c32388a03bec9fec3646b486ff95da741a06",
+            "width": 800,
+            "height": 486,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 98,
+        "render": "ignore/extraction/presentation/page-098.png",
+        "images": [
+          {
+            "xref": 961,
+            "smask": 0,
+            "path": "ignore/extraction/images/fc0d7354dc81057b4f8577d0cdceaa10073e1e2529a4b0d9f39b02e07b38f743.jpeg",
+            "sha256": "fc0d7354dc81057b4f8577d0cdceaa10073e1e2529a4b0d9f39b02e07b38f743",
+            "width": 638,
+            "height": 1024,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          },
+          {
+            "xref": 962,
+            "smask": 0,
+            "path": "ignore/extraction/images/76be4c772db1eea86df80721968398805da99eb52797e8942f36ba86d72f0734.jpeg",
+            "sha256": "76be4c772db1eea86df80721968398805da99eb52797e8942f36ba86d72f0734",
+            "width": 1224,
+            "height": 1600,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 99,
+        "render": "ignore/extraction/presentation/page-099.png",
+        "images": [
+          {
+            "xref": 970,
+            "smask": 0,
+            "path": "ignore/extraction/images/da61809aef6d804ef580d459bb43ab447d507de5cf60318ae0ca7533b828f7a5.jpeg",
+            "sha256": "da61809aef6d804ef580d459bb43ab447d507de5cf60318ae0ca7533b828f7a5",
+            "width": 1600,
+            "height": 1015,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 100,
+        "render": "ignore/extraction/presentation/page-100.png",
+        "images": [
+          {
+            "xref": 977,
+            "smask": 0,
+            "path": "ignore/extraction/images/dcbfa3b3055976a2c2238f944d8f356702d463847af705d622fd6ec9cd8669dd.jpeg",
+            "sha256": "dcbfa3b3055976a2c2238f944d8f356702d463847af705d622fd6ec9cd8669dd",
+            "width": 1279,
+            "height": 805,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 101,
+        "render": "ignore/extraction/presentation/page-101.png",
+        "images": [
+          {
+            "xref": 984,
+            "smask": 0,
+            "path": "ignore/extraction/images/b7f09ba570ed2940c4ccf79894b15cc83e34c7236718639d08c103e48d1d95cf.jpeg",
+            "sha256": "b7f09ba570ed2940c4ccf79894b15cc83e34c7236718639d08c103e48d1d95cf",
+            "width": 1600,
+            "height": 1061,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      },
+      {
+        "page": 102,
+        "render": "ignore/extraction/presentation/page-102.png",
+        "images": []
+      }
+    ]
+  },
+  {
+    "id": "newspaper-01",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___April_10_1926__p6 (First Methodist torn down).pdf",
+    "sha256": "d9beaa89a293b6e310026522b6a90e023954694c7ae0c03fd23925de80a2d386",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-01/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/f934fc0642507504a1fc24413af6bd58b6ea3cefdda9d3522fd1efcf95e83d6a.jpeg",
+            "sha256": "f934fc0642507504a1fc24413af6bd58b6ea3cefdda9d3522fd1efcf95e83d6a",
+            "width": 2600,
+            "height": 3434,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newspaper-02",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___April_2_1926__p1 (New Church Plans).pdf",
+    "sha256": "c3232228bd9b20f935cedf5c9e36494290629551a3c5469c0077491713b53e6d",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-02/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/79a71067875ddfbf0a4b4444079aaa38702a64b0305d3b3c62943d3fe25a603b.jpeg",
+            "sha256": "79a71067875ddfbf0a4b4444079aaa38702a64b0305d3b3c62943d3fe25a603b",
+            "width": 2600,
+            "height": 3447,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newspaper-03",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___April_6_1926__p14 (Items for sale).pdf",
+    "sha256": "9082da47a411a08c3af2f92661cbe8a4a78e81fb4d88d18fd35ae5088e134925",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-03/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/a0d1d5f64fcf09bd9e2a72d2d1d688b683ec6938f790c4e3ef6e1c7dafc8ea25.jpeg",
+            "sha256": "a0d1d5f64fcf09bd9e2a72d2d1d688b683ec6938f790c4e3ef6e1c7dafc8ea25",
+            "width": 2600,
+            "height": 3469,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newspaper-04",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___December_29_1925__p1 (First Article 1 of 2).pdf",
+    "sha256": "e87e299f1cc97d75e79d291c5c83b6680ffb7d9238dd8483a31323038dac164d",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-04/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/1c3e6105b3b39e101afcb1b7d7f9df424fa43465018717b7640a28ea1c0c8374.jpeg",
+            "sha256": "1c3e6105b3b39e101afcb1b7d7f9df424fa43465018717b7640a28ea1c0c8374",
+            "width": 2600,
+            "height": 3435,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newspaper-05",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___December_29_1925__p2 (First Article 2 of 2).pdf",
+    "sha256": "4c647885364757c00dd2422eba0b52993387fb5cc8921ac872c3012b15457180",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-05/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/e5869d23b1494434ef418973b3a6f0ac4960d63e06dde21ad17bc7e3f4960cfd.jpeg",
+            "sha256": "e5869d23b1494434ef418973b3a6f0ac4960d63e06dde21ad17bc7e3f4960cfd",
+            "width": 2600,
+            "height": 3429,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newspaper-06",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___December_30_1925__p1 (Fire origin unknown 1 of 2).pdf",
+    "sha256": "cf1b247ec3667719f3f7bbf315f0eb751f8a892b8d8072417b222b8b28a80e28",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-06/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/80966140be823e205922f2f696063ccce2ebbf6754c84b3f8715010599dec0f4.jpeg",
+            "sha256": "80966140be823e205922f2f696063ccce2ebbf6754c84b3f8715010599dec0f4",
+            "width": 2600,
+            "height": 3408,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newspaper-07",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___December_30_1925__p2 (Fire origin unknown 2 of 2).pdf",
+    "sha256": "9afec73ef4324d019dddbe2404c7da63a7d77d355d0fe9906baac0c8e63d754e",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-07/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/a26c5f08ad2fd9d94c0df1661a154a23a6ba71063f15643e330b7dfef862d987.jpeg",
+            "sha256": "a26c5f08ad2fd9d94c0df1661a154a23a6ba71063f15643e330b7dfef862d987",
+            "width": 2600,
+            "height": 3413,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newspaper-08",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___July_7_1926__p1 (Presby Fire 1 of 2).pdf",
+    "sha256": "dc53b7fff32990c248255de2f90f36a864492e267fa029ec78fff11ae5a130e2",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-08/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/23502f7725ae83796f1e851cc544958e9db229b0c6002d5929f70e44e16406e5.jpeg",
+            "sha256": "23502f7725ae83796f1e851cc544958e9db229b0c6002d5929f70e44e16406e5",
+            "width": 2600,
+            "height": 3453,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newspaper-09",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___July_7_1926__p20 (Presby Fire 2 of 2).pdf",
+    "sha256": "1d13a9e4db39f2637c5fad779330b44fd184bf864dd3699532cd845a4b60c699",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-09/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/bd5678b1648fe55bcc073cf6e7b4104e99b57707e9bb7c1046e579a29bc3dc76.jpeg",
+            "sha256": "bd5678b1648fe55bcc073cf6e7b4104e99b57707e9bb7c1046e579a29bc3dc76",
+            "width": 2600,
+            "height": 3503,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newspaper-10",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___July_8_1926__p1 (Presby Fire Next Day).pdf",
+    "sha256": "67a4b5f2cd715b3c195479c245fcb91c696603b95fe9b593646c6759818ad673",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-10/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/4aede07056e30ebadc810699d601cb77dbc919320f00b53250841875f9e3a9b1.jpeg",
+            "sha256": "4aede07056e30ebadc810699d601cb77dbc919320f00b53250841875f9e3a9b1",
+            "width": 2600,
+            "height": 3495,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newspaper-11",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___July_8_1926__p4 (Three Fires Speculation).pdf",
+    "sha256": "cb1aa19cc9be531452561718ed094d7244a0a79e928ff4ce8c50244661aa784d",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-11/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/4f94e9766d02c277fb1c633b2f353bd97b365eee565e045e44e33fad028e704f.jpeg",
+            "sha256": "4f94e9766d02c277fb1c633b2f353bd97b365eee565e045e44e33fad028e704f",
+            "width": 2600,
+            "height": 3448,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newspaper-12",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___July_9_1926__p2 (Presby Fire Investigation).pdf",
+    "sha256": "612d3a14b47cff1c5b244fc98718fe87257d3a09d78b684ec1e38966da448d8b",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-12/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/f66c058be7920193480dc5ea01a5bd806da32323813b874afb4bdb25e814be66.jpeg",
+            "sha256": "f66c058be7920193480dc5ea01a5bd806da32323813b874afb4bdb25e814be66",
+            "width": 2600,
+            "height": 3477,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newspaper-13",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___June_13_1926__p28 (Slater Funeral).pdf",
+    "sha256": "2920410bb9e62f934fc2a37970bdb3e0512252f1ffa6c7ae829677a17ab53a05",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-13/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/2bc8d4c2729c742f73b3e0ecc5cd7c700b783d802f489c47a3ae28cf2d8e6abd.jpeg",
+            "sha256": "2bc8d4c2729c742f73b3e0ecc5cd7c700b783d802f489c47a3ae28cf2d8e6abd",
+            "width": 2600,
+            "height": 3455,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newspaper-14",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___June_2_1926__p1 (First Presby Fire Cigarette).pdf",
+    "sha256": "8944aa26a3179e8b8b16bc1f17eb68a58d0aac2e9f9ac4ddbd941e25417b397e",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-14/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/0a53d0595237a188f86ee3150b4f15d1cb93b801f76999e65bf96bb9a163c05b.jpeg",
+            "sha256": "0a53d0595237a188f86ee3150b4f15d1cb93b801f76999e65bf96bb9a163c05b",
+            "width": 2600,
+            "height": 3445,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newspaper-15",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_14_1926__p1 (First Methodist Fire 1 of 2).pdf",
+    "sha256": "76695dc3baf94678e95730ea5de050641075fb39af837454b2a162782b0c57e3",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-15/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/ca2ccac38021c1e4d2f125ff9231f4f6308cd9ef06c5d57882a92fada84b1168.jpeg",
+            "sha256": "ca2ccac38021c1e4d2f125ff9231f4f6308cd9ef06c5d57882a92fada84b1168",
+            "width": 2600,
+            "height": 3488,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newspaper-16",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_14_1926__p2 (First Methodist Fire 2 of 2).pdf",
+    "sha256": "b77e6007c2db59200cae023a499e7fdc265858210e43f70d3890a70689828db2",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-16/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/eb9c5779a6d7698bedbe7bc2ce04a7fe441c97e504d2748cdf1b81f7a6b0a667.jpeg",
+            "sha256": "eb9c5779a6d7698bedbe7bc2ce04a7fe441c97e504d2748cdf1b81f7a6b0a667",
+            "width": 2600,
+            "height": 3469,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newspaper-17",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_14_1926__p4 (First Methodist Firefighters Story).pdf",
+    "sha256": "b92d7102056aab1399c3e6cb4133da2fd82a9ebcf1f23412f95326ed0907f098",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-17/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/cc460ac9db489a9092fb9ca9b2cef78501b278e602dc623a0e9c9996fa891920.jpeg",
+            "sha256": "cc460ac9db489a9092fb9ca9b2cef78501b278e602dc623a0e9c9996fa891920",
+            "width": 2600,
+            "height": 3415,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newspaper-18",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_17_1926__p1 (Methodist Firefighter Died).pdf",
+    "sha256": "975ec4da02ea51b3cdadbd4208c9737cf31bea8a9cb847af099ec967d3db011d",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-18/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/af756630ef4c5aec5be77fd382903a93f43ea0294bf61a4401fa997851c2513d.jpeg",
+            "sha256": "af756630ef4c5aec5be77fd382903a93f43ea0294bf61a4401fa997851c2513d",
+            "width": 2600,
+            "height": 3469,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newspaper-19",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_19_1926__p4 (Methodost Firefighters Honored).pdf",
+    "sha256": "a37ccdf13e6e7eccae861ccc193ab0cc6d9363dec843b196e959a50ed0933c88",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-19/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/8793d735f265fc71118b68165470af3d4489df3e1b6e967355deab09deaec982.jpeg",
+            "sha256": "8793d735f265fc71118b68165470af3d4489df3e1b6e967355deab09deaec982",
+            "width": 2600,
+            "height": 3453,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newspaper-20",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_21_1926__p2 (Methodist Firefighters Kids).pdf",
+    "sha256": "62bf7e8791c438dd8f34e3f578b979328343db377b83f932d75bb1b595e3b9c5",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-20/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/3168940645791d89a1b4b40aaaad24700aa512b5d97ec671df678752ee8be39d.jpeg",
+            "sha256": "3168940645791d89a1b4b40aaaad24700aa512b5d97ec671df678752ee8be39d",
+            "width": 2600,
+            "height": 3499,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newspaper-21",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_24_1926__p10 (Methodist Overheated Furnace).pdf",
+    "sha256": "00c6125a615ceeb839bf64348a509db94ed9466ff50a1f83e41839b41cc5723d",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-21/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/5f099c4157f5c934357fb379880dd35731bd9b64936b9b83076968210f16dd6b.jpeg",
+            "sha256": "5f099c4157f5c934357fb379880dd35731bd9b64936b9b83076968210f16dd6b",
+            "width": 2600,
+            "height": 3461,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "newspaper-22",
+    "source": "G:\\My Drive\\Church Fires Presentation\\Gazettes\\News_Article__Kalamazoo_Gazette_published_as_THE_KALAMAZOO_GAZETTE___March_7_1926__p6 (Cornerstone Contents).pdf",
+    "sha256": "70d0a63d607397fe11f30118769cdf879b10cebd39e99c71cd2795972983c8b9",
+    "pages": [
+      {
+        "page": 1,
+        "render": "ignore/extraction/newspaper-22/page-001.png",
+        "images": [
+          {
+            "xref": 8,
+            "smask": 0,
+            "path": "ignore/extraction/images/19d5e96543e650e8c28044a42b4a34f33773b2522558bc69bc026e4a32c4e05d.jpeg",
+            "sha256": "19d5e96543e650e8c28044a42b4a34f33773b2522558bc69bc026e4a32c4e05d",
+            "width": 2600,
+            "height": 3434,
+            "warning": "Raw embedded image; inspect crop, mask, rotation and composition before use."
+          }
+        ]
+      }
+    ]
+  }
+]

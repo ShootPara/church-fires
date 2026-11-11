@@ -1,0 +1,7428 @@
+[
+  {
+    "slide": 1,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_6",
+        "box": [
+          12.0,
+          12.0,
+          285.75,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 001 Clipping - Probing New Church Fire Gazette front page 1 of 1.png",
+        "matchScore": 2.9
+      },
+      {
+        "id": "g2f9d3c916e9_0_9",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_10",
+        "box": [
+          309.094,
+          62.309,
+          345.732,
+          213.189
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "1925-1926\n",
+            "size": 18,
+            "bold": true,
+            "color": "#241d19"
+          },
+          {
+            "text": "Kalamazoo Church Fires\n",
+            "size": 47,
+            "bold": true,
+            "color": "#241d19"
+          },
+          {
+            "text": "an overview\n",
+            "size": 18,
+            "bold": true,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 2,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_239",
+        "box": [
+          667.123,
+          367.182,
+          43.205,
+          30.992
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.0
+        },
+        "kind": "shape",
+        "fill": "transparent",
+        "shape": "TEXT_BOX",
+        "flip": false
+      },
+      {
+        "id": "g2fa11eb4b29_0_14",
+        "box": [
+          81.142,
+          130.925,
+          557.717,
+          143.15
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "summary\n",
+            "size": 103,
+            "bold": true,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 3,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_37",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_51",
+        "box": [
+          67.561,
+          64.173,
+          633.472,
+          39.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Between December 1925 and July 1926\n",
+            "size": 27,
+            "bold": true,
+            "color": "#241d19"
+          }
+        ]
+      },
+      {
+        "id": "g2f9d3c916e9_0_53",
+        "box": [
+          67.561,
+          118.323,
+          633.472,
+          39.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "12 major fires in churches or meeting halls\n",
+            "size": 27,
+            "bold": true,
+            "color": "#241d19"
+          }
+        ]
+      },
+      {
+        "id": "g2f9d3c916e9_0_54",
+        "box": [
+          67.561,
+          172.472,
+          633.472,
+          39.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Total damage - over $700,000 ",
+            "size": 27,
+            "bold": true,
+            "color": "#241d19"
+          },
+          {
+            "text": "(over $22m 2024 dollars)\n",
+            "size": 13,
+            "bold": true,
+            "color": "#241d19"
+          }
+        ]
+      },
+      {
+        "id": "g2f9d3c916e9_0_55",
+        "box": [
+          67.561,
+          226.407,
+          633.472,
+          74.055
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Destroyed First Congregational, First Methodist, and First Presbyterian Churches\n",
+            "size": 27,
+            "bold": true,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 4,
+    "elements": [
+      {
+        "id": "g2fa11eb4b29_0_6",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2fa2b6f4c83_0_0",
+        "box": [
+          24.429,
+          15.27,
+          479.528,
+          326.197
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "CHURCHES\n",
+            "size": 10,
+            "bold": true,
+            "color": "#241d19"
+          },
+          {
+            "text": "East Avenue Methodist church (Dec. 17, the first of the series of church fires), $10,000.\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": "First Congregational church (complete loss), $175,000.\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": "First Presbyterian church (moving picture booth fire), $50.\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": "First Methodist church (complete loss), $100,000.\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": "First Presbyterian church (lobby fire), $250.\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": "First Presbyterian church (complete loss), $125,000.\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": "LODGE HALLS\n",
+            "size": 10,
+            "bold": true,
+            "color": "#241d19"
+          },
+          {
+            "text": "Knights of Pythias temple (first fire in basement, small loss), $150.\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": "Knights of Pythias temple (second fire, heavy loss), $10,000.\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": "Chase block fire (Knights of Columbus quarters), $100,000.\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": "Moose temple (housing nine different lodges), $100,000.\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": "Trades and Labor Council hall, $10,000.\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": "Herfendahl store (housing four lodges), $8,000.\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": "OTHERS\n",
+            "size": 10,
+            "bold": true,
+            "color": "#241d19"
+          },
+          {
+            "text": "Boudenman block, $10,000.\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": "Sutherland Paper Company (paraffin plant), $25,000.\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": "Macy’s garage, $20,000.",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": "\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      },
+      {
+        "id": "g2fa2b6f4c83_0_2",
+        "box": [
+          516.177,
+          135.0,
+          177.142,
+          120.945
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "The Fires\n",
+            "size": 24,
+            "bold": true,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 5,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_228",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2fa2b6f4c83_0_3",
+        "box": [
+          14.268,
+          142.028,
+          177.142,
+          120.945
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "The Deaths\n",
+            "size": 24,
+            "bold": true,
+            "color": "#241d19"
+          }
+        ]
+      },
+      {
+        "id": "g2fa2b6f4c83_0_29",
+        "box": [
+          203.409,
+          12.0,
+          231.0,
+          338.25
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 005 Detail - John Morren Walk of Honor brick record 1 of 4.png",
+        "matchScore": 46.7
+      },
+      {
+        "id": "g2fa2b6f4c83_0_30",
+        "box": [
+          443.356,
+          56.508,
+          261.59,
+          161.27
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 005 Photo - Claus and Cleo Slater gravestone 2 of 4.png",
+        "matchScore": 15.5
+      },
+      {
+        "id": "g2fa2b6f4c83_0_31",
+        "box": [
+          332.205,
+          248.656,
+          98.539,
+          98.539
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 005 Logo - National Fallen Firefighters Foundation emblem 4 of 4.png",
+        "matchScore": 161.9
+      },
+      {
+        "id": "g2fa2b6f4c83_0_32",
+        "box": [
+          203.409,
+          323.146,
+          136.843,
+          19.559
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Emmitsburg, MD\n",
+            "size": 13,
+            "bold": true,
+            "color": "#241d19"
+          }
+        ]
+      },
+      {
+        "id": "g2fa2b6f4c83_0_33",
+        "box": [
+          464.736,
+          194.958,
+          224.25,
+          117.75
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 005 Detail - John Morren Riverside Cemetery burial record 3 of 4.png",
+        "matchScore": 4.9
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 6,
+    "elements": [
+      {
+        "id": "g2fa2b6f4c83_0_7",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2fa2b6f4c83_0_13",
+        "box": [
+          24.429,
+          81.331,
+          479.528,
+          53.669
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Congregational - Origin unknown at first, but later blamed on an overheated boiler\n",
+            "size": 20,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      },
+      {
+        "id": "g2fa2b6f4c83_0_14",
+        "box": [
+          516.177,
+          135.0,
+          177.142,
+          120.945
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "The Investigations\n",
+            "size": 20,
+            "bold": true,
+            "color": "#241d19"
+          }
+        ]
+      },
+      {
+        "id": "g2fa2b6f4c83_0_152",
+        "box": [
+          24.429,
+          168.638,
+          479.528,
+          53.669
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Methodist - Overheated furnace or defective wiring\n",
+            "size": 20,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      },
+      {
+        "id": "g2fa2b6f4c83_0_153",
+        "box": [
+          24.429,
+          255.945,
+          479.528,
+          26.268
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Presbyterian - Started in or near the pipe organ\n",
+            "size": 20,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      },
+      {
+        "id": "g2fa2b6f4c83_0_154",
+        "box": [
+          120.236,
+          315.85,
+          479.528,
+          26.268
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "As a group, all fires were believed to be arson.\n",
+            "size": 20,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 7,
+    "elements": [
+      {
+        "id": "g2fa2b6f4c83_0_25",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2fa2b6f4c83_0_26",
+        "box": [
+          289.943,
+          12.0,
+          177.142,
+          120.945
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Rebuilding\n",
+            "size": 24,
+            "bold": true,
+            "color": "#241d19"
+          }
+        ]
+      },
+      {
+        "id": "g2fa2b6f4c83_0_34",
+        "box": [
+          57.618,
+          142.269,
+          256.502,
+          208.243
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0.07506305,
+          "rightOffset": 0.18320721,
+          "topOffset": 0.046853963,
+          "bottomOffset": 0.05556053
+        },
+        "rotation": 0,
+        "source": "SLIDE 007 Photo - Light stone Gothic church exterior 1 of 3.png",
+        "matchScore": 140.3
+      },
+      {
+        "id": "g2fa2b6f4c83_0_35",
+        "box": [
+          261.705,
+          142.269,
+          235.654,
+          208.228
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0,
+          "rightOffset": 0.2618292,
+          "topOffset": 0
+        },
+        "rotation": 0,
+        "source": "SLIDE 007 Photo - Stone church exterior with vintage automobiles 2 of 3.png",
+        "matchScore": 116.7
+      },
+      {
+        "id": "g2fa2b6f4c83_0_36",
+        "box": [
+          445.201,
+          142.282,
+          217.181,
+          208.228
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0,
+          "rightOffset": 0.16673607,
+          "topOffset": 0
+        },
+        "rotation": 0,
+        "source": "SLIDE 007 Photo - Red brick church exterior with slender steeple 3 of 3.png",
+        "matchScore": 110.5
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 8,
+    "elements": [
+      {
+        "id": "g2fa11eb4b29_0_17",
+        "box": [
+          81.142,
+          130.925,
+          557.717,
+          143.15
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "timeline\n",
+            "size": 103,
+            "bold": true,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 9,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_742",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2fed33d0784_0_112",
+        "box": [
+          60.474,
+          59.254,
+          447.744,
+          295.045
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0.056791723,
+          "rightOffset": 0.29637778,
+          "topOffset": 0.14377296,
+          "bottomOffset": 0.18844736
+        },
+        "rotation": 0,
+        "source": "SLIDE 009 Photo - Central Fire Station Kalamazoo postcard 1 of 1 (also SLIDE 082).jpg",
+        "matchScore": 160.0
+      },
+      {
+        "id": "g2fed33d0784_0_119",
+        "box": [
+          519.23,
+          135.875,
+          187.535,
+          141.803
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "Central Fire was constructed in 1907 and was the station that served downtown until 1959.  The fire chief during the church fires was Charles H. Russell.\n",
+            "size": 15,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      },
+      {
+        "id": "g2fed33d0784_0_156",
+        "box": [
+          355.913,
+          44.29,
+          187.535,
+          50.906
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "Introducing the buildings and the city…\n",
+            "size": 15,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 10,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_748",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2fed33d0784_0_113",
+        "box": [
+          196.087,
+          55.372,
+          467.012,
+          302.39
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 010 Photo - Congregational Church exterior color postcard 1 of 1 (also SLIDE 085).png",
+        "matchScore": 24.4
+      },
+      {
+        "id": "g2fed33d0784_0_130",
+        "box": [
+          67.797,
+          76.061,
+          175.937,
+          159.992
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "First Congregational built this third church in 1890 in the church’s current location.  The congregants hated it and complained of the leaky roof among other issues.\n",
+            "size": 15,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 11,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_32",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2fed33d0784_0_114",
+        "box": [
+          60.28,
+          56.811,
+          277.526,
+          299.766
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0,
+          "topOffset": 0.17248805,
+          "bottomOffset": 0.1545192
+        },
+        "rotation": 0,
+        "source": "SLIDE 011 Photo - First Presbyterian Church postcard 1 of 1 (also SLIDE 098).png",
+        "matchScore": 75.0
+      },
+      {
+        "id": "g2fed33d0784_0_131",
+        "box": [
+          439.606,
+          158.87,
+          175.937,
+          87.26
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "First Presbyterian was scheduled to be replaced shortly before it burned.\n",
+            "size": 15,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 12,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_38",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2fed33d0784_0_115",
+        "box": [
+          472.805,
+          58.482,
+          186.061,
+          298.067
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0.092701204,
+          "rightOffset": 0.0927012,
+          "topOffset": 0.044948705,
+          "bottomOffset": 0.08563727
+        },
+        "rotation": 0,
+        "source": "SLIDE 012 Photo - First Methodist Church tall steeple postcard 1 of 1 (also SLIDE 092).png",
+        "matchScore": 115.5
+      },
+      {
+        "id": "g2fed33d0784_0_132",
+        "box": [
+          52.142,
+          167.965,
+          380.953,
+          69.071
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "First Methodist went through many changes over time for budgetary reasons and I’m not sure if this is the steeple of the church that burned.\n",
+            "size": 15,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 13,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_54",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2fed33d0784_0_116",
+        "box": [
+          232.648,
+          12.0,
+          477.685,
+          300.654
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 013 Photo - Seven of Kalamazoo Forty Churches postcard 1 of 1 (also SLIDE 100).png",
+        "matchScore": 18.4
+      },
+      {
+        "id": "g2fed33d0784_0_133",
+        "box": [
+          549.774,
+          298.411,
+          160.559,
+          50.906
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "Kalamazoo was proud its churches",
+            "size": 15,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": ".",
+            "size": 11,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": "\n",
+            "size": 15,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      },
+      {
+        "id": "g2fed33d0784_0_137",
+        "box": [
+          14.268,
+          140.543,
+          213.354,
+          135.732
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "He wrote, \"There are in this village today six Protestant churches and a Catholic church. There is a Baptist church with one hundred seventy-six members; a Methodist with eighty members; St. Luke's with fifty members; a Dutch Reformed with sixty members; a Presbyterian with one hundred eighty, and the Congregational with one hundred sixty.\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      },
+      {
+        "id": "g2fed33d0784_0_142",
+        "box": [
+          14.268,
+          283.214,
+          532.276,
+          75.142
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "There are four common schools, one and sometimes two private schools, a Female Seminary, and a Baptist College and Theological Seminary, each in the early stages of their growth. How changed will be the conditions of this place (now numbering between three and four thousand inhabitants) and of this church when this shall be brought forth for the perusal of some distant generation. May He then look down from the heights of Heaven and see Freedom and Christianity over-spreading the earth.\"\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      },
+      {
+        "id": "g2fed33d0784_0_144",
+        "box": [
+          59.256,
+          59.136,
+          168.378,
+          63.024
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "After the fire in 1925, the church’s time capsule was opened, containing a letter written by Rev. A. S. Kedzie.\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 14,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_60",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2fed33d0784_0_147",
+        "box": [
+          497.852,
+          129.921,
+          160.559,
+          50.906
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "The library and the Methodist Church\n",
+            "size": 15,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      },
+      {
+        "id": "g2fed33d0784_0_149",
+        "box": [
+          14.268,
+          18.228,
+          428.823,
+          243.124
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 014 Table - Michigan cities population comparison 1910 to 1930 1 of 2.png",
+        "matchScore": 19.9
+      },
+      {
+        "id": "g2fed33d0784_0_117",
+        "box": [
+          367.837,
+          183.26,
+          331.403,
+          175.317
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0.04913894,
+          "rightOffset": 0.049229085,
+          "topOffset": 0.14203894,
+          "bottomOffset": 0.142039
+        },
+        "rotation": 0,
+        "source": "SLIDE 014 Photo - Kalamazoo public library and Methodist Church postcard 2 of 2 (also SLIDE 086).png",
+        "matchScore": 142.7
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 15,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_76",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2fed33d0784_0_123",
+        "box": [
+          60.474,
+          56.882,
+          483.697,
+          296.195
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0.09159761,
+          "rightOffset": 0.017375052,
+          "topOffset": 0.1431754
+        },
+        "rotation": 0,
+        "source": "SLIDE 015 Photo - Marlborough Building with vintage automobiles 1 of 1 (also SLIDE 091).png",
+        "matchScore": 128.4
+      },
+      {
+        "id": "g2fed33d0784_0_151",
+        "box": [
+          509.854,
+          97.809,
+          175.937,
+          123.614
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "Construction on the Marlborough Building began in 1923.  It is now on the national register of historic places. (May 1983)\n",
+            "size": 15,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 16,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_82",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2fed33d0784_0_125",
+        "box": [
+          14.268,
+          12.0,
+          365.906,
+          196.087
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0.1553432,
+          "rightOffset": 0.14711213,
+          "topOffset": 0.22619937,
+          "bottomOffset": 0.19925308
+        },
+        "rotation": 0,
+        "source": "SLIDE 016 Photo - Framed Bronson Park photograph 1 of 2 (also SLIDE 078).png",
+        "matchScore": 191.2
+      },
+      {
+        "id": "g2fed33d0784_0_127",
+        "box": [
+          373.626,
+          127.488,
+          334.374,
+          216.34
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 016 Photo - Bronson Park illuminated electric fountain postcard 2 of 2 (also SLIDE 079).png",
+        "matchScore": 3.3
+      },
+      {
+        "id": "g2fed33d0784_0_152",
+        "box": [
+          90.833,
+          238.89,
+          187.724,
+          87.26
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "Bronson Park evolved from a field for visitors to graze their animals to a central park.\n",
+            "size": 15,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 17,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_98",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2fed33d0784_0_128",
+        "box": [
+          61.087,
+          58.779,
+          464.116,
+          297.963
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 017 Photo - Elks Temple and Majestic Theatre postcard 1 of 1 (also SLIDE 083).png",
+        "matchScore": 12.1
+      },
+      {
+        "id": "g2fed33d0784_0_153",
+        "box": [
+          503.953,
+          138.711,
+          189.591,
+          141.803
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "The Majestic (Capitol) Theatre was built in 1907 and badly damaged by fire in 1923.  Electricity was becoming more widely available at the time.\n",
+            "size": 15,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 18,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_104",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2fed33d0784_0_129",
+        "box": [
+          196.449,
+          58.642,
+          463.54,
+          296.268
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0.03695129,
+          "rightOffset": 0.036951303,
+          "topOffset": 0.0507637,
+          "bottomOffset": 0.050763726
+        },
+        "rotation": 0,
+        "source": "SLIDE 018 Photo - Academy Street and Congregational Church postcard 1 of 1 (also SLIDE 076).png",
+        "matchScore": 93.5
+      },
+      {
+        "id": "g2fed33d0784_0_154",
+        "box": [
+          30.943,
+          77.055,
+          175.937,
+          250.89
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "The entrance to First Congregational was always on Academy Street, even in the rebuilt church.  It was moved to Michigan Avenue when the parking lot was constructed, whereas during the time of this church, Kalamazoo was selling over 1500 automobiles a year.\n",
+            "size": 15,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 19,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_8",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2fed33d0784_0_9",
+        "box": [
+          87.771,
+          55.98,
+          544.459,
+          306.258
+        ],
+        "kind": "video",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 019 Video thumbnail - Women singing in choir performance 1 of 1.jpg",
+        "matchScore": 2.4
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 20,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_15",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2fed33d0784_0_21",
+        "box": [
+          31.817,
+          33.38,
+          566.177,
+          318.474
+        ],
+        "kind": "video",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 020 Video thumbnail - Older woman and man seated for interview 1 of 1.jpg",
+        "matchScore": 2.2
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 21,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_201",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_242",
+        "box": [
+          131.52,
+          12.0,
+          578.807,
+          74.778
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 021 Headline - Congregational Church Burns Gazette headline 2 of 7.png",
+        "matchScore": 4.0
+      },
+      {
+        "id": "g2f9d3c916e9_0_243",
+        "box": [
+          57.743,
+          98.778,
+          247.821,
+          195.006
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 021 Clipping - 175000 Dollar Structure Destroyed at Noon 3 of 7.png",
+        "matchScore": 7.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_244",
+        "box": [
+          57.744,
+          293.783,
+          158.25,
+          48.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 021 Clipping - Congregational fire janitor and heating plant account 7 of 7.png",
+        "matchScore": 22.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_245",
+        "box": [
+          317.564,
+          98.778,
+          157.5,
+          186.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 021 Clipping - Boys Discover Fire at Congregational Church 4 of 7.png",
+        "matchScore": 6.9
+      },
+      {
+        "id": "g2f9d3c916e9_0_246",
+        "box": [
+          487.064,
+          98.778,
+          159.75,
+          164.25
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 021 Clipping - Interior Roaring Furnace church fire report 5 of 7.png",
+        "matchScore": 10.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_247",
+        "box": [
+          510.02,
+          288.72,
+          181.5,
+          15.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 021 Date - December 29 1925 newspaper date 6 of 7.png",
+        "matchScore": 34.0
+      },
+      {
+        "id": "g2f9d3c916e9_0_248",
+        "box": [
+          653.305,
+          98.778,
+          120.874,
+          26.268
+        ],
+        "kind": "text",
+        "fill": "transparent",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "1 of 2\n",
+            "size": 18,
+            "bold": false,
+            "color": "#f9f4e9"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 22,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_207",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_249",
+        "box": [
+          14.268,
+          12.0,
+          120.874,
+          26.268
+        ],
+        "kind": "text",
+        "fill": "transparent",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "2 of 2\n",
+            "size": 18,
+            "bold": false,
+            "color": "#f9f4e9"
+          }
+        ]
+      },
+      {
+        "id": "g2f9d3c916e9_0_250",
+        "box": [
+          12.0,
+          50.268,
+          159.75,
+          294.75
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 022 Clipping - Save Nearby Buildings and Flame Leaps From Roof 1 of 4.png",
+        "matchScore": 7.6
+      },
+      {
+        "id": "g2f9d3c916e9_0_251",
+        "box": [
+          178.173,
+          50.268,
+          159.75,
+          291.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 022 Clipping - Establish Fire Lines and Tons of Water Used 2 of 4.png",
+        "matchScore": 7.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_252",
+        "box": [
+          344.346,
+          50.268,
+          159.0,
+          273.75
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 022 Clipping - Congregational Church Built in 1890 history 3 of 4.png",
+        "matchScore": 8.1
+      },
+      {
+        "id": "g2f9d3c916e9_0_253",
+        "box": [
+          509.77,
+          127.488,
+          171.75,
+          149.843
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0,
+          "topOffset": 0,
+          "bottomOffset": 0.2939847
+        },
+        "rotation": 0,
+        "source": "SLIDE 022 Clipping - Congregational membership temporary home and nearby fire 4 of 4.png",
+        "matchScore": 75.4
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 23,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_135",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_185",
+        "box": [
+          104.427,
+          52.146,
+          511.146,
+          300.709
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 023 Clipping - Ruins of Largest Protestant Church in City 2 of 2.png",
+        "matchScore": 4.5
+      },
+      {
+        "id": "g2f9d3c916e9_0_186",
+        "box": [
+          428.498,
+          19.437,
+          262.5,
+          24.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 023 Date - December 30 1925 newspaper date 1 of 2 (also SLIDE 024).png",
+        "matchScore": 45.0
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 24,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_141",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_187",
+        "box": [
+          12.0,
+          12.0,
+          262.5,
+          24.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 023 Date - December 30 1925 newspaper date 1 of 2 (also SLIDE 024).png",
+        "matchScore": 11.7
+      },
+      {
+        "id": "g2f9d3c916e9_0_188",
+        "box": [
+          66.332,
+          48.0,
+          362.022,
+          305.293
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 024 Clipping - Congregational ruins seen from First Reformed Church 2 of 4.png",
+        "matchScore": 6.6
+      },
+      {
+        "id": "g2f9d3c916e9_0_189",
+        "box": [
+          468.388,
+          61.844,
+          182.72,
+          129.065
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 024 Detail - Rose window silhouette in church ruins 3 of 4.png",
+        "matchScore": 12.4
+      },
+      {
+        "id": "g2f9d3c916e9_0_190",
+        "box": [
+          278.303,
+          139.463,
+          214.465,
+          60.756
+        ],
+        "kind": "arrow",
+        "points": [
+          492.76771653543307,
+          139.46259842519686,
+          278.3031496062992,
+          200.21850393700788
+        ],
+        "color": "#00ff00"
+      },
+      {
+        "id": "g2f9d3c916e9_0_191",
+        "box": [
+          468.388,
+          196.711,
+          160.054,
+          150.384
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 024 Model - Congregational church model rose window closeup 4 of 4.png",
+        "matchScore": 7.5
+      },
+      {
+        "id": "g2f9d3c916e9_0_192",
+        "box": [
+          273.967,
+          205.165,
+          264.661,
+          80.575
+        ],
+        "kind": "arrow",
+        "points": [
+          273.9665354330709,
+          205.16535433070865,
+          538.6279527559055,
+          285.74015748031496
+        ],
+        "color": "#00ff00"
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 25,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_846",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_860",
+        "box": [
+          102.298,
+          48.024,
+          515.404,
+          308.953
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 025 Photo - Historic Church Exterior Framed By Trees 1 of 1.png",
+        "matchScore": 1.2
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 26,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_852",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_861",
+        "box": [
+          38.878,
+          12.0,
+          533.966,
+          341.293
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 026 Photo - First Congregational Church corner view postcard 1 of 1.png",
+        "matchScore": 1.7
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 27,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_887",
+        "box": [
+          331.089,
+          72.461,
+          339.484,
+          277.496
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 027 Photo - YMCA building before the fire 2 of 2.jpg",
+        "matchScore": 35.1
+      },
+      {
+        "id": "g2f9d3c916e9_0_870",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_886",
+        "box": [
+          61.303,
+          59.648,
+          312.341,
+          203.022
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 027 Photo - Congregational Church and Academy Street corner postcard 1 of 2.png",
+        "matchScore": 2.9
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 28,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_876",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_888",
+        "box": [
+          46.523,
+          12.0,
+          341.294,
+          341.294
+        ],
+        "kind": "video",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 028 Model - Congregational church architectural model front view 1 of 2.jpg",
+        "matchScore": 0.8
+      },
+      {
+        "id": "g2fa2b6f4c83_0_39",
+        "box": [
+          397.669,
+          58.242,
+          260.85,
+          196.943
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 028 Photo - Congregational church construction framing photograph 2 of 2.png",
+        "matchScore": 5.7
+      },
+      {
+        "id": "g2fa2b6f4c83_0_45",
+        "box": [
+          409.984,
+          261.741,
+          236.22,
+          82.417
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "First Congregational Church, Academy Street, Kalamazoo, c1885-1889 Kalamazoo Public Library Photograph P-351\n",
+            "size": 14,
+            "bold": false,
+            "color": "#000000"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 29,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_323",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_360",
+        "box": [
+          130.817,
+          12.0,
+          582.142,
+          91.106
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 029 Headline - Two Die in Methodist Church Fire Gazette headline 2 of 9.png",
+        "matchScore": 3.0
+      },
+      {
+        "id": "g2f9d3c916e9_0_361",
+        "box": [
+          448.62,
+          342.76,
+          157.5,
+          15.75
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 029 Date - March 14 1926 newspaper date 9 of 9.png",
+        "matchScore": 14.4
+      },
+      {
+        "id": "g2f9d3c916e9_0_362",
+        "box": [
+          23.809,
+          121.305,
+          209.26,
+          238.187
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 029 Clipping - Two Firemen and Burning Church in Which They Met Death 5 of 9.png",
+        "matchScore": 59.5
+      },
+      {
+        "id": "g2f9d3c916e9_0_363",
+        "box": [
+          46.725,
+          328.476,
+          171.75,
+          23.25
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 029 Detail - H A Youngs Studio fire photograph credit 8 of 9.png",
+        "matchScore": 11.9
+      },
+      {
+        "id": "g2f9d3c916e9_0_364",
+        "box": [
+          245.069,
+          115.106,
+          152.547,
+          238.187
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 029 Clipping - Methodist fire discovery and Battle Flames an Hour 3 of 9.png",
+        "matchScore": 5.6
+      },
+      {
+        "id": "g2f9d3c916e9_0_365",
+        "box": [
+          409.616,
+          115.106,
+          154.913,
+          97.589
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 029 Clipping - Slater and Morren enter Methodist church 4 of 9.png",
+        "matchScore": 21.2
+      },
+      {
+        "id": "g2f9d3c916e9_0_367",
+        "box": [
+          409.616,
+          213.923,
+          154.913,
+          122.053
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 029 Clipping - Methodist firemen warned of falling roof 7 of 9.png",
+        "matchScore": 16.1
+      },
+      {
+        "id": "g2f9d3c916e9_0_368",
+        "box": [
+          573.785,
+          155.21,
+          139.173,
+          41.078
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 029 Clipping - Falling bricks and timbers strike firemen 6 of 9.png",
+        "matchScore": 31.5
+      },
+      {
+        "id": "g2f9d3c916e9_0_372",
+        "box": [
+          633.161,
+          287.829,
+          61.37,
+          26.268
+        ],
+        "kind": "text",
+        "fill": "transparent",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "1 of 2\n",
+            "size": 18,
+            "bold": false,
+            "color": "#f9f4e9"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 30,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_329",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_369",
+        "box": [
+          12.0,
+          12.0,
+          287.528,
+          341.293
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 030 Clipping - First Methodist Episcopal Church before fire 1 of 3.png",
+        "matchScore": 3.6
+      },
+      {
+        "id": "g2f9d3c916e9_0_370",
+        "box": [
+          311.528,
+          12.0,
+          171.75,
+          281.25
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 030 Clipping - Ice Saves Two Houses during Methodist fire 2 of 3.png",
+        "matchScore": 6.5
+      },
+      {
+        "id": "g2f9d3c916e9_0_371",
+        "box": [
+          491.557,
+          58.909,
+          165.573,
+          213.805
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 030 Clipping - Firemen See Blaze First 3 of 3.png",
+        "matchScore": 6.9
+      },
+      {
+        "id": "g2f9d3c916e9_0_373",
+        "box": [
+          588.012,
+          311.382,
+          69.118,
+          26.268
+        ],
+        "kind": "text",
+        "fill": "transparent",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "2 of 2\n",
+            "size": 18,
+            "bold": false,
+            "color": "#f9f4e9"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 31,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_345",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_396",
+        "box": [
+          306.449,
+          12.0,
+          403.878,
+          344.406
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 031 Clipping - Four Kalamazoo Churches Ignited in Three Months 3 of 5.png",
+        "matchScore": 4.9
+      },
+      {
+        "id": "g2f9d3c916e9_0_397",
+        "box": [
+          139.022,
+          12.0,
+          154.264,
+          14.929
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 031 Date - March 14 1926 newspaper date second crop 2 of 5.png",
+        "matchScore": 14.9
+      },
+      {
+        "id": "g2f9d3c916e9_0_511",
+        "box": [
+          60.756,
+          58.835,
+          171.75,
+          154.5
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 031 Clipping - Three Lines of Hose Burst 4 of 5.png",
+        "matchScore": 4.8
+      },
+      {
+        "id": "g2f9d3c916e9_0_512",
+        "box": [
+          61.131,
+          216.894,
+          171.0,
+          122.25
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 031 Clipping - Ice coated church walls and neighbors helping firemen 5 of 5.png",
+        "matchScore": 16.7
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 32,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_351",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_515",
+        "box": [
+          225.081,
+          24.0,
+          331.496,
+          145.394
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 032 Clipping - Methodist Church to Be Torn Down 3 of 5.png",
+        "matchScore": 8.6
+      },
+      {
+        "id": "g2f9d3c916e9_0_516",
+        "box": [
+          12.0,
+          12.0,
+          173.25,
+          12.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 032 Date - April 10 1926 newspaper date 1 of 5.png",
+        "matchScore": 12.1
+      },
+      {
+        "id": "g2fa2b6f4c83_0_37",
+        "box": [
+          14.268,
+          45.616,
+          199.535,
+          265.488
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0.091182366,
+          "rightOffset": 0.07381433,
+          "topOffset": 0.05587444,
+          "bottomOffset": 0.047264576
+        },
+        "rotation": 0,
+        "source": "SLIDE 032 Photo - Church clock tower surrounded by smoke and fire hoses 4 of 5.png",
+        "matchScore": 95.2
+      },
+      {
+        "id": "g2fa2b6f4c83_0_38",
+        "box": [
+          34.819,
+          317.035,
+          150.425,
+          17.102
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Photo from Lynn Houghton - Encore",
+            "size": 8,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": "\n",
+            "size": 8,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      },
+      {
+        "id": "g2fa2b6f4c83_0_123",
+        "box": [
+          567.854,
+          132.12,
+          126.75,
+          223.923
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 032 Photo - First Methodist Church historic steeple photograph 5 of 5.png",
+        "matchScore": 6.4
+      },
+      {
+        "id": "g2fa2b6f4c83_0_126",
+        "box": [
+          337.461,
+          202.499,
+          236.22,
+          116.339
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "(Work began on the new edifice in 1865 and the sanctuary was completed in 1869. Due to fundraising limitations, the planned tower and steeple were not added until 1873. - KPL)\n",
+            "size": 14,
+            "bold": false,
+            "color": "#000000"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 33,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_406",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_568",
+        "box": [
+          137.858,
+          12.0,
+          171.0,
+          17.25
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 033 Date - Wednesday June 2 1926 2 of 4.png",
+        "matchScore": 13.7
+      },
+      {
+        "id": "g2f9d3c916e9_0_569",
+        "box": [
+          137.858,
+          41.25,
+          195.465,
+          313.089
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 033 Clipping - Fifth church fire causes 500 dollar loss 3 of 4.png",
+        "matchScore": 7.7
+      },
+      {
+        "id": "g2f9d3c916e9_0_570",
+        "box": [
+          360.0,
+          80.771,
+          195.465,
+          243.459
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 033 Clipping - Earlier Presbyterian fires and other church losses 4 of 4.png",
+        "matchScore": 5.5
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 34,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_414",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_571",
+        "box": [
+          6.774,
+          12.0,
+          584.549,
+          92.161
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 034 Headline - Probing New Church Fire Gazette headline 1 of 7.png",
+        "matchScore": 1.2
+      },
+      {
+        "id": "g2f9d3c916e9_0_572",
+        "box": [
+          12.0,
+          116.161,
+          198.095,
+          237.132
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 034 Clipping - Church Destroyed by 100000 Dollar Fire 4 of 7.png",
+        "matchScore": 9.6
+      },
+      {
+        "id": "g2f9d3c916e9_0_573",
+        "box": [
+          265.483,
+          116.161,
+          207.0,
+          202.5
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 034 Clipping - Fire insurers discuss Kalamazoo church risks 5 of 7.png",
+        "matchScore": 8.6
+      },
+      {
+        "id": "g2f9d3c916e9_0_574",
+        "box": [
+          544.123,
+          114.661,
+          123.0,
+          205.5
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 034 Clipping - List of seven Kalamazoo church fires 3 of 7.png",
+        "matchScore": 7.8
+      },
+      {
+        "id": "g2f9d3c916e9_0_575",
+        "box": [
+          537.814,
+          335.602,
+          168.75,
+          14.25
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 034 Date - July 7 1926 newspaper date 7 of 7.png",
+        "matchScore": 29.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_576",
+        "box": [
+          198.794,
+          326.48,
+          332.939,
+          30.992
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 034 Clipping - First Presbyterian Church destruction photograph caption 6 of 7.png",
+        "matchScore": 4.7
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 35,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_585",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_614",
+        "box": [
+          19.427,
+          176.26,
+          168.75,
+          151.5
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 035 Clipping - Presbyterian church fire discovered at 1120 7 of 8.png",
+        "matchScore": 8.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_615",
+        "box": [
+          61.752,
+          60.598,
+          115.148,
+          109.114
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 035 Headline - Presbyterian church fire loss 100000 dollars 5 of 8.png",
+        "matchScore": 19.4
+      },
+      {
+        "id": "g2f9d3c916e9_0_616",
+        "box": [
+          18.302,
+          334.307,
+          171.0,
+          24.75
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 035 Clipping - Church fire out of control within five minutes 8 of 8.png",
+        "matchScore": 32.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_617",
+        "box": [
+          201.302,
+          12.0,
+          171.395,
+          341.293
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 035 Clipping - Presbyterian church fire bursts into flame account 2 of 8.png",
+        "matchScore": 6.2
+      },
+      {
+        "id": "g2f9d3c916e9_0_619",
+        "box": [
+          384.697,
+          12.0,
+          154.395,
+          341.293
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 035 Clipping - Presbyterian fire spread and roof collapse 3 of 8.png",
+        "matchScore": 6.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_620",
+        "box": [
+          551.092,
+          12.0,
+          156.908,
+          155.52
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 035 Clipping - Protecting Pythian building and YWCA from Presbyterian fire 4 of 8.png",
+        "matchScore": 7.5
+      },
+      {
+        "id": "g2f9d3c916e9_0_622",
+        "box": [
+          551.092,
+          169.713,
+          156.908,
+          134.098
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 035 Clipping - Pythian building volunteers fight church fire 6 of 8.png",
+        "matchScore": 14.6
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 36,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_591",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_624",
+        "box": [
+          12.0,
+          12.0,
+          163.477,
+          341.293
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 036 Clipping - Presbyterian fire response and building evacuation 1 of 4.png",
+        "matchScore": 6.7
+      },
+      {
+        "id": "g2f9d3c916e9_0_625",
+        "box": [
+          187.477,
+          12.0,
+          170.25,
+          336.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 036 Clipping - Presbyterian fire crowds hoses and smoke damage 2 of 4.png",
+        "matchScore": 6.4
+      },
+      {
+        "id": "g2f9d3c916e9_0_626",
+        "box": [
+          369.727,
+          12.0,
+          171.75,
+          249.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 036 Clipping - Church interior destroyed and firemen ordered to retreat 3 of 4.png",
+        "matchScore": 6.8
+      },
+      {
+        "id": "g2f9d3c916e9_0_627",
+        "box": [
+          369.726,
+          261.0,
+          170.25,
+          17.481
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 036 Clipping - Firefighters remained outside to play water streams 4 of 4.png",
+        "matchScore": 27.7
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 37,
+    "elements": [
+      {
+        "id": "g2fa2b6f4c83_0_137",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2fa2b6f4c83_0_148",
+        "box": [
+          121.976,
+          51.094,
+          496.215,
+          280.362
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 037 Photo - First Presbyterian exterior and sanctuary paired photographs 1 of 1.png",
+        "matchScore": 11.9
+      },
+      {
+        "id": "g2fa2b6f4c83_0_149",
+        "box": [
+          332.82,
+          308.484,
+          74.528,
+          36.354
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "(KPL)\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 38,
+    "elements": [
+      {
+        "id": "g2fa11eb4b29_0_22",
+        "box": [
+          81.142,
+          130.925,
+          557.717,
+          143.15
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "deaths\n",
+            "size": 103,
+            "bold": true,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 39,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_382",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_444",
+        "box": [
+          332.703,
+          12.0,
+          377.624,
+          341.293
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 039 Clipping - Five firemen injured in Methodist church blaze portraits 3 of 6.png",
+        "matchScore": 28.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_445",
+        "box": [
+          328.512,
+          278.925,
+          129.543,
+          78.709
+        ],
+        "kind": "shape",
+        "fill": "#bd3023",
+        "shape": "RECTANGLE",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_446",
+        "box": [
+          138.505,
+          12.0,
+          181.551,
+          166.091
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 039 Headline - Falling balcony crushes firemen 2 of 6.png",
+        "matchScore": 21.6
+      },
+      {
+        "id": "g2f9d3c916e9_0_447",
+        "box": [
+          198.949,
+          172.315,
+          121.106,
+          185.319
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 039 Photo - Fireman Claus Slater portrait 5 of 6.png",
+        "matchScore": 16.9
+      },
+      {
+        "id": "g2f9d3c916e9_0_448",
+        "box": [
+          22.156,
+          131.207,
+          116.348,
+          189.563
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 039 Photo - Fireman John Morren portrait 4 of 6.png",
+        "matchScore": 11.4
+      },
+      {
+        "id": "g2f9d3c916e9_0_449",
+        "box": [
+          12.0,
+          332.77,
+          156.75,
+          13.5
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 039 Date - Sunday March 14 1926 6 of 6.png",
+        "matchScore": 39.1
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 40,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_388",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_450",
+        "box": [
+          12.0,
+          12.0,
+          342.0,
+          253.5
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 040 Clipping - Names and injuries of dead and injured firemen 1 of 5.png",
+        "matchScore": 5.6
+      },
+      {
+        "id": "g2f9d3c916e9_0_451",
+        "box": [
+          364.563,
+          194.035,
+          342.0,
+          145.182
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 040 Clipping - Two firemen killed and five injured by falling balcony 4 of 5.png",
+        "matchScore": 11.8
+      },
+      {
+        "id": "g2f9d3c916e9_0_452",
+        "box": [
+          102.567,
+          283.488,
+          171.0,
+          52.5
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 040 Clipping - Dead firemen recovered from ruins in two hours 5 of 5.png",
+        "matchScore": 8.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_476",
+        "box": [
+          391.566,
+          58.488,
+          130.604,
+          115.488
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 040 Clipping - Methodist church fire at a glance 2 of 5.png",
+        "matchScore": 9.2
+      },
+      {
+        "id": "g2f9d3c916e9_0_477",
+        "box": [
+          524.818,
+          59.515,
+          130.604,
+          113.436
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 040 Clipping - Fatal church fire loss hose and crowd statistics 3 of 5.png",
+        "matchScore": 18.7
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 41,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_430",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_478",
+        "box": [
+          24.246,
+          124.811,
+          151.535,
+          230.974
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 041 Clipping - Falling balcony traps firemen and rescue squad forms 4 of 4.png",
+        "matchScore": 4.2
+      },
+      {
+        "id": "g2f9d3c916e9_0_479",
+        "box": [
+          181.266,
+          26.869,
+          173.25,
+          247.717
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 041 Clipping - Rescue party searches debris and finds first body 3 of 4.png",
+        "matchScore": 6.0
+      },
+      {
+        "id": "g2f9d3c916e9_0_480",
+        "box": [
+          359.999,
+          12.0,
+          173.25,
+          319.5
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 041 Clipping - Recovery and identification of firemen bodies 1 of 4.png",
+        "matchScore": 7.1
+      },
+      {
+        "id": "g2f9d3c916e9_0_481",
+        "box": [
+          537.826,
+          12.0,
+          172.5,
+          225.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 041 Clipping - Chief Russell weeps over firemen deaths 2 of 4.png",
+        "matchScore": 4.3
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 42,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_436",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_482",
+        "box": [
+          52.13,
+          12.0,
+          172.5,
+          333.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 042 Clipping - Fireman Bennett Career And Suffocation Rescues 1 of 3.png",
+        "matchScore": 6.7
+      },
+      {
+        "id": "g2f9d3c916e9_0_483",
+        "box": [
+          273.375,
+          41.25,
+          173.25,
+          274.5
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 042 Clipping - Basement fire spreads through roof as crowds watch 2 of 3.png",
+        "matchScore": 7.9
+      },
+      {
+        "id": "g2f9d3c916e9_0_484",
+        "box": [
+          495.372,
+          163.041,
+          171.75,
+          109.5
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 042 Clipping - Church total ruin within one hour 3 of 3.png",
+        "matchScore": 18.7
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 43,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_636",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_699",
+        "box": [
+          137.858,
+          12.0,
+          155.25,
+          20.25
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 043 Date - Sunday March 14 1926 editorial date 2 of 5.png",
+        "matchScore": 17.5
+      },
+      {
+        "id": "g2f9d3c916e9_0_700",
+        "box": [
+          62.11,
+          58.299,
+          203.774,
+          267.091
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 043 Clipping - Brave men and good firemen editorial 3 of 5.png",
+        "matchScore": 7.4
+      },
+      {
+        "id": "g2f9d3c916e9_0_701",
+        "box": [
+          273.693,
+          58.299,
+          203.774,
+          275.829
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 043 Clipping - Editorial honors John Morren and Claus Slater 4 of 5.png",
+        "matchScore": 4.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_702",
+        "box": [
+          485.276,
+          58.299,
+          203.774,
+          299.053
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 043 Clipping - Tribute to firemen and sympathy for bereaved families 5 of 5.png",
+        "matchScore": 6.4
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 44,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_649",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_729",
+        "box": [
+          12.0,
+          12.0,
+          169.156,
+          341.293
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 044 Clipping - Bury John Morren with full honors 1 of 6.png",
+        "matchScore": 5.4
+      },
+      {
+        "id": "g2f9d3c916e9_0_730",
+        "box": [
+          193.156,
+          12.0,
+          172.5,
+          307.5
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 044 Clipping - City officials and firemen attend John Morren funeral 2 of 6.png",
+        "matchScore": 7.1
+      },
+      {
+        "id": "g2f9d3c916e9_0_731",
+        "box": [
+          185.281,
+          326.411,
+          188.25,
+          13.5
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 044 Date - Wednesday March 17 1926 6 of 6.png",
+        "matchScore": 13.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_732",
+        "box": [
+          477.239,
+          118.719,
+          165.017,
+          213.805
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 044 Clipping - Memorial will be held for firemen 5 of 6.png",
+        "matchScore": 11.4
+      },
+      {
+        "id": "g2f9d3c916e9_0_733",
+        "box": [
+          486.249,
+          93.854,
+          147.0,
+          15.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 044 Date - Sunday June 13 1926 4 of 6.png",
+        "matchScore": 36.5
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 45,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_711",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_756",
+        "box": [
+          66.154,
+          63.923,
+          231.0,
+          211.5
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 045 Clipping - The best reward for valor editorial 3 of 4.png",
+        "matchScore": 8.6
+      },
+      {
+        "id": "g2f9d3c916e9_0_757",
+        "box": [
+          381.236,
+          47.423,
+          231.0,
+          244.5
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 045 Clipping - Fund for Slater and Morren families education 2 of 4.png",
+        "matchScore": 5.8
+      },
+      {
+        "id": "g2f9d3c916e9_0_760",
+        "box": [
+          202.589,
+          323.47,
+          153.0,
+          18.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 045 Date - Friday March 19 1926 4 of 4.png",
+        "matchScore": 62.7
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 46,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_721",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_758",
+        "box": [
+          119.539,
+          64.341,
+          229.5,
+          216.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 046 Clipping - Relief fund as community obligation to firemen children 2 of 2.png",
+        "matchScore": 6.7
+      },
+      {
+        "id": "g2f9d3c916e9_0_759",
+        "box": [
+          425.762,
+          62.091,
+          228.75,
+          220.5
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 046 Clipping - Community urged to support fallen firemen children 1 of 2.png",
+        "matchScore": 5.8
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 47,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_461",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_761",
+        "box": [
+          380.734,
+          12.0,
+          329.592,
+          341.293
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 047 Photo - Morren and Slater widows and children portrait collage 3 of 9.png",
+        "matchScore": 8.0
+      },
+      {
+        "id": "g2f9d3c916e9_0_762",
+        "box": [
+          60.317,
+          57.988,
+          309.394,
+          29.976
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 047 Headline - Future of six fatherless tots depends on relief drive 4 of 9.png",
+        "matchScore": 43.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_763",
+        "box": [
+          157.996,
+          12.0,
+          149.25,
+          17.25
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 047 Date - Sunday March 21 1926 2 of 9.png",
+        "matchScore": 18.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_764",
+        "box": [
+          63.75,
+          343.355,
+          592.5,
+          18.75
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 047 Clipping - Morren and Slater family photograph caption 8 of 9.png",
+        "matchScore": 10.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_765",
+        "box": [
+          656.25,
+          351.606,
+          43.5,
+          10.5
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 047 Clipping - Mother caption fragment 9 of 9.png",
+        "matchScore": 27.9
+      },
+      {
+        "id": "g2f9d3c916e9_0_766",
+        "box": [
+          42.522,
+          101.148,
+          126.687,
+          239.429
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 047 Clipping - How will Kalamazoo reward firemen supreme devotion 6 of 9.png",
+        "matchScore": 9.0
+      },
+      {
+        "id": "g2f9d3c916e9_0_767",
+        "box": [
+          181.209,
+          99.965,
+          164.25,
+          129.75
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 047 Clipping - Will Kalamazoo aid firemen widows and six children 5 of 9.png",
+        "matchScore": 13.2
+      },
+      {
+        "id": "g2f9d3c916e9_0_768",
+        "box": [
+          181.209,
+          238.661,
+          174.959,
+          17.25
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 047 Clipping - Without the kindly aid and guidance of a father 7 of 9.png",
+        "matchScore": 30.6
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 48,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_467",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_769",
+        "box": [
+          12.0,
+          12.0,
+          141.364,
+          341.293
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 048 Clipping - Hope to raise 6000 dollars for firemen families 1 of 6.png",
+        "matchScore": 4.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_770",
+        "box": [
+          169.106,
+          12.0,
+          137.817,
+          341.293
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 048 Clipping - Children ask where is daddy after firemen deaths 2 of 6.png",
+        "matchScore": 7.5
+      },
+      {
+        "id": "g2f9d3c916e9_0_771",
+        "box": [
+          322.665,
+          12.0,
+          137.817,
+          342.256
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 048 Clipping - Firemen family relief drive children and donations 3 of 6.png",
+        "matchScore": 7.7
+      },
+      {
+        "id": "g2f9d3c916e9_0_772",
+        "box": [
+          468.815,
+          54.758,
+          162.0,
+          24.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 048 Clipping - Fundraising to continue until 6000 dollar quota reached 5 of 6.png",
+        "matchScore": 26.1
+      },
+      {
+        "id": "g2f9d3c916e9_0_773",
+        "box": [
+          509.744,
+          106.5,
+          147.75,
+          13.5
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 048 Date - Sunday March 21 1926 relief drive date 6 of 6.png",
+        "matchScore": 34.2
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 49,
+    "elements": [
+      {
+        "id": "g2fa11eb4b29_0_27",
+        "box": [
+          81.142,
+          130.925,
+          557.717,
+          143.15
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "investigations\n",
+            "size": 70,
+            "bold": true,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 50,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_109",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_154",
+        "box": [
+          64.098,
+          58.486,
+          169.5,
+          35.25
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 050 Clipping - Fire origin unknown 5 of 6.png",
+        "matchScore": 32.6
+      },
+      {
+        "id": "g2f9d3c916e9_0_155",
+        "box": [
+          51.132,
+          99.575,
+          195.433,
+          259.878
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 050 Clipping - Boys discover church fire and report smoke 6 of 6.png",
+        "matchScore": 5.7
+      },
+      {
+        "id": "g2f9d3c916e9_0_156",
+        "box": [
+          436.457,
+          12.0,
+          267.75,
+          12.75
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 050 Date - Newspaper Date 1925-12-30 1 of 6.png",
+        "matchScore": 32.8
+      },
+      {
+        "id": "g2f9d3c916e9_0_157",
+        "box": [
+          262.285,
+          44.228,
+          184.541,
+          316.543
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 050 Clipping - Drafts fan blaze and firemen fight church fire 3 of 6.png",
+        "matchScore": 5.0
+      },
+      {
+        "id": "g2f9d3c916e9_0_158",
+        "box": [
+          462.547,
+          44.228,
+          209.25,
+          230.25
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 050 Clipping - Church fire upsets planned enlargements 4 of 6.png",
+        "matchScore": 8.4
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 51,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_115",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_159",
+        "box": [
+          14.268,
+          12.0,
+          212.25,
+          318.75
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 051 Clipping - Fears church walls may crumble after fire 1 of 4.png",
+        "matchScore": 6.6
+      },
+      {
+        "id": "g2f9d3c916e9_0_160",
+        "box": [
+          237.449,
+          12.0,
+          210.75,
+          278.25
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 051 Clipping - Warning for janitors after church fire 2 of 4.png",
+        "matchScore": 5.8
+      },
+      {
+        "id": "g2f9d3c916e9_0_161",
+        "box": [
+          459.13,
+          192.0,
+          211.5,
+          98.25
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 051 Clipping - Two children knocked down and drenched by broken hose 3 of 4.png",
+        "matchScore": 4.4
+      },
+      {
+        "id": "g2f9d3c916e9_0_162",
+        "box": [
+          302.557,
+          311.999,
+          260.25,
+          18.75
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 051 Date - Newspaper Date 1925-12-30 4 of 4.png",
+        "matchScore": 34.0
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 52,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_171",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_215",
+        "box": [
+          62.961,
+          60.249,
+          154.913,
+          203.007
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 052 Clipping - Another church fire First Presbyterian editorial 4 of 6.png",
+        "matchScore": 5.9
+      },
+      {
+        "id": "g2f9d3c916e9_0_216",
+        "box": [
+          226.185,
+          12.0,
+          147.657,
+          177.669
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 052 Clipping - Third large church destroyed by flames in recent months 2 of 6.png",
+        "matchScore": 8.4
+      },
+      {
+        "id": "g2f9d3c916e9_0_217",
+        "box": [
+          226.185,
+          197.969,
+          147.657,
+          152.016
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 052 Clipping - Editorial Questions Mysterious Church And Lodge Fires 6 of 6.png",
+        "matchScore": 9.2
+      },
+      {
+        "id": "g2f9d3c916e9_0_218",
+        "box": [
+          382.154,
+          60.25,
+          179.47,
+          203.006
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 052 Clipping - Editorial considers repeated church and lodge fires 5 of 6.png",
+        "matchScore": 5.1
+      },
+      {
+        "id": "g2f9d3c916e9_0_219",
+        "box": [
+          564.944,
+          23.778,
+          134.376,
+          11.685
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 052 Date - Thursday July 8 1926 3 of 6.png",
+        "matchScore": 43.0
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 53,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_177",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_276",
+        "box": [
+          12.0,
+          12.0,
+          329.675,
+          341.293
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 053 Clipping - Church cornerstone yields old box of historical data 2 of 7.png",
+        "matchScore": 98.1
+      },
+      {
+        "id": "g2f9d3c916e9_0_278",
+        "box": [
+          354.293,
+          60.793,
+          164.25,
+          292.5
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 053 Photo - Rev W A Waterman newspaper portrait 5 of 7.png",
+        "matchScore": 159.0
+      },
+      {
+        "id": "g2f9d3c916e9_0_277",
+        "box": [
+          378.769,
+          11.999,
+          172.5,
+          42.75
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 053 Clipping - Second Congregational church 1852 and Rev W A Waterman caption 3 of 7.png",
+        "matchScore": 23.2
+      },
+      {
+        "id": "g2f9d3c916e9_0_279",
+        "box": [
+          530.543,
+          139.488,
+          152.25,
+          15.75
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 053 Date - Newspaper Date 1926-03-07 7 of 7.png",
+        "matchScore": 13.8
+      },
+      {
+        "id": "g2fc9d28a78a_0_61",
+        "box": [
+          22.292,
+          84.669,
+          309.091,
+          263.795
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0,
+          "rightOffset": 0.085923195,
+          "topOffset": 0.30240667,
+          "bottomOffset": 5.9604645e-08
+        },
+        "rotation": 0,
+        "source": "SLIDE 053 Photo - Second Congregational Church building from 1852 1 of 7.jpg",
+        "matchScore": 179.9
+      },
+      {
+        "id": "g2fc9d28a78a_0_62",
+        "box": [
+          358.653,
+          68.031,
+          154.913,
+          278.023
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0.1665236,
+          "rightOffset": 0.22035563,
+          "topOffset": 0,
+          "bottomOffset": 0.14266115
+        },
+        "rotation": 0,
+        "source": "SLIDE 053 Photo - Rev W A Waterman sepia portrait 6 of 7.png",
+        "matchScore": 67.8
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 54,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_288",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_302",
+        "box": [
+          14.268,
+          131.626,
+          139.467,
+          203.083
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 054 Clipping - Workers Recover Congregational Church Cornerstone Box 6 of 8.png",
+        "matchScore": 7.2
+      },
+      {
+        "id": "g2f9d3c916e9_0_303",
+        "box": [
+          161.557,
+          12.0,
+          139.467,
+          204.263
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 054 Clipping - Cornerstone contents and church formation June 6 1835 1 of 8.png",
+        "matchScore": 6.1
+      },
+      {
+        "id": "g2f9d3c916e9_0_305",
+        "box": [
+          161.557,
+          216.263,
+          139.467,
+          130.169
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 054 Clipping - Early Congregational Ministers And Church Buildings 7 of 8.png",
+        "matchScore": 8.9
+      },
+      {
+        "id": "g2f9d3c916e9_0_307",
+        "box": [
+          308.846,
+          12.0,
+          139.467,
+          86.544
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 054 Clipping - Third church construction decision and 1889 dedication 2 of 8.png",
+        "matchScore": 22.8
+      },
+      {
+        "id": "g2f9d3c916e9_0_308",
+        "box": [
+          308.846,
+          108.698,
+          139.467,
+          226.011
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 054 Clipping - First Congregational church donor names and contributions 5 of 8.png",
+        "matchScore": 7.9
+      },
+      {
+        "id": "g2f9d3c916e9_0_309",
+        "box": [
+          456.136,
+          12.0,
+          139.467,
+          43.153
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 054 Clipping - Echo Of Old School Cornerstone Program 3 of 8.png",
+        "matchScore": 5.0
+      },
+      {
+        "id": "g2f9d3c916e9_0_310",
+        "box": [
+          456.136,
+          59.429,
+          139.467,
+          263.506
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 054 Clipping - Congregational Cornerstone Contents And Church History 4 of 8.png",
+        "matchScore": 5.0
+      },
+      {
+        "id": "g2f9d3c916e9_0_311",
+        "box": [
+          520.582,
+          329.571,
+          144.657,
+          15.677
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 054 Date - Newspaper Date 1926-03-07 8 of 8.png",
+        "matchScore": 52.4
+      },
+      {
+        "id": "g2f9d3c916e9_0_312",
+        "box": [
+          631.301,
+          122.951,
+          61.37,
+          26.268
+        ],
+        "kind": "text",
+        "fill": "transparent",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "1 of 2\n",
+            "size": 18,
+            "bold": false,
+            "color": "#f9f4e9"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 55,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_294",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_313",
+        "box": [
+          9.917,
+          8.281,
+          67.252,
+          26.268
+        ],
+        "kind": "text",
+        "fill": "transparent",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "2 of 2\n",
+            "size": 18,
+            "bold": false,
+            "color": "#f9f4e9"
+          }
+        ]
+      },
+      {
+        "id": "g2f9d3c916e9_0_314",
+        "box": [
+          62.37,
+          34.548,
+          505.07,
+          321.001
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 055 Clipping - Congregational Church History And Cornerstone Records 1 of 1.png",
+        "matchScore": 5.1
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 56,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_493",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_508",
+        "box": [
+          137.858,
+          12.0,
+          163.5,
+          15.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 056 Date - Sunday March 14 1926 historical review date 2 of 4.png",
+        "matchScore": 13.5
+      },
+      {
+        "id": "g2f9d3c916e9_0_513",
+        "box": [
+          114.045,
+          63.793,
+          218.331,
+          239.305
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 056 Clipping - Discuss Origin Of Fire And Possible Causes 3 of 4.png",
+        "matchScore": 5.2
+      },
+      {
+        "id": "g2f9d3c916e9_0_514",
+        "box": [
+          397.213,
+          63.793,
+          218.331,
+          228.727
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 056 Clipping - First Methodist Fire Janitor And Insurance Report 4 of 4.png",
+        "matchScore": 4.2
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 57,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_499",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_564",
+        "box": [
+          12.0,
+          12.0,
+          170.25,
+          312.75
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 057 Headline - Red Hot Flue Razed Church Probers Find 1 of 5.png",
+        "matchScore": 4.5
+      },
+      {
+        "id": "g2f9d3c916e9_0_565",
+        "box": [
+          194.25,
+          12.0,
+          170.25,
+          221.25
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 057 Clipping - Make Thorough Probe Of Furnaces Flues And Wiring 2 of 5.png",
+        "matchScore": 6.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_566",
+        "box": [
+          376.5,
+          12.0,
+          169.5,
+          174.75
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 057 Clipping - Set Fire To Joists Furnace Investigation Findings 3 of 5.png",
+        "matchScore": 9.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_567",
+        "box": [
+          459.539,
+          288.638,
+          190.5,
+          18.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 057 Date - Newspaper Date 1926-03-24 5 of 5.png",
+        "matchScore": 52.9
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 58,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_525",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_600",
+        "box": [
+          14.268,
+          170.878,
+          121.476,
+          125.404
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 058 Headline - Flames Destroy Church Set By Firebug Belief 6 of 6.png",
+        "matchScore": 24.8
+      },
+      {
+        "id": "g2f9d3c916e9_0_602",
+        "box": [
+          14.268,
+          147.746,
+          167.25,
+          12.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 058 Date - Newspaper Date 1926-07-07 5 of 6.png",
+        "matchScore": 38.4
+      },
+      {
+        "id": "g2f9d3c916e9_0_603",
+        "box": [
+          193.518,
+          12.0,
+          170.25,
+          318.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 058 Clipping - Firebug Theory And Presbyterian Fire Investigation 2 of 6.png",
+        "matchScore": 6.5
+      },
+      {
+        "id": "g2f9d3c916e9_0_604",
+        "box": [
+          375.768,
+          12.0,
+          168.75,
+          327.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 058 Clipping - Officials Investigate Arson Theory And Fire Losses 3 of 6.png",
+        "matchScore": 4.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_605",
+        "box": [
+          556.518,
+          12.0,
+          151.482,
+          255.585
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 058 Clipping - Comparison Of Daytime And Nighttime Church Fires 4 of 6.png",
+        "matchScore": 9.0
+      },
+      {
+        "id": "g2f9d3c916e9_0_607",
+        "box": [
+          664.463,
+          260.951,
+          43.205,
+          12.0
+        ],
+        "kind": "shape",
+        "fill": "#bd3023",
+        "shape": "RECTANGLE",
+        "flip": false
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 59,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_531",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_609",
+        "box": [
+          12.0,
+          12.0,
+          173.25,
+          338.25
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 059 Headline - Presbyterian Church Fire Loss 100000 Dollars 1 of 5.png",
+        "matchScore": 2.9
+      },
+      {
+        "id": "g2f9d3c916e9_0_610",
+        "box": [
+          197.25,
+          12.0,
+          162.079,
+          341.293
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 059 Clipping - Two Previous Fires And Presbyterian Church History 2 of 5.png",
+        "matchScore": 6.4
+      },
+      {
+        "id": "g2f9d3c916e9_0_611",
+        "box": [
+          371.329,
+          12.0,
+          170.25,
+          306.75
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 059 Clipping - Twelve Fires Since December 16 Loss List 3 of 5.png",
+        "matchScore": 7.4
+      },
+      {
+        "id": "g2f9d3c916e9_0_612",
+        "box": [
+          553.579,
+          139.488,
+          154.421,
+          35.002
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 059 Clipping - Other Fire Losses Boudeman Paper Company And Garage 5 of 5.png",
+        "matchScore": 9.0
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 60,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_547",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_691",
+        "box": [
+          58.486,
+          54.77,
+          184.96,
+          304.736
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 060 Clipping - Buildings Endangered By Presbyterian Church Fire 1 of 4.png",
+        "matchScore": 5.4
+      },
+      {
+        "id": "g2f9d3c916e9_0_692",
+        "box": [
+          256.483,
+          54.77,
+          184.145,
+          290.05
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 060 Clipping - Danger Warnings For Ruined Church Walls 2 of 4.png",
+        "matchScore": 6.2
+      },
+      {
+        "id": "g2f9d3c916e9_0_693",
+        "box": [
+          453.664,
+          59.077,
+          182.515,
+          154.204
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 060 Clipping - Pumpers And Hose Lines Fight Church Fire 3 of 4.png",
+        "matchScore": 14.2
+      },
+      {
+        "id": "g2f9d3c916e9_0_694",
+        "box": [
+          453.664,
+          213.281,
+          184.145,
+          43.14
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 060 Clipping - Coffee Doughnuts And Sandwiches For Firemen 4 of 4.png",
+        "matchScore": 25.6
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 61,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_556",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_695",
+        "box": [
+          12.0,
+          12.0,
+          137.25,
+          12.75
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 061 Date - Newspaper Date 1926-07-09 1 of 5.png",
+        "matchScore": 39.0
+      },
+      {
+        "id": "g2f9d3c916e9_0_696",
+        "box": [
+          12.0,
+          36.75,
+          169.5,
+          308.25
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 061 Headline - Presbyterians Will Meet At High School Auditorium 3 of 5.png",
+        "matchScore": 6.7
+      },
+      {
+        "id": "g2f9d3c916e9_0_697",
+        "box": [
+          192.132,
+          60.258,
+          212.298,
+          255.557
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 061 Clipping - Church Trustees Meet With School Board And Architect 4 of 5.png",
+        "matchScore": 8.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_698",
+        "box": [
+          415.061,
+          105.338,
+          190.911,
+          171.075
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 061 Clipping - Probe Continues Into Presbyterian And Other Fires 5 of 5.png",
+        "matchScore": 11.9
+      },
+      {
+        "id": "g2fa2b6f4c83_0_155",
+        "box": [
+          412.941,
+          102.014,
+          197.315,
+          177.756
+        ],
+        "border": {
+          "color": "#00ff00",
+          "width": 3.0
+        },
+        "kind": "shape",
+        "fill": "transparent",
+        "shape": "RECTANGLE",
+        "flip": false
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 62,
+    "elements": [
+      {
+        "id": "g2fa11eb4b29_0_32",
+        "box": [
+          81.142,
+          130.925,
+          557.717,
+          143.15
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "rebuilding\n",
+            "size": 98,
+            "bold": true,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 63,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_824",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2fa2b6f4c83_0_53",
+        "box": [
+          60.892,
+          58.427,
+          486.069,
+          293.429
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 063 Photo - Ernest S Batterson proposed First Methodist Church rendering 1 of 1.png",
+        "matchScore": 9.2
+      },
+      {
+        "id": "g2fa2b6f4c83_0_56",
+        "box": [
+          467.309,
+          25.045,
+          236.22,
+          130.89
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "Ernest S. Batterson’s rendering of the proposed new church building. The sanctuary on the left was completed in 1929. However, the church house on the right would not be built until 1950, in a somewhat simplified form. The massive central tower has never been realized. (KPL)\n",
+            "size": 12,
+            "bold": false,
+            "color": "#000000"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 64,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_830",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2fa2b6f4c83_0_57",
+        "box": [
+          12.0,
+          12.0,
+          497.079,
+          344.132
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 064 Photo - First Methodist 1929 building exterior in 2013 1 of 1.png",
+        "matchScore": 14.3
+      },
+      {
+        "id": "g2fa2b6f4c83_0_60",
+        "box": [
+          463.031,
+          174.094,
+          236.22,
+          116.339
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "The third First Methodist building has overlooked Bronson Park since its completion in 1929. Photograph take by David Kohrman, Kalamazoo Public Library staff, March 2013.\n",
+            "size": 14,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 65,
+    "elements": [
+      {
+        "id": "g2fa2b6f4c83_0_71",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2fa2b6f4c83_0_115",
+        "box": [
+          62.35,
+          60.868,
+          286.689,
+          237.309
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 065 Photo - First Methodist 1869 sanctuary wide interior 2 of 2.png",
+        "matchScore": 53.3
+      },
+      {
+        "id": "g2fa2b6f4c83_0_121",
+        "box": [
+          87.585,
+          270.612,
+          236.22,
+          87.26
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "top",
+        "runs": [
+          {
+            "text": "The grand interior of the 1869 church is shown in this late nineteenth century photograph. The painted stencil designs on the walls and ceiling were typical for the era. (KPL)\n",
+            "size": 12,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      },
+      {
+        "id": "g2fa2b6f4c83_0_127",
+        "box": [
+          436.787,
+          28.307,
+          222.726,
+          296.04
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 065 Photo - First Methodist chancel and stained glass window 1 of 2.png",
+        "matchScore": 4.4
+      },
+      {
+        "id": "g2fa2b6f4c83_0_128",
+        "box": [
+          355.957,
+          152.104,
+          73.913,
+          70.866
+        ],
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "RIGHT_ARROW",
+        "flip": false
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 66,
+    "elements": [
+      {
+        "id": "g2fa2b6f4c83_0_80",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2fa2b6f4c83_0_150",
+        "box": [
+          46.535,
+          12.0,
+          536.74,
+          340.228
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0.036537744,
+          "rightOffset": 0.033748627,
+          "topOffset": 0.16354811,
+          "bottomOffset": 0.13301915
+        },
+        "rotation": 0,
+        "source": "SLIDE 066 Photo - First Presbyterian Church Color Postcard 1 of 1.png",
+        "matchScore": 147.7
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 67,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_41",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_149",
+        "box": [
+          64.687,
+          60.346,
+          193.5,
+          300.75
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 067 Headline - Burned Church To Be Rebuilt By Fall Of 1926 3 of 5.png",
+        "matchScore": 8.8
+      },
+      {
+        "id": "g2f9d3c916e9_0_151",
+        "box": [
+          273.906,
+          60.346,
+          191.25,
+          279.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 067 Clipping - Congregational Rebuilding Plans After 1925 Fire 4 of 5.png",
+        "matchScore": 7.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_152",
+        "box": [
+          483.972,
+          60.346,
+          171.318,
+          213.805
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 067 Clipping - Planning New Church Building Committee And Architect 5 of 5.png",
+        "matchScore": 7.9
+      },
+      {
+        "id": "g2f9d3c916e9_0_153",
+        "box": [
+          14.268,
+          25.821,
+          230.25,
+          12.75
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 067 Date - Newspaper Date 1925-12-30 2 of 5.png",
+        "matchScore": 39.1
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 68,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_94",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_123",
+        "box": [
+          62.73,
+          61.362,
+          184.224,
+          298.049
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 068 Headline - Start Work On 250000 Dollar Church By May 15 3 of 5.png",
+        "matchScore": 9.8
+      },
+      {
+        "id": "g2f9d3c916e9_0_124",
+        "box": [
+          261.953,
+          61.362,
+          180.5,
+          298.049
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 068 Clipping - Congregational Church Architect Selection And Cost Plans 4 of 5.png",
+        "matchScore": 7.3
+      },
+      {
+        "id": "g2f9d3c916e9_0_125",
+        "box": [
+          457.451,
+          61.362,
+          180.5,
+          298.049
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 068 Clipping - Plans Walled Garden For New Congregational Church 5 of 5.png",
+        "matchScore": 7.2
+      },
+      {
+        "id": "g2f9d3c916e9_0_126",
+        "box": [
+          534.827,
+          25.213,
+          175.5,
+          17.25
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 068 Date - Newspaper Date 1926-04-02 2 of 5.png",
+        "matchScore": 10.8
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 69,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_59",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2f9d3c916e9_0_67",
+        "box": [
+          67.015,
+          12.0,
+          495.782,
+          338.348
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 069 Clipping - Public Sale Of Salvaged Congregational Church Furnishings 1 of 2.png",
+        "matchScore": 4.2
+      },
+      {
+        "id": "g2f9d3c916e9_0_68",
+        "box": [
+          519.063,
+          194.625,
+          187.5,
+          15.75
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 069 Date - Newspaper Date 1926-04-06 2 of 2.png",
+        "matchScore": 9.3
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 70,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_77",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2f9d3c916e9_0_84",
+        "box": [
+          137.858,
+          12.0,
+          504.655,
+          341.293
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 070 Clipping - First Congregational New Church Newspaper Rendering 1 of 2.png",
+        "matchScore": 3.1
+      },
+      {
+        "id": "g2f9d3c916e9_0_85",
+        "box": [
+          14.267,
+          194.624,
+          173.25,
+          15.75
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 070 Date - Newspaper Date 1926-04-02 2 of 2.png",
+        "matchScore": 16.9
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 71,
+    "elements": [
+      {
+        "id": "g2fc9d28a78a_0_3",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2fc9d28a78a_0_14",
+        "box": [
+          14.268,
+          54.76,
+          649.126,
+          267.715
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0,
+          "topOffset": 0.16944899,
+          "bottomOffset": 0.24684799
+        },
+        "rotation": 0,
+        "source": "SLIDE 071 Photo - First Congregational church exterior in 1940s 1 of 1.png",
+        "matchScore": 69.5
+      },
+      {
+        "id": "g2fc9d28a78a_0_44",
+        "box": [
+          235.382,
+          22.6,
+          249.236,
+          23.22
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "“1940s Building Outside”\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 72,
+    "elements": [
+      {
+        "id": "g2fc9d28a78a_0_24",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2fc9d28a78a_0_45",
+        "box": [
+          137.989,
+          12.0,
+          444.022,
+          348.407
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 072 Photo - First Congregational 1928 building sunken garden 1 of 1.png",
+        "matchScore": 2.9
+      },
+      {
+        "id": "g2fc9d28a78a_0_46",
+        "box": [
+          14.268,
+          131.945,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "“1928 Building Sunken Garden”\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 73,
+    "elements": [
+      {
+        "id": "g2fc9d28a78a_0_33",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2fc9d28a78a_0_47",
+        "box": [
+          503.953,
+          12.0,
+          75.722,
+          349.118
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0,
+          "topOffset": 0,
+          "bottomOffset": 0.84722793
+        },
+        "rotation": 90,
+        "source": "SLIDE 073 Clipping - The Cornerstone Story Downtown Churches Rebuilt 1 of 2.png"
+      },
+      {
+        "id": "g2fc9d28a78a_0_48",
+        "box": [
+          12.0,
+          12.0,
+          176.146,
+          139.866
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0.048690084,
+          "rightOffset": 0.69916034,
+          "topOffset": 0.1527532,
+          "bottomOffset": 0.7022646
+        },
+        "rotation": 0,
+        "source": "SLIDE 073 Clipping - The Cornerstone Story Downtown Churches Rebuilt 1 of 2.png"
+      },
+      {
+        "id": "g2fc9d28a78a_0_49",
+        "box": [
+          188.146,
+          147.947,
+          146.677,
+          26.29
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0.26444083,
+          "rightOffset": 0.49131715,
+          "topOffset": 0.9683006,
+          "bottomOffset": -1.8626451e-08
+        },
+        "rotation": 0,
+        "source": "SLIDE 073 Clipping - The Cornerstone Story Downtown Churches Rebuilt 1 of 2.png"
+      },
+      {
+        "id": "g2fc9d28a78a_0_50",
+        "box": [
+          12.0,
+          151.866,
+          176.146,
+          87.606
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0.2872488,
+          "rightOffset": 0.46060163,
+          "topOffset": 0.1586059,
+          "bottomOffset": 0.7505857
+        },
+        "rotation": 0,
+        "source": "SLIDE 073 Clipping - The Cornerstone Story Downtown Churches Rebuilt 1 of 2.png"
+      },
+      {
+        "id": "g2fc9d28a78a_0_51",
+        "box": [
+          12.0,
+          239.472,
+          176.146,
+          95.911
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0.27495572,
+          "rightOffset": 0.4606129,
+          "topOffset": 0.25165778,
+          "bottomOffset": 0.64408
+        },
+        "rotation": 0,
+        "source": "SLIDE 073 Clipping - The Cornerstone Story Downtown Churches Rebuilt 1 of 2.png"
+      },
+      {
+        "id": "g2fc9d28a78a_0_52",
+        "box": [
+          188.146,
+          12.0,
+          146.677,
+          135.947
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0.26752752,
+          "rightOffset": 0.48698938,
+          "topOffset": 0.7998946,
+          "bottomOffset": 0.035341784
+        },
+        "rotation": 0,
+        "source": "SLIDE 073 Clipping - The Cornerstone Story Downtown Churches Rebuilt 1 of 2.png"
+      },
+      {
+        "id": "g2fc9d28a78a_0_54",
+        "box": [
+          188.146,
+          174.236,
+          146.677,
+          128.574
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0.5045953,
+          "rightOffset": 0.24222094,
+          "topOffset": 0.6173304,
+          "bottomOffset": 0.2219651
+        },
+        "rotation": 0,
+        "source": "SLIDE 073 Clipping - The Cornerstone Story Downtown Churches Rebuilt 1 of 2.png"
+      },
+      {
+        "id": "g2fc9d28a78a_0_55",
+        "box": [
+          334.823,
+          79.695,
+          157.618,
+          255.258
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0.74431354,
+          "rightOffset": 0.023349851,
+          "topOffset": 0.61733276,
+          "bottomOffset": 0.08988434
+        },
+        "rotation": 0,
+        "source": "SLIDE 073 Clipping - The Cornerstone Story Downtown Churches Rebuilt 1 of 2.png"
+      },
+      {
+        "id": "g2fc9d28a78a_0_56",
+        "box": [
+          188.146,
+          302.809,
+          146.677,
+          45.577
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0.50458914,
+          "rightOffset": 0.2525981,
+          "topOffset": 0.7812937,
+          "bottomOffset": 0.16407344
+        },
+        "rotation": 0,
+        "source": "SLIDE 073 Clipping - The Cornerstone Story Downtown Churches Rebuilt 1 of 2.png"
+      },
+      {
+        "id": "g2fc9d28a78a_0_57",
+        "box": [
+          334.823,
+          12.0,
+          157.618,
+          68.146
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0.50458914,
+          "rightOffset": 0.2525981,
+          "topOffset": 0.8341024,
+          "bottomOffset": 0.089881465
+        },
+        "rotation": 0,
+        "source": "SLIDE 073 Clipping - The Cornerstone Story Downtown Churches Rebuilt 1 of 2.png"
+      },
+      {
+        "id": "g2fc9d28a78a_0_58",
+        "box": [
+          607.896,
+          188.202,
+          93.902,
+          14.935
+        ],
+        "kind": "image",
+        "crop": {
+          "leftOffset": 0.47721025,
+          "rightOffset": 0.25067347,
+          "topOffset": 0,
+          "bottomOffset": 0.9686601
+        },
+        "rotation": 0,
+        "source": "SLIDE 073 Clipping - The Cornerstone Story Downtown Churches Rebuilt 1 of 2.png"
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 74,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_262",
+        "box": [
+          14.268,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": false
+      },
+      {
+        "id": "g2fa2b6f4c83_0_52",
+        "box": [
+          189.353,
+          12.0,
+          341.294,
+          341.294
+        ],
+        "kind": "video",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 074 Model - First Congregational church and courtyard digital model 1 of 1.jpg",
+        "matchScore": 0.6
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 75,
+    "elements": [
+      {
+        "id": "g2f9d3c916e9_0_268",
+        "box": [
+          594.972,
+          12.0,
+          111.591,
+          115.488
+        ],
+        "border": {
+          "color": "#241d19",
+          "width": 0.75
+        },
+        "kind": "shape",
+        "fill": "#eeeeee",
+        "shape": "HALF_FRAME",
+        "flip": true
+      },
+      {
+        "id": "g2fa2b6f4c83_0_49",
+        "box": [
+          130.681,
+          59.646,
+          526.604,
+          296.215
+        ],
+        "kind": "video",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 075 Video thumbnail - Third Church Building Digital Model And History 1 of 1.jpg",
+        "matchScore": 2.1
+      },
+      {
+        "id": "g2fa2b6f4c83_0_50",
+        "box": [
+          6.165,
+          20.943,
+          119.693,
+          65.787
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "start",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Video: Me\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": "Models: Me\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": "Music: Me\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": "Script: Me/ChatGPT4\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          },
+          {
+            "text": "Voice: OpenAI Ember\n",
+            "size": 10,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 76,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_202",
+        "box": [
+          12.0,
+          12.0,
+          578.368,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 018 Photo - Academy Street and Congregational Church postcard 1 of 1 (also SLIDE 076).png",
+        "matchScore": 0.6
+      },
+      {
+        "id": "g2fed33d0784_0_315",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Academy Street 1914\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 77,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_203",
+        "box": [
+          12.0,
+          12.0,
+          577.272,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 077 Photo - Birds Eye View South Burdick Street Postcard 1 of 1.png",
+        "matchScore": 1.6
+      },
+      {
+        "id": "g2fed33d0784_0_317",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Aerial South Burdick 1911\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 78,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_204",
+        "box": [
+          12.0,
+          12.0,
+          585.591,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 016 Photo - Framed Bronson Park photograph 1 of 2 (also SLIDE 078).png",
+        "matchScore": 1.0
+      },
+      {
+        "id": "g2fed33d0784_0_318",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Bronson Park 1910\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 79,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_205",
+        "box": [
+          12.0,
+          12.0,
+          588.872,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 016 Photo - Bronson Park illuminated electric fountain postcard 2 of 2 (also SLIDE 079).png",
+        "matchScore": 2.4
+      },
+      {
+        "id": "g2fed33d0784_0_319",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Bronson Park Fountain 1930\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 80,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_206",
+        "box": [
+          12.0,
+          12.0,
+          581.679,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 080 Photo - South Burdick Street Postcard 1 of 1.png",
+        "matchScore": 1.6
+      },
+      {
+        "id": "g2fed33d0784_0_320",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Burdick 1908\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 81,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_207",
+        "box": [
+          12.0,
+          12.0,
+          592.42,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 081 Photo - Burdick Street Looking North Postcard 1 of 1.png",
+        "matchScore": 2.6
+      },
+      {
+        "id": "g2fed33d0784_0_321",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Burdick 1910\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 82,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_232",
+        "box": [
+          12.0,
+          12.0,
+          580.258,
+          370.398
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 009 Photo - Central Fire Station Kalamazoo postcard 1 of 1 (also SLIDE 082).jpg",
+        "matchScore": 4.0
+      },
+      {
+        "id": "g2fed33d0784_0_322",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Central Fire Station 1905\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 83,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_233",
+        "box": [
+          12.0,
+          12.0,
+          593.458,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 017 Photo - Elks Temple and Majestic Theatre postcard 1 of 1 (also SLIDE 083).png",
+        "matchScore": 3.6
+      },
+      {
+        "id": "g2fed33d0784_0_323",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Elks Temple 1910\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 84,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_234",
+        "box": [
+          12.0,
+          12.0,
+          578.917,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 084 Photo - Congregational Church Tower Color Postcard 1 of 1.png",
+        "matchScore": 1.8
+      },
+      {
+        "id": "g2fed33d0784_0_324",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "FCC 1910\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 85,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_235",
+        "box": [
+          12.0,
+          12.0,
+          588.417,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 010 Photo - Congregational Church exterior color postcard 1 of 1 (also SLIDE 085).png",
+        "matchScore": 1.1
+      },
+      {
+        "id": "g2fed33d0784_0_325",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "FCC 1920\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 86,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_236",
+        "box": [
+          12.0,
+          12.0,
+          571.858,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 014 Photo - Kalamazoo public library and Methodist Church postcard 2 of 2 (also SLIDE 086).png",
+        "matchScore": 1.9
+      },
+      {
+        "id": "g2fed33d0784_0_326",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Library and ME Church 1910\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 87,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_237",
+        "box": [
+          12.0,
+          12.0,
+          586.154,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 087 Photo - Main Street Looking West Postcard 1 of 1.png",
+        "matchScore": 0.8
+      },
+      {
+        "id": "g2fed33d0784_0_327",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Main Street 1923\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 88,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_238",
+        "box": [
+          12.0,
+          12.0,
+          562.881,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 088 Photo - Main Street East From Rose Street Postcard 1 of 1.png",
+        "matchScore": 1.6
+      },
+      {
+        "id": "g2fed33d0784_0_328",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Main Street East 1910\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 89,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_255",
+        "box": [
+          12.0,
+          12.0,
+          605.964,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 089 Photo - Main Street Looking East With Horse Carriages Postcard 1 of 1.png",
+        "matchScore": 2.5
+      },
+      {
+        "id": "g2fed33d0784_0_329",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Main Street East 1924\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 90,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_256",
+        "box": [
+          12.0,
+          12.0,
+          583.908,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 090 Photo - Main Street Looking West Color Postcard 1 of 1.png",
+        "matchScore": 1.6
+      },
+      {
+        "id": "g2fed33d0784_0_330",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Main Street West 1921\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 91,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_257",
+        "box": [
+          12.0,
+          12.0,
+          598.287,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 015 Photo - Marlborough Building with vintage automobiles 1 of 1 (also SLIDE 091).png",
+        "matchScore": 3.8
+      },
+      {
+        "id": "g2fed33d0784_0_331",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "marlborough building 1920s\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 92,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_258",
+        "box": [
+          12.0,
+          12.0,
+          253.841,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 012 Photo - First Methodist Church tall steeple postcard 1 of 1 (also SLIDE 092).png",
+        "matchScore": 2.7
+      },
+      {
+        "id": "g2fed33d0784_0_332",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Methodist 1920\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 93,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_259",
+        "box": [
+          12.0,
+          12.0,
+          586.154,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 093 Photo - Michigan Avenue Looking East Postcard 1 of 1.png",
+        "matchScore": 1.0
+      },
+      {
+        "id": "g2fed33d0784_0_333",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Michigan Avenue 1930\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 94,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_260",
+        "box": [
+          12.0,
+          12.0,
+          586.195,
+          382.004
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 094 Photo - Birds Eye View From Kalamazoo National Bank Postcard 1 of 1.png",
+        "matchScore": 3.4
+      },
+      {
+        "id": "g2fed33d0784_0_334",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "National Bank Building 1910\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 95,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_293",
+        "box": [
+          12.0,
+          12.0,
+          576.302,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 095 Photo - New Burdick Hotel Postcard 1 of 1.png",
+        "matchScore": 2.2
+      },
+      {
+        "id": "g2fed33d0784_0_335",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "New Burdick Hotel 1912\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 96,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_294",
+        "box": [
+          12.0,
+          12.0,
+          600.0,
+          364.5
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 096 Photo - Portage Street Tree Lined Streetscape Postcard 1 of 1.jpg",
+        "matchScore": 6.4
+      },
+      {
+        "id": "g2fed33d0784_0_336",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Portage Street North 1910\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 97,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_295",
+        "box": [
+          12.0,
+          12.0,
+          600.0,
+          364.5
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 097 Photo - Portage Street Tree Lined Streetscape Postcard 1 of 1.png",
+        "matchScore": 6.6
+      },
+      {
+        "id": "g2fed33d0784_0_341",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Portage Street North 1910\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 98,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_296",
+        "box": [
+          12.0,
+          12.0,
+          237.381,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 011 Photo - First Presbyterian Church postcard 1 of 1 (also SLIDE 098).png",
+        "matchScore": 12.8
+      },
+      {
+        "id": "g2fed33d0784_0_311",
+        "box": [
+          261.381,
+          12.0,
+          291.465,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 098 Photo - Saint Augustine Church Twin Spires Postcard 2 of 2.png",
+        "matchScore": 14.6
+      },
+      {
+        "id": "g2fed33d0784_0_340",
+        "box": [
+          127.89,
+          58.642,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Presby 1910\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      },
+      {
+        "id": "g2fed33d0784_0_367",
+        "box": [
+          507.018,
+          48.652,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "St Augustines Church 1911\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 99,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_312",
+        "box": [
+          12.0,
+          12.0,
+          600.591,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 099 Photo - Upjohn Company Home Office And Laboratories Postcard 1 of 1.png",
+        "matchScore": 3.3
+      },
+      {
+        "id": "g2fed33d0784_0_339",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Upjohn 1920\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 100,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_305",
+        "box": [
+          12.0,
+          12.0,
+          605.34,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 013 Photo - Seven of Kalamazoo Forty Churches postcard 1 of 1 (also SLIDE 100).png",
+        "matchScore": 3.5
+      },
+      {
+        "id": "g2fed33d0784_0_338",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "Seven Churches 1907\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 101,
+    "elements": [
+      {
+        "id": "g2fed33d0784_0_313",
+        "box": [
+          12.0,
+          12.0,
+          574.552,
+          381.0
+        ],
+        "kind": "image",
+        "crop": {},
+        "rotation": 0,
+        "source": "SLIDE 101 Photo - West South Street Tree Lined Avenue Postcard 1 of 1.png",
+        "matchScore": 0.5
+      },
+      {
+        "id": "g2fed33d0784_0_337",
+        "box": [
+          595.197,
+          136.833,
+          111.591,
+          87.969
+        ],
+        "kind": "text",
+        "fill": "#f9f4e9",
+        "shape": "TEXT_BOX",
+        "flip": false,
+        "align": "center",
+        "valign": "middle",
+        "runs": [
+          {
+            "text": "West South Street 1909\n",
+            "size": 18,
+            "bold": false,
+            "color": "#241d19"
+          }
+        ]
+      }
+    ],
+    "unresolved": [],
+    "unassigned": []
+  },
+  {
+    "slide": 102,
+    "elements": [],
+    "unresolved": [],
+    "unassigned": []
+  }
+]

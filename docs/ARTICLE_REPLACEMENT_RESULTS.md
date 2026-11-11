@@ -1,0 +1,16 @@
+## Latest replacement run - 2026-11-11
+
+- New video: `ignore/YTDown.com_YouTube_Media_vpE_LWm_Y08_DRAFT-The-Four-Churches-First-Test_004_720p.mp4`. 13,686,864 bytes; H.264 1280x720 plus non-silent AAC; 60.116 seconds. Replaces the old 62.6 MB TEST file. Builder removes obsolete hashed output assets, preserving originals.
+- Explicit labels for all 101 displayed slides: `sources/slide-titles.json`. HTML separator uses an entity to avoid encoding corruption. Do not derive menu titles from the first sentence or abbreviations such as FCC/MEC/Pres.
+- Article scripts: `sources/narration/articles.json` and `article-01.txt` through `article-26.txt`. The first 25 come from the approved Gazette Article Contents export without historical rewriting. Script 26 was manually transcribed from the named slide 73 clipping, checked against the image, then appended to the live Google Doc at Brian's explicit request. Readback confirmed the prior text was unchanged. See `sources/narration/document-update.json`.
+- Brian approved fixing the original audio mismatch: article 16 on slide 51; article 17 on slide 52. All 26 articles now have intended placements on 25 slides (two clips on slide 44). Slide 1's existing opening recording remains separate and unchanged.
+- `python scripts/generate_articles.py --generate` produces paid OpenAI Cedar replacements with exact chunk scripts, request receipts and normalized MP3s under `sources/audio/articles/`. Completed chunks are checked and reused. Ambiguous pending requests stop instead of retrying. `--only article-NN` is available for an isolated unfinished article.
+- `python scripts/select_article_audio.py` selects complete replacements and retains original archive paths. `python scripts/build_site.py` emits the portable local site. Article panels show individual matching scripts; slide 44 switches text with its recording selector.
+- The narration key is in ignored `dev.vars`. Never print it or copy it to the site. Original MP3 archive is untouched. No runtime API calls.
+- Historical transcriptions retain source wording, including the 1963 clipping's apparent typesetting errors. The retrospective identifies arson as a contemporary suspicion and quotes the subsequent denial; do not rewrite suspicion as established fact.
+
+Completed: all 26 paid Cedar replacement readings (81.8 minutes total), plus the unchanged opening reading. All generated MP3s decoded successfully; all chunk scripts reassembled to their approved source scripts exactly; no pending paid requests remain. Original archive files were not modified.
+
+Browser checks passed: corrected slide 6 label and clean menu characters; opening and replacement audio play/pause; silent continuation slide; both slide 44 clips with matching transcripts; slide 51/52 corrections; retrospective transcript; replacement video decoding/playback at 1280x720; fullscreen icon labels; fixed bounds at 1440x900, 390x844 and 844x390. All 240 named image placements retain source hashes. These checks do not establish a full human listening review of 81.8 minutes or physical-phone testing.
+
+Output: `ignore/named-presentation/index.html`. Browser smoke check: `python scripts/check_audio.py`. File validation evidence: `sources/audio/articles/validation.json`. Local only; no deployment performed.

@@ -1,0 +1,108 @@
+body { margin: 0; background: #241713; }
+#church-concept { height: auto; display: block; max-width: 1440px; margin: auto; }
+#church-concept.is-paged {
+  display: grid;
+  height: min(900px, 100dvh);
+  grid-template-rows: minmax(0, 1fr) 64px;
+}
+#church-concept:fullscreen, #church-concept.expanded {
+  width: 100%; height: 100dvh; max-width: none;
+}
+#church-concept.expanded { position: fixed; inset: 0; z-index: 10; }
+#slides { min-height: 0; min-width: 0; }
+#church-concept.is-paged .stage { height: 100%; }
+#church-concept .material { grid-row: 3; grid-column: 1; min-height: 0; overflow: auto; color: white; }
+#church-concept .material p { margin: 0 0 .6rem; line-height: 1.5; }
+#church-concept .media { display: grid; grid-template-columns: repeat(var(--columns), minmax(0, 1fr)); gap: 10px; }
+#church-concept .media a { display: block; min-width: 0; min-height: 0; }
+#church-concept .media img { max-height: 350px; }
+#church-concept .media video { width: 100%; max-height: 350px; grid-column: 1 / -1; }
+#church-concept.is-paged .material:has(.media > a):not(:has(p)) .media { height: 100%; grid-auto-rows: minmax(0, 1fr); }
+#church-concept.is-paged .material:has(.media > a):not(:has(p)) img { max-height: none; }
+#church-concept footer { display: flex; flex-direction: row; align-items: center; gap: 8px; overflow-x: auto; overflow-y: hidden; white-space: nowrap; }
+#church-concept .navigation, #church-concept .actions { display: contents; }
+#church-concept #page { flex: 1; min-width: 0; }
+#church-concept select { min-height: 44px; max-width: 100%; background: var(--paper); }
+#audio-status { font-size: .8rem; }
+#church-concept:not(.is-paged) .stage { grid-template-rows: auto auto auto; border-bottom: 2px solid #75241d; }
+#church-concept:not(.is-paged) .transcript { grid-row: 4; }
+#church-concept :focus-visible { outline: 3px solid #1a74af; outline-offset: -3px; }
+.sr-only { position: absolute; top: 0; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+
+.slide-frame { display: none; }
+#church-concept.is-paged { grid-template-rows: minmax(0, 1fr) 64px; }
+#church-concept.is-paged .stage:not([hidden]) { display: block; position: relative; padding: 0; }
+#church-concept.is-paged .stage > :is(header, .heading, .material) {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+}
+#church-concept.is-paged .material:focus-within {
+  width: auto;
+  height: auto;
+  clip-path: none;
+  inset: 0;
+  background: var(--brick, #ac3025);
+  z-index: 2;
+}
+.is-paged .slide-frame { display: grid; place-items: center; height: 100%; container-type: size; }
+.slide-canvas { position: relative; width: min(100cqw, 177.7778cqh); aspect-ratio: 16 / 9; overflow: hidden; }
+.slide-canvas svg { display: block; width: 100%; height: 100%; }
+.slide-canvas video { background: black; }
+#church-concept.is-paged .stage > .transcript {
+  position: absolute;
+  inset: 12px;
+  z-index: 3;
+  overflow: auto;
+  overscroll-behavior: contain;
+}
+@media (max-width: 560px) {
+  #church-concept.is-paged { grid-template-rows: minmax(0, 1fr) 64px; }
+}
+
+.slide-canvas { container-type: inline-size; background: #ac3025; }
+.slide-canvas .placed { position: absolute; display: block; }
+.slide-canvas .placed img, .slide-canvas .placed video { position: static; width: 100%; height: 100%; object-fit: contain; }
+.slide-canvas .native-text { display: flex; flex-direction: column; font: 2cqw/1.16 Arial, sans-serif; padding: .65cqw; overflow-wrap: normal; }
+.slide-canvas .text-content { width: 100%; white-space: pre-wrap; }
+.slide-canvas .corner { clip-path: polygon(0 0,100% 0,73% 27%,27% 27%,27% 73%,0 100%); }
+.slide-canvas .right-arrow { clip-path: polygon(0 30%,60% 30%,60% 0,100% 50%,60% 100%,60% 70%,0 70%); }
+.slide-canvas .slide-arrow { position: absolute; inset: 0; pointer-events: none; }
+.missing-media { position: absolute; bottom: 1%; left: 2%; color: white; font-size: 2cqw; }
+#church-concept footer { justify-content: flex-start; }
+#church-concept .navigation, #church-concept .actions { justify-content: center; }
+#church-concept footer :is(button,select) {
+  font: 600 .9rem Arial,sans-serif; min-height: 44px; border: 1px solid #cfaa92;
+  border-radius: 6px; padding: 0 .85rem; color: #241d19; background: #f9f4e9;
+}
+#church-concept footer button:hover:not(:disabled), #church-concept footer [aria-pressed="true"] { background: #ecd6bd; }
+#church-concept footer button:disabled { opacity: 1; color: #5e493e; background: #ddc2ae; cursor: default; }
+#church-concept footer :focus-visible { outline: 3px solid #f5b764; outline-offset: 2px; }
+#church-concept footer button { flex: 0 0 auto; }
+#church-concept #previous, #church-concept #next { width: 5.5rem; }
+#church-concept #chapter { flex: 0 0 10rem; width: 10rem; }
+#church-concept #page { flex: 1 0 12rem; width: 12rem; text-overflow: ellipsis; }
+#audio-status { flex: 0 0 8rem; min-width: 8rem; text-align: center; color: #f2dbcc; }
+@media(max-width: 560px) {
+  #church-concept footer :is(button,select) { padding-inline: .55rem; font-size: .8rem; }
+}
+
+/* Icon controls keep their positions and accessible names. */
+#church-concept footer #previous, #church-concept footer #next,
+#church-concept footer #fullscreen, #church-concept footer #narration { width:44px; min-width:44px; padding:9px; flex:0 0 44px; }
+#church-concept button svg { width:24px; height:24px; fill:none; stroke:currentColor; stroke-width:1.8; stroke-linecap:round; stroke-linejoin:round; vertical-align:middle; }
+#church-concept #narration:disabled, #church-concept .cover-speaker:disabled { background:#d3cfca; color:#777; opacity:.65; cursor:default; }
+#church-concept button[aria-pressed="true"] { background:#e6bb82; }
+#church-concept .cover-speaker { position:absolute; left:61%; top:73%; width:9cqw; height:9cqw; border:2px solid #f9f4e9; border-radius:50%; background:#f9f4e9; color:#74251d; display:grid; place-items:center; }
+#church-concept .cover-speaker svg { width:5cqw; height:5cqw; }
+#church-concept #recording { max-width:15rem; }
+#church-concept [hidden] { display:none !important; }
+#church-concept .cover-speaker { left:67%; transform:translateX(-50%); }
+.external-video { width:100%; height:100%; display:grid; grid-template-rows:minmax(0,1fr) auto; background:#171311; color:#f9f4e9; }
+#church-concept .external-video button { border:0; border-radius:0; background:#241d19; color:#f9f4e9; font:600 2cqw Arial; display:flex; flex-direction:column; gap:1cqw; align-items:center; justify-content:center; cursor:pointer; }
+.external-video button span { font-size:5cqw; }
+.external-video iframe { width:100%; height:100%; border:0; }
+.external-video a { color:#f9f4e9; text-align:center; font:1.2cqw Arial; padding:.6cqw; }
+.project-link { position:absolute; right:2%; bottom:2%; background:#f9f4e9; color:#74251d; padding:.7cqw 1cqw; font:600 1.4cqw Arial; border-radius:4px; }

@@ -1,0 +1,294 @@
+{
+  "1": [
+    {
+      "title": "Opening reading",
+      "source": "sources/audio/opening-reading.mp3",
+      "script": "sources/extracted/excerpts.txt",
+      "assignment": "Explicit addition requested by Brian 2026-11-11"
+    }
+  ],
+  "21": [
+    {
+      "title": "THE KALAMAZOO GAZETTE",
+      "source": "sources/audio/articles/article-01/reading.mp3",
+      "script": "sources/narration/article-01.txt",
+      "article_id": "article-01",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\01 Congregational Church Burns.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "29": [
+    {
+      "title": "2 DIE IN M.E. CHURCH FIRE",
+      "source": "sources/audio/articles/article-02/reading.mp3",
+      "script": "sources/narration/article-02.txt",
+      "article_id": "article-02",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\02 2 Die in ME Church Fire.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "31": [
+    {
+      "title": "THREE LINES OF HOSE BURST",
+      "source": "sources/audio/articles/article-03/reading.mp3",
+      "script": "sources/narration/article-03.txt",
+      "article_id": "article-03",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\03 Three Lines of Hose Burst.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "32": [
+    {
+      "title": "METHODIST CHURCH TO BE TORN DOWN",
+      "source": "sources/audio/articles/article-04/reading.mp3",
+      "script": "sources/narration/article-04.txt",
+      "article_id": "article-04",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\04 Methodist Church to be Torn Down.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "33": [
+    {
+      "title": "FIFTH CHURCH FIRE CAUSES $500 LOSS",
+      "source": "sources/audio/articles/article-05/reading.mp3",
+      "script": "sources/narration/article-05.txt",
+      "article_id": "article-05",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\05 Fifth Church Fire Causes 500 Loss.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "34": [
+    {
+      "title": "PROBING NEW CHURCH FIRE",
+      "source": "sources/audio/articles/article-06/reading.mp3",
+      "script": "sources/narration/article-06.txt",
+      "article_id": "article-06",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\06 Probing New Church Fire.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "35": [
+    {
+      "title": "PRESBYTERIAN CHURCH FIRE: LOSS $100,000",
+      "source": "sources/audio/articles/article-07/reading.mp3",
+      "script": "sources/narration/article-07.txt",
+      "article_id": "article-07",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\07 Presbyterian Church Fire Loss 100000.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "39": [
+    {
+      "title": "FALLING BALCONY CRUSHES FIREMEN",
+      "source": "sources/audio/articles/article-08/reading.mp3",
+      "script": "sources/narration/article-08.txt",
+      "article_id": "article-08",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\08 Falling Balcony Crushes Firemen.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "43": [
+    {
+      "title": "\"BRAVE MEN AND GOOD FIREMEN.\"",
+      "source": "sources/audio/articles/article-09/reading.mp3",
+      "script": "sources/narration/article-09.txt",
+      "article_id": "article-09",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\09 Brave Men and Good Firemen.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "44": [
+    {
+      "title": "BURY JOHN MORREN WITH FULL HONORS",
+      "source": "sources/audio/articles/article-10/reading.mp3",
+      "script": "sources/narration/article-10.txt",
+      "article_id": "article-10",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\10 Bury John Morren with Full Honors.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    },
+    {
+      "title": "MEMORIAL WILL BE HELD FOR FIREMEN",
+      "source": "sources/audio/articles/article-11/reading.mp3",
+      "script": "sources/narration/article-11.txt",
+      "article_id": "article-11",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\11 Memorial will be Held for Firemen.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "45": [
+    {
+      "title": "THE BEST REWARD FOR VALOR.",
+      "source": "sources/audio/articles/article-12/reading.mp3",
+      "script": "sources/narration/article-12.txt",
+      "article_id": "article-12",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\12 The Best Reward for Valor.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "47": [
+    {
+      "title": "FUTURE OF SIX FATHERLESS TOTS, WHOSE DADDIES GAVE LIVES TO CITY, DEPENDS ON RELIEF DRIVE.",
+      "source": "sources/audio/articles/article-13/reading.mp3",
+      "script": "sources/narration/article-13.txt",
+      "article_id": "article-13",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\13 Future of Sic Fathless Tots.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "48": [
+    {
+      "title": "HOPES TO RAISE $4,000.",
+      "source": "sources/audio/articles/article-14/reading.mp3",
+      "script": "sources/narration/article-14.txt",
+      "article_id": "article-14",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\14 Hopes to Raise 4000.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "50": [
+    {
+      "title": "FIRE ORIGIN UNKNOWN",
+      "source": "sources/audio/articles/article-15/reading.mp3",
+      "script": "sources/narration/article-15.txt",
+      "article_id": "article-15",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\15 Fire Origin Unknown.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "51": [
+    {
+      "title": "FEARS WALLS MAY CRUMBLE.",
+      "source": "sources/audio/articles/article-16/reading.mp3",
+      "script": "sources/narration/article-16.txt",
+      "article_id": "article-16",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\16 Fears Walls May Crumble.mp3",
+      "assignment": "User-approved correction for slides 51/52",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "52": [
+    {
+      "title": "ANOTHER CHURCH FIRE",
+      "source": "sources/audio/articles/article-17/reading.mp3",
+      "script": "sources/narration/article-17.txt",
+      "article_id": "article-17",
+      "original_audio": "G:/My Drive/Church Fires Presentation/Gazette Article Audios/17 Another Church Fire.mp3",
+      "assignment": "User-approved correction for slides 51/52",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "53": [
+    {
+      "title": "CHURCH CORNERSTONE YIELDS OLD BOX OF HISTORICAL DATA",
+      "source": "sources/audio/articles/article-18/reading.mp3",
+      "script": "sources/narration/article-18.txt",
+      "article_id": "article-18",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\18 Church Cornerstone.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "56": [
+    {
+      "title": "DISCUSS ORIGIN OF FIRE",
+      "source": "sources/audio/articles/article-19/reading.mp3",
+      "script": "sources/narration/article-19.txt",
+      "article_id": "article-19",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\19 Discuss Origin of Fire.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "57": [
+    {
+      "title": "RED HOT FLUE RAZED CHURCH, PROBERS FIND",
+      "source": "sources/audio/articles/article-20/reading.mp3",
+      "script": "sources/narration/article-20.txt",
+      "article_id": "article-20",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\20 Red Hot Flue Razed Church.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "58": [
+    {
+      "title": "Flames breaking out at 11:20 pm completely destroy structure at Rose and South Streets.",
+      "source": "sources/audio/articles/article-21/reading.mp3",
+      "script": "sources/narration/article-21.txt",
+      "article_id": "article-21",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\21 Set by Firebug Belief.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "59": [
+    {
+      "title": "PRESBYTERIAN CHURCH FIRE LOSS $100,000",
+      "source": "sources/audio/articles/article-22/reading.mp3",
+      "script": "sources/narration/article-22.txt",
+      "article_id": "article-22",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\22 Presby Church Fire Loss 100000.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "61": [
+    {
+      "title": "PRESBYTERIANS WILL MEET AT H.S. AUDITORIUM",
+      "source": "sources/audio/articles/article-23/reading.mp3",
+      "script": "sources/narration/article-23.txt",
+      "article_id": "article-23",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\23 Presbys WIll Meet at HS.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "67": [
+    {
+      "title": "BURNED CHURCH TO BE REBUILT BY FALL OF '26",
+      "source": "sources/audio/articles/article-24/reading.mp3",
+      "script": "sources/narration/article-24.txt",
+      "article_id": "article-24",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\24 Burned Church to be Rebuilt.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "68": [
+    {
+      "title": "START WORK ON $250,000 CHURCH BY MAY 15, PLAN",
+      "source": "sources/audio/articles/article-25/reading.mp3",
+      "script": "sources/narration/article-25.txt",
+      "article_id": "article-25",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\25 Start Work on 250000 Church.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ],
+  "73": [
+    {
+      "title": "The Cornerstone Story: Downtown Churches Rebuilt Following 1925-26 Fires",
+      "source": "sources/audio/articles/article-26/reading.mp3",
+      "script": "sources/narration/article-26.txt",
+      "article_id": "article-26",
+      "original_audio": "G:\\My Drive\\Church Fires Presentation\\Gazette Article Audios\\26 1960s Retrospective on Arsons.mp3",
+      "assignment": "Original native placement",
+      "voice": "OpenAI Cedar"
+    }
+  ]
+}

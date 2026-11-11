@@ -1,0 +1,18 @@
+{
+  "id": "article-04",
+  "script": "sources/narration/article-04.txt",
+  "paragraph_start": 49,
+  "paragraph_end_exclusive": 53,
+  "slides": [
+    32
+  ],
+  "title": "METHODIST CHURCH TO BE TORN DOWN",
+  "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+  "approved": "User accepted Gazette Article Contents as accurate",
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts",
+  "voice": "cedar",
+  "chunks": 1,
+  "sha256": "32d0772bf288bc9c3c2dd62ffde53f454cfe401d71fb49f6225bb24dd8be66c5",
+  "full_listening_review": "not performed"
+}

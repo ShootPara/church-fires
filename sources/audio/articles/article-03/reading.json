@@ -1,0 +1,18 @@
+{
+  "id": "article-03",
+  "script": "sources/narration/article-03.txt",
+  "paragraph_start": 37,
+  "paragraph_end_exclusive": 49,
+  "slides": [
+    31
+  ],
+  "title": "THREE LINES OF HOSE BURST",
+  "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+  "approved": "User accepted Gazette Article Contents as accurate",
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts",
+  "voice": "cedar",
+  "chunks": 1,
+  "sha256": "cb47fbcc7bb8f50035d50d39c848b3243c21737104957592950529792060937d",
+  "full_listening_review": "not performed"
+}

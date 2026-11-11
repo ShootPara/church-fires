@@ -1,0 +1,12 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts",
+  "voice": "cedar",
+  "instructions": "Read this historical newspaper article verbatim, with a warm, resonant documentary delivery. Dignified, engaging, measured American English. Moderate consistent pace. No introductions, commentary, music or sound effects. Pronounce Kalamazoo kal-uh-muh-ZOO. Read newspaper headings naturally; do not shout capital letters.",
+  "script_sha256": "d52415bafe401944f0f946ec3469cdd09aeb22ebbd4d47b91f0c1d0b95cf9dae",
+  "script": "sources\\audio\\articles\\article-08\\04.txt",
+  "source": "sources/narration/article-08.txt",
+  "generated_utc": "2026-11-11T16:09:58.804725+00:00",
+  "request_id": "req_0a5effe6971740878f6ec70aa067b4b4",
+  "audio_sha256": "d8824640484346cad42a130b983584e183d765f8678a6b758325d18a3cb722f3"
+}

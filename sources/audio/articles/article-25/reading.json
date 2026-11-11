@@ -1,0 +1,18 @@
+{
+  "id": "article-25",
+  "script": "sources/narration/article-25.txt",
+  "paragraph_start": 332,
+  "paragraph_end_exclusive": 338,
+  "slides": [
+    68
+  ],
+  "title": "START WORK ON $250,000 CHURCH BY MAY 15, PLAN",
+  "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+  "approved": "User accepted Gazette Article Contents as accurate",
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts",
+  "voice": "cedar",
+  "chunks": 1,
+  "sha256": "43348a01c2d6c1e06f87dbdc40c72db35286ba7edaf7ffe4530c1f0967de9956",
+  "full_listening_review": "not performed"
+}

@@ -1,0 +1,12 @@
+{
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts",
+  "voice": "cedar",
+  "script": "sources/extracted/excerpts.txt",
+  "duration_seconds": 895.320816,
+  "sha256": "b790012d51fa4e3e49802a6b5db7cc64ca92dbd4150afab4d9239683f83acf39",
+  "chunks": 7,
+  "normalization": "-16 LUFS, -1.5 dBTP target",
+  "full_listening_review": "Not performed; browser playback and decoding verified",
+  "generation_receipts": "opening-01.json through opening-07.json"
+}

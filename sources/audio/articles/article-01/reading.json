@@ -1,0 +1,18 @@
+{
+  "id": "article-01",
+  "script": "sources/narration/article-01.txt",
+  "paragraph_start": 0,
+  "paragraph_end_exclusive": 22,
+  "slides": [
+    21
+  ],
+  "title": "THE KALAMAZOO GAZETTE",
+  "source_document": "1-VtFJRzG7h7WN0zO37hNezaNp66vlPzbluVLFXgBlek",
+  "approved": "User accepted Gazette Article Contents as accurate",
+  "provider": "OpenAI",
+  "model": "gpt-4o-mini-tts",
+  "voice": "cedar",
+  "chunks": 2,
+  "sha256": "6d31427c129dbfaf53adce6598b4dfec5056056f2b3ceb177f1ad0a135ecdac2",
+  "full_listening_review": "not performed"
+}
