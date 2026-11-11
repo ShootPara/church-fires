@@ -24,7 +24,7 @@ You need GitHub write access to ShootPara/church-fires. A fresh clone does not g
 1. Read `git status`, create a branch for the work, edit the source files described in the handoff, and build/validate.
 2. Review `git diff` and `git diff --cached`. Never stage credentials, generated `dist`, old audio intermediates or unrelated local files. Add the intended source/docs/assets explicitly.
 3. Commit and push the branch, then open a pull request to `main`. After authorized review/merge, the push to `main` triggers deployment. Direct pushes are suitable only when the owner has authorized that workflow.
-4. In GitHub, open **Actions → Deploy GitHub Pages** and watch the newest run. Both validation and deployment must succeed. The `github-pages` environment displays the deployed URL.
+4. In GitHub, open **Actions → Deploy GitHub Pages** and watch the newest run. Both validation and deployment must succeed. The `github-pages` environment displays the deployed URL. Documentation-only status updates may use `[skip ci]` in the commit message when the site content is unchanged; never use that marker for a change that must deploy.
 5. Verify the public URL in a fresh browser tab. Check slide 1, one article speaker and transcript, both slide 44 recordings, corrected slides 51/52, the retrospective on 73, local video on 75, the YouTube links on 19/20 and the repository link on 101. Enter/exit fullscreen and confirm the footer remains at the bottom. Check the network panel for missing local files.
 6. Record the commit, Actions run URL, hosted checks and limits in `docs/DEPLOYMENT_STATUS.md`. Do not claim a deployment merely because the push succeeded.
 
