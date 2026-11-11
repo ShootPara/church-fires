@@ -57,3 +57,7 @@ Slide 101's repository link lets viewers clone the project. Keep it within slide
 ## Verification limits
 
 All final narration files decoded; scripts were matched exactly to generated chunk inputs. That is not a human word-for-word listening audit of 81.8 minutes. Desktop browser playback, titles, key transcripts, fixed bounds at desktop/phone viewport sizes and named-image hashes were checked. Physical-phone behavior and unrestricted YouTube embedding on every visitor's network are not established. Production deployment evidence belongs in `docs/DEPLOYMENT_STATUS.md`.
+
+## Lossless image optimization
+
+The build selects committed, pixel-verified lossless WebP derivatives from `sources/optimized-media/manifest.json`, keeping original named sources unchanged. Dimensions and decoded RGBA pixels are identical. Ordinary builds still need only Python standard library. To deliberately regenerate derivatives after image edits, install Pillow 10.2.0 and run `python scripts/optimize_images.py`, review its verification results, then commit derivatives and manifest with the source change. Asset manifests distinguish original `source_sha256` from deployed `sha256`. Audio and video quality are unchanged.

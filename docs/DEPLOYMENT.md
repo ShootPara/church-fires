@@ -62,3 +62,7 @@ Prefer `git revert BAD_COMMIT` on a reviewed branch, merge/push to `main`, and l
 - **Narration fails:** inspect the local MP3 URL and asset manifest, verify the final recording exists, and rebuild. Do not make a paid API request to fix a missing deployment file.
 
 Reference: https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages .
+
+## Lossless image optimization
+
+The build selects committed, pixel-verified lossless WebP derivatives from `sources/optimized-media/manifest.json`, keeping original named sources unchanged. Dimensions and decoded RGBA pixels are identical. Ordinary builds still need only Python standard library. To deliberately regenerate derivatives after image edits, install Pillow 10.2.0 and run `python scripts/optimize_images.py`, review its verification results, then commit derivatives and manifest with the source change. Asset manifests distinguish original `source_sha256` from deployed `sha256`. Audio and video quality are unchanged.

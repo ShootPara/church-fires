@@ -21,20 +21,28 @@ layouts = {row["slide"]: row for row in json.loads((root / "sources/slide-layout
 urls = {}
 by_slide = {}
 manifest = []
+optimized = json.loads((root / 'sources/optimized-media/manifest.json').read_text(encoding='utf-8'))
 for path in sorted(media.iterdir()):
     match = re.match(r"SLIDE (\d+) (.+)", path.stem)
     if not match or path.suffix.lower() not in {".jpg", ".png", ".jpeg"} or match[2].startswith("Audio icon"):
         continue
-    digest = hashlib.sha256(path.read_bytes()).hexdigest()
-    url = f"assets/{digest[:20]}{path.suffix.lower()}"
-    copyfile(path, out / url)
+    source_digest = hashlib.sha256(path.read_bytes()).hexdigest()
+    selected = path
+    if path.name in optimized:
+        record = optimized[path.name]
+        assert source_digest == record['source_sha256'], f'Regenerate optimization for {path.name}'
+        selected = root / 'sources/optimized-media' / record['file']
+        assert hashlib.sha256(selected.read_bytes()).hexdigest() == record['sha256']
+    digest = hashlib.sha256(selected.read_bytes()).hexdigest()
+    url = f"assets/{digest[:20]}{selected.suffix.lower()}"
+    copyfile(selected, out / url)
     urls[path.name] = url
     label = re.sub(r"\s+\d+ of \d+.*$", "", match[2]).partition(" - ")[2] or match[2]
     numbers = [int(match[1]), *(int(n) for n in re.findall(r"also SLIDE (\d+)", path.stem))]
     ordinal = re.search(r"(\d+) of \d+", path.stem)
     for number in numbers:
         by_slide.setdefault(number, []).append((int(ordinal[1]) if ordinal else 0, label, url))
-    manifest.append({"slides": numbers, "source": path.name, "sha256": digest, "output": url,
+    manifest.append({"slides": numbers, "source": path.name, "source_sha256": source_digest, "sha256": digest, "output": url,
                      "credit": "Brian Ream presentation archive", "rights": "review before publication"})
 
 titles = json.loads((root / "sources/slide-titles.json").read_text(encoding="utf-8"))
@@ -126,7 +134,7 @@ used = {item['output'] for item in manifest}
 for candidate in assets.iterdir():
     if candidate.is_symlink() or not candidate.is_file():
         continue
-    if re.fullmatch(r'[0-9a-f]{20}\.(mp3|mp4|png|jpg|jpeg)', candidate.name):
+    if re.fullmatch(r'[0-9a-f]{20}\.(mp3|mp4|png|jpg|jpeg|webp)', candidate.name):
         assert candidate.resolve().parent == assets.resolve()
         if 'assets/' + candidate.name not in used:
             candidate.unlink()
